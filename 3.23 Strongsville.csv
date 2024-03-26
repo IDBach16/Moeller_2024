@@ -1,0 +1,213 @@
+PitchNo,Date,Time,PAofInning,PAofInning,Pitcher,PitcherTeam,Batter,BatterTeam,Inning,Top/Bottom,Outs,Balls,Strikes,PitchType,PitchResult,AtBatResult,PitchVelo,PitchId,Location,AttackZone
+1,3/23/24,4:11:09 PM,1,1,Zion Theophilus,Moeller,Faris Thabata,Strongsville High School,1,Top,0,0,0,Fast Ball,Strike Looking,,91,,13,Shadow
+2,3/23/24,4:11:23 PM,2,2,Zion Theophilus,Moeller,Faris Thabata,Strongsville High School,1,Top,0,0,1,Fast Ball,Strike In Play,Ground Out,91,,11,Shadow
+3,3/23/24,4:11:49 PM,3,1,Zion Theophilus,Moeller,Brett Kappel,Strongsville High School,1,Top,1,0,0,Fast Ball,Ball,,91,,13,Shadow
+4,3/23/24,4:12:05 PM,4,2,Zion Theophilus,Moeller,Brett Kappel,Strongsville High School,1,Top,1,1,0,Fast Ball,Strike Looking,,90,,5,Heart
+5,3/23/24,4:12:21 PM,5,3,Zion Theophilus,Moeller,Brett Kappel,Strongsville High School,1,Top,1,1,1,Fast Ball,Strike Swing and Miss,,87,,12,Shadow
+6,3/23/24,4:12:36 PM,6,4,Zion Theophilus,Moeller,Brett Kappel,Strongsville High School,1,Top,1,1,2,Fast Ball,Strike In Play,Line Out,88,,16,Shadow
+7,3/23/24,4:13:11 PM,7,1,Zion Theophilus,Moeller,Jude Fisher,Strongsville High School,1,Top,2,0,0,Slider,Strike Looking,,76,,17,Shadow
+8,3/23/24,4:13:23 PM,8,2,Zion Theophilus,Moeller,Jude Fisher,Strongsville High School,1,Top,2,0,1,Fast Ball,Strike Foul,,90,,12,Shadow
+9,3/23/24,4:13:50 PM,9,3,Zion Theophilus,Moeller,Jude Fisher,Strongsville High School,1,Top,2,0,2,Slider,Ball,,81,,32,Waste
+10,3/23/24,4:14:05 PM,10,4,Zion Theophilus,Moeller,Jude Fisher,Strongsville High School,1,Top,2,1,2,Fast Ball,Strike In Play,Fly Out,89,,13,Shadow
+11,3/23/24,4:16:55 PM,1,1,Austin Payne,Strongsville High School,Will McCullough,Moeller,1,Bottom,0,0,0,Fast Ball,Strike Looking,,73,,16,Shadow
+12,3/23/24,4:17:08 PM,2,2,Austin Payne,Strongsville High School,Will McCullough,Moeller,1,Bottom,0,0,1,Breaking Ball,Ball,,68,,22,Chase
+13,3/23/24,4:17:25 PM,3,3,Austin Payne,Strongsville High School,Will McCullough,Moeller,1,Bottom,0,1,1,Breaking Ball,Ball,,69,,39,Waste
+14,3/23/24,4:17:41 PM,4,4,Austin Payne,Strongsville High School,Will McCullough,Moeller,1,Bottom,0,2,1,Fast Ball,Strike Foul,,74,,16,Shadow
+15,3/23/24,4:18:05 PM,5,5,Austin Payne,Strongsville High School,Will McCullough,Moeller,1,Bottom,0,2,2,Fast Ball,Strike Foul,,70,,11,Shadow
+16,3/23/24,4:18:26 PM,6,6,Austin Payne,Strongsville High School,Will McCullough,Moeller,1,Bottom,0,2,2,Fast Ball,Strike In Play,1B,76,,16,Shadow
+17,3/23/24,4:18:54 PM,7,1,Austin Payne,Strongsville High School,Charlie Valencic,Moeller,1,Bottom,0,0,0,Fast Ball,Ball,,71,,28,Chase
+18,3/23/24,4:19:11 PM,8,2,Austin Payne,Strongsville High School,Charlie Valencic,Moeller,1,Bottom,0,1,0,Fast Ball,Strike Swing and Miss,,74,,1,Heart
+19,3/23/24,4:19:58 PM,9,3,Austin Payne,Strongsville High School,Charlie Valencic,Moeller,1,Bottom,0,1,1,Fast Ball,Strike Foul,,72,,16,Shadow
+20,3/23/24,4:20:18 PM,10,4,Austin Payne,Strongsville High School,Charlie Valencic,Moeller,1,Bottom,0,1,2,Change Up,Strike In Play,Ground Out,70,,19,Shadow
+21,3/23/24,4:20:48 PM,11,1,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,1,Bottom,1,0,0,Fast Ball,Strike Looking,,71,,11,Shadow
+22,3/23/24,4:21:05 PM,12,2,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,1,Bottom,1,0,1,Fast Ball,Strike Foul,,70,,16,Shadow
+23,3/23/24,4:21:31 PM,13,3,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,1,Bottom,1,0,2,Fast Ball,Ball,,78,,21,Chase
+24,3/23/24,4:21:47 PM,14,4,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,1,Bottom,1,1,2,Fast Ball,Ball,,71,,29,Chase
+25,3/23/24,4:22:02 PM,15,5,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,1,Bottom,1,2,2,Fast Ball,Ball,,79,,22,Chase
+26,3/23/24,4:22:19 PM,16,6,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,1,Bottom,1,3,2,Fast Ball,Strike In Play,Sacrifice,78,,5,Heart
+27,3/23/24,4:22:56 PM,17,1,Austin Payne,Strongsville High School,Carter Christenson,Moeller,1,Bottom,2,0,0,Breaking Ball,Ball,,68,,11,Shadow
+28,3/23/24,4:23:09 PM,18,2,Austin Payne,Strongsville High School,Carter Christenson,Moeller,1,Bottom,2,1,0,Fast Ball,Strike Looking,,74,,16,Shadow
+29,3/23/24,4:23:20 PM,19,3,Austin Payne,Strongsville High School,Carter Christenson,Moeller,1,Bottom,2,1,1,Fast Ball,Ball,,76,,22,Chase
+30,3/23/24,4:23:34 PM,20,4,Austin Payne,Strongsville High School,Carter Christenson,Moeller,1,Bottom,2,2,1,Fast Ball,Strike Swing and Miss,,73,,17,Shadow
+31,3/23/24,4:23:49 PM,21,5,Austin Payne,Strongsville High School,Carter Christenson,Moeller,1,Bottom,2,2,2,Fast Ball,Strike In Play,Ground Out,77,,16,Shadow
+32,3/23/24,4:25:46 PM,1,1,Zion Theophilus,Moeller,Tommy Farkas,Strongsville High School,2,Top,0,0,0,Slider,Strike Looking,,81,,4,Heart
+33,3/23/24,4:25:59 PM,2,2,Zion Theophilus,Moeller,Tommy Farkas,Strongsville High School,2,Top,0,0,1,Fast Ball,Strike Swing and Miss,,32,,1,Heart
+34,3/23/24,4:26:14 PM,3,3,Zion Theophilus,Moeller,Tommy Farkas,Strongsville High School,2,Top,0,0,2,Slider,Ball,,81,,11,Shadow
+35,3/23/24,4:26:26 PM,4,4,Zion Theophilus,Moeller,Tommy Farkas,Strongsville High School,2,Top,0,1,2,Fast Ball,Strike Foul,,92,,6,Heart
+36,3/23/24,4:26:48 PM,5,5,Zion Theophilus,Moeller,Tommy Farkas,Strongsville High School,2,Top,0,1,2,Slider,Strike Swing and Miss,Strike Out,82,,12,Shadow
+37,3/23/24,4:27:15 PM,6,1,Zion Theophilus,Moeller,Brady Eckert,Strongsville High School,2,Top,1,0,0,Slider,Strike In Play,Ground Out,81,,4,Heart
+38,3/23/24,4:27:43 PM,7,1,Zion Theophilus,Moeller,Keegan Cubbison,Strongsville High School,2,Top,2,0,0,Fast Ball,Ball,,91,,21,Chase
+39,3/23/24,4:28:04 PM,8,2,Zion Theophilus,Moeller,Keegan Cubbison,Strongsville High School,2,Top,2,1,0,Fast Ball,Ball,,90,,29,Chase
+40,3/23/24,4:28:17 PM,9,3,Zion Theophilus,Moeller,Keegan Cubbison,Strongsville High School,2,Top,2,2,0,Fast Ball,Ball,,91,,17,Shadow
+41,3/23/24,4:28:33 PM,10,4,Zion Theophilus,Moeller,Keegan Cubbison,Strongsville High School,2,Top,2,3,0,Fast Ball,Strike Looking,,91,,12,Shadow
+42,3/23/24,4:28:47 PM,11,5,Zion Theophilus,Moeller,Keegan Cubbison,Strongsville High School,2,Top,2,3,1,Fast Ball,Ball,BB,90,,19,Shadow
+43,3/23/24,4:29:11 PM,12,1,Zion Theophilus,Moeller,Evan Hartman,Strongsville High School,2,Top,2,0,0,Fast Ball,Ball,,90,,29,Chase
+44,3/23/24,4:29:26 PM,13,2,Zion Theophilus,Moeller,Evan Hartman,Strongsville High School,2,Top,2,1,0,Fast Ball,Strike Looking,,89,,13,Shadow
+45,3/23/24,4:29:40 PM,14,3,Zion Theophilus,Moeller,Evan Hartman,Strongsville High School,2,Top,2,1,1,Slider,Strike Looking,,80,,16,Shadow
+46,3/23/24,4:29:58 PM,15,4,Zion Theophilus,Moeller,Evan Hartman,Strongsville High School,2,Top,2,1,2,Slider,Ball,,80,,23,Chase
+47,3/23/24,4:30:13 PM,16,5,Zion Theophilus,Moeller,Evan Hartman,Strongsville High School,2,Top,2,2,2,Fast Ball,Strike Foul,,90,,5,Heart
+48,3/23/24,4:30:39 PM,17,6,Zion Theophilus,Moeller,Evan Hartman,Strongsville High School,2,Top,2,2,2,Slider,Strike Swing and Miss,Strike Out,80,,18,Shadow
+49,3/23/24,4:32:36 PM,1,1,Austin Payne,Strongsville High School,Cooper Ridley,Moeller,2,Bottom,0,0,0,Fast Ball,Ball,,74,,27,Chase
+50,3/23/24,4:32:46 PM,2,2,Austin Payne,Strongsville High School,Cooper Ridley,Moeller,2,Bottom,0,1,0,Fast Ball,Strike Looking,,78,,18,Shadow
+51,3/23/24,4:32:59 PM,3,3,Austin Payne,Strongsville High School,Cooper Ridley,Moeller,2,Bottom,0,1,1,Fast Ball,Strike Foul,,78,,22,Chase
+52,3/23/24,4:33:16 PM,4,4,Austin Payne,Strongsville High School,Cooper Ridley,Moeller,2,Bottom,0,1,2,Breaking Ball,Strike Swing and Miss,Strike Out,78,,19,Shadow
+53,3/23/24,4:33:39 PM,5,1,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,2,Bottom,1,0,0,Change Up,Strike Foul,,71,,4,Heart
+54,3/23/24,4:33:58 PM,6,2,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,2,Bottom,1,0,1,Change Up,Ball,,73,,14,Shadow
+55,3/23/24,4:34:11 PM,7,3,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,2,Bottom,1,1,1,Fast Ball,Strike Looking,,77,,16,Shadow
+56,3/23/24,4:34:25 PM,8,4,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,2,Bottom,1,1,2,Change Up,Strike Foul,,71,,5,Heart
+57,3/23/24,4:34:48 PM,9,5,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,2,Bottom,1,1,2,Fast Ball,Strike Foul,,76,,14,Shadow
+58,3/23/24,4:35:06 PM,10,6,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,2,Bottom,1,1,2,Change Up,Strike Swing and Miss,Strike Out,70,,13,Shadow
+59,3/23/24,4:35:36 PM,11,1,Austin Payne,Strongsville High School,Luke Pappano,Moeller,2,Bottom,2,0,0,Fast Ball,Ball,,72,,11,Shadow
+60,3/23/24,4:35:48 PM,12,2,Austin Payne,Strongsville High School,Luke Pappano,Moeller,2,Bottom,2,1,0,Fast Ball,Strike Foul,,79,,19,Shadow
+61,3/23/24,4:36:03 PM,13,3,Austin Payne,Strongsville High School,Luke Pappano,Moeller,2,Bottom,2,1,1,Change Up,Strike Swing and Miss,,72,,39,Waste
+62,3/23/24,4:36:18 PM,14,4,Austin Payne,Strongsville High School,Luke Pappano,Moeller,2,Bottom,2,1,2,Change Up,Strike Swing and Miss,Strike Out,73,,19,Shadow
+63,3/23/24,4:38:30 PM,1,1,Sam Scuglik,Moeller,Evan Gyurko,Strongsville High School,3,Top,0,0,0,Fast Ball,Strike Swing and Miss,,N/A,,18,Shadow
+64,3/23/24,4:38:47 PM,2,2,Sam Scuglik,Moeller,Evan Gyurko,Strongsville High School,3,Top,0,0,1,Fast Ball,Strike In Play,Ground Out,N/A,,6,Heart
+65,3/23/24,4:39:16 PM,3,1,Sam Scuglik,Moeller,Murphy Kelley,Strongsville High School,3,Top,1,0,0,Fast Ball,Strike Looking,,84,,12,Shadow
+66,3/23/24,4:39:30 PM,4,2,Sam Scuglik,Moeller,Murphy Kelley,Strongsville High School,3,Top,1,0,1,Fast Ball,Strike Foul,,84,,13,Shadow
+67,3/23/24,4:39:54 PM,5,3,Sam Scuglik,Moeller,Murphy Kelley,Strongsville High School,3,Top,1,0,2,Slider,Strike Foul,,76,,13,Shadow
+68,3/23/24,4:40:11 PM,6,4,Sam Scuglik,Moeller,Murphy Kelley,Strongsville High School,3,Top,1,0,2,Fast Ball,Ball,,83,,23,Chase
+69,3/23/24,4:40:24 PM,7,5,Sam Scuglik,Moeller,Murphy Kelley,Strongsville High School,3,Top,1,1,2,Change Up,Ball,,78,,14,Shadow
+70,3/23/24,4:40:39 PM,8,6,Sam Scuglik,Moeller,Murphy Kelley,Strongsville High School,3,Top,1,2,2,Two Seam Fast Ball,Strike Swing and Miss,Strike Out,83,,5,Heart
+71,3/23/24,4:41:11 PM,9,1,Sam Scuglik,Moeller,Faris Thabata,Strongsville High School,3,Top,2,0,0,Slider,Ball,,N/A,,29,Chase
+72,3/23/24,4:41:35 PM,10,2,Sam Scuglik,Moeller,Faris Thabata,Strongsville High School,3,Top,2,1,0,Change Up,Ball,,77,,37,Waste
+73,3/23/24,4:41:41 PM,11,3,Sam Scuglik,Moeller,Faris Thabata,Strongsville High School,3,Top,2,2,0,Fast Ball,Strike Looking,,82,,16,Shadow
+74,3/23/24,4:42:03 PM,12,4,Sam Scuglik,Moeller,Faris Thabata,Strongsville High School,3,Top,2,2,1,Fast Ball,Strike Foul,,83,,14,Shadow
+75,3/23/24,4:42:22 PM,13,5,Sam Scuglik,Moeller,Faris Thabata,Strongsville High School,3,Top,2,2,2,Slider,Strike Swing and Miss,Strike Out,70,,13,Shadow
+76,3/23/24,4:44:22 PM,1,1,Austin Payne,Strongsville High School,Forrest Day,Moeller,3,Bottom,0,0,0,Fast Ball,Strike Foul,,75,,16,Shadow
+77,3/23/24,4:44:39 PM,2,2,Austin Payne,Strongsville High School,Forrest Day,Moeller,3,Bottom,0,0,1,Fast Ball,Strike In Play,1B,74,,19,Shadow
+78,3/23/24,4:45:11 PM,3,1,Austin Payne,Strongsville High School,Griffin Booth,Moeller,3,Bottom,0,0,0,Fast Ball,Strike Foul,,76,,13,Shadow
+79,3/23/24,4:45:51 PM,4,2,Austin Payne,Strongsville High School,Griffin Booth,Moeller,3,Bottom,0,0,1,Fast Ball,Strike In Play,Sacrifice,75,,12,Shadow
+80,3/23/24,4:46:30 PM,5,1,Austin Payne,Strongsville High School,Will McCullough,Moeller,3,Bottom,1,0,0,Fast Ball,Ball,,76,,13,Shadow
+81,3/23/24,4:46:52 PM,6,2,Austin Payne,Strongsville High School,Will McCullough,Moeller,3,Bottom,1,1,0,Fast Ball,Strike In Play,1B,76,,16,Shadow
+82,3/23/24,4:47:41 PM,7,1,Austin Payne,Strongsville High School,Charlie Valencic,Moeller,3,Bottom,1,0,0,Fast Ball,Strike Foul,,77,,1,Heart
+83,3/23/24,4:48:01 PM,8,2,Austin Payne,Strongsville High School,Charlie Valencic,Moeller,3,Bottom,1,0,1,Breaking Ball,Ball,,70,,32,Waste
+84,3/23/24,4:48:21 PM,9,3,Austin Payne,Strongsville High School,Charlie Valencic,Moeller,3,Bottom,1,1,1,Breaking Ball,Strike In Play,1B,70,,19,Shadow
+85,3/23/24,4:49:06 PM,10,1,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,3,Bottom,1,0,0,Fast Ball,Strike Foul,,76,,22,Chase
+86,3/23/24,4:49:27 PM,11,2,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,3,Bottom,1,0,1,Fast Ball,Ball,,74,,38,Waste
+87,3/23/24,4:49:47 PM,12,3,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,3,Bottom,1,1,1,Breaking Ball,Ball,,68,,31,Waste
+88,3/23/24,4:50:04 PM,13,4,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,3,Bottom,1,2,1,Fast Ball,Strike Foul,,76,,16,Shadow
+89,3/23/24,4:50:41 PM,14,5,Austin Payne,Strongsville High School,Matt Ponatoski,Moeller,3,Bottom,1,2,2,Fast Ball,Strike In Play,Ground Out,70,,27,Chase
+90,3/23/24,4:51:09 PM,15,1,Austin Payne,Strongsville High School,Carter Christenson,Moeller,3,Bottom,2,0,0,Fast Ball,Ball,,71,,14,Shadow
+91,3/23/24,4:51:22 PM,16,2,Austin Payne,Strongsville High School,Carter Christenson,Moeller,3,Bottom,2,1,0,Fast Ball,Ball,,78,,29,Chase
+92,3/23/24,4:51:37 PM,17,3,Austin Payne,Strongsville High School,Carter Christenson,Moeller,3,Bottom,2,2,0,Fast Ball,Ball,,77,,23,Chase
+93,3/23/24,4:51:54 PM,18,4,Austin Payne,Strongsville High School,Carter Christenson,Moeller,3,Bottom,2,3,0,Fast Ball,Strike Looking,,78,,16,Shadow
+94,3/23/24,4:52:08 PM,19,5,Austin Payne,Strongsville High School,Carter Christenson,Moeller,3,Bottom,2,3,1,Fast Ball,Strike Foul,,77,,16,Shadow
+95,3/23/24,4:52:29 PM,20,6,Austin Payne,Strongsville High School,Carter Christenson,Moeller,3,Bottom,2,3,2,Fast Ball,Strike Foul,,78,,21,Chase
+96,3/23/24,4:52:50 PM,21,7,Austin Payne,Strongsville High School,Carter Christenson,Moeller,3,Bottom,2,3,2,Fast Ball,Strike In Play,1B,78,,13,Shadow
+97,3/23/24,4:53:18 PM,22,1,Austin Payne,Strongsville High School,Cooper Ridley,Moeller,3,Bottom,2,0,0,Fast Ball,Strike In Play,1B,75,,16,Shadow
+98,3/23/24,4:54:25 PM,23,1,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,3,Bottom,2,0,0,Breaking Ball,Ball,,64,,22,Chase
+99,3/23/24,4:54:39 PM,24,2,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,3,Bottom,2,1,0,Fast Ball,Strike Looking,,77,,13,Shadow
+100,3/23/24,4:55:02 PM,25,3,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,3,Bottom,2,1,1,Fast Ball,Strike Looking,,80,,13,Shadow
+101,3/23/24,4:55:17 PM,26,4,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,3,Bottom,2,1,2,Fast Ball,Ball,,70,,37,Waste
+102,3/23/24,4:55:40 PM,27,5,Austin Payne,Strongsville High School,Conner Cuozzo,Moeller,3,Bottom,2,2,2,Fast Ball,Strike In Play,2B,77,,13,Shadow
+103,3/23/24,4:56:17 PM,28,1,Austin Payne,Strongsville High School,Luke Pappano,Moeller,3,Bottom,2,0,0,Fast Ball,Strike Foul,,76,,13,Shadow
+104,3/23/24,4:56:37 PM,29,2,Austin Payne,Strongsville High School,Luke Pappano,Moeller,3,Bottom,2,0,1,Fast Ball,Strike Foul,,75,,16,Shadow
+105,3/23/24,4:57:01 PM,30,3,Austin Payne,Strongsville High School,Luke Pappano,Moeller,3,Bottom,2,0,2,Fast Ball,Strike Foul,,73,,12,Shadow
+106,3/23/24,4:57:24 PM,31,4,Austin Payne,Strongsville High School,Luke Pappano,Moeller,3,Bottom,2,0,2,Change Up,Strike Looking,Strike Out,70,,11,Shadow
+107,3/23/24,4:59:46 PM,1,1,Sam Scuglik,Moeller,Brett Kappel,Strongsville High School,4,Top,0,0,0,Fast Ball,Ball,,82,,11,Shadow
+108,3/23/24,4:59:57 PM,2,2,Sam Scuglik,Moeller,Brett Kappel,Strongsville High School,4,Top,0,1,0,Fast Ball,Ball,,81,,37,Waste
+109,3/23/24,5:00:10 PM,3,3,Sam Scuglik,Moeller,Brett Kappel,Strongsville High School,4,Top,0,2,0,Fast Ball,Strike In Play,Ground Out,82,,1,Heart
+110,3/23/24,5:00:47 PM,4,1,Sam Scuglik,Moeller,Jude Fisher,Strongsville High School,4,Top,1,0,0,Slider,Ball,,69,,39,Waste
+111,3/23/24,5:01:05 PM,5,2,Sam Scuglik,Moeller,Jude Fisher,Strongsville High School,4,Top,1,1,0,Fast Ball,Strike Foul,,82,,13,Shadow
+112,3/23/24,5:01:25 PM,6,3,Sam Scuglik,Moeller,Jude Fisher,Strongsville High School,4,Top,1,1,1,Change Up,Ball,,75,,14,Shadow
+113,3/23/24,5:01:39 PM,7,4,Sam Scuglik,Moeller,Jude Fisher,Strongsville High School,4,Top,1,2,1,Fast Ball,Ball,,82,,19,Shadow
+114,3/23/24,5:01:53 PM,8,5,Sam Scuglik,Moeller,Jude Fisher,Strongsville High School,4,Top,1,3,1,Fast Ball,Ball,BB,81,,N/A,Waste
+115,3/23/24,5:02:20 PM,9,1,Sam Scuglik,Moeller,Tommy Farkas,Strongsville High School,4,Top,1,0,0,Fast Ball,Strike In Play,Fielders Choice,81,,5,Heart
+116,3/23/24,5:02:56 PM,10,1,Sam Scuglik,Moeller,Brady Eckert,Strongsville High School,4,Top,2,0,0,Fast Ball,Ball,,80,,32,Waste
+117,3/23/24,5:03:19 PM,11,2,Sam Scuglik,Moeller,Brady Eckert,Strongsville High School,4,Top,2,1,0,Fast Ball,Strike Foul,,81,,1,Heart
+118,3/23/24,5:03:39 PM,12,3,Sam Scuglik,Moeller,Brady Eckert,Strongsville High School,4,Top,2,1,1,Fast Ball,Strike Looking,,82,,19,Shadow
+119,3/23/24,5:03:57 PM,13,4,Sam Scuglik,Moeller,Brady Eckert,Strongsville High School,4,Top,2,1,2,Fast Ball,Strike In Play,Fielders Choice,81,,13,Shadow
+120,3/23/24,5:06:48 PM,1,1,Michael McNabb,Strongsville High School,Forrest Day,Moeller,4,Bottom,0,0,0,Fast Ball,Strike In Play,3B,77,,16,Shadow
+121,3/23/24,5:07:28 PM,2,1,Michael McNabb,Strongsville High School,Griffin Booth,Moeller,4,Bottom,0,0,0,Breaking Ball,Strike Looking,,64,,29,Chase
+122,3/23/24,5:07:44 PM,3,2,Michael McNabb,Strongsville High School,Griffin Booth,Moeller,4,Bottom,0,0,1,Breaking Ball,Strike Looking,,63,,14,Shadow
+123,3/23/24,5:08:01 PM,4,3,Michael McNabb,Strongsville High School,Griffin Booth,Moeller,4,Bottom,0,0,2,Breaking Ball,Strike Swing and Miss,Strike Out,63,,29,Chase
+124,3/23/24,5:08:22 PM,5,1,Michael McNabb,Strongsville High School,Will McCullough,Moeller,4,Bottom,1,0,0,Breaking Ball,Ball,,70,,38,Waste
+125,3/23/24,5:08:40 PM,6,2,Michael McNabb,Strongsville High School,Will McCullough,Moeller,4,Bottom,1,1,0,Fast Ball,Strike In Play,2B,77,,16,Shadow
+126,3/23/24,5:09:28 PM,7,1,Michael McNabb,Strongsville High School,Charlie Valencic,Moeller,4,Bottom,1,0,0,Breaking Ball,Ball,,65,,39,Waste
+127,3/23/24,5:09:48 PM,8,2,Michael McNabb,Strongsville High School,Charlie Valencic,Moeller,4,Bottom,1,1,0,Fast Ball,Strike In Play,Ground Out,74,,12,Shadow
+128,3/23/24,5:10:22 PM,9,1,Michael McNabb,Strongsville High School,Matt Ponatoski,Moeller,4,Bottom,2,0,0,Breaking Ball,Strike Foul,,62,,29,Chase
+129,3/23/24,5:10:50 PM,10,2,Michael McNabb,Strongsville High School,Matt Ponatoski,Moeller,4,Bottom,2,0,1,Breaking Ball,Ball,,72,,38,Waste
+130,3/23/24,5:11:09 PM,11,3,Michael McNabb,Strongsville High School,Matt Ponatoski,Moeller,4,Bottom,2,1,1,Breaking Ball,Strike Looking,,65,,4,Heart
+131,3/23/24,5:11:25 PM,12,4,Michael McNabb,Strongsville High School,Matt Ponatoski,Moeller,4,Bottom,2,1,2,Fast Ball,Ball,,71,,27,Chase
+132,3/23/24,5:11:40 PM,13,5,Michael McNabb,Strongsville High School,Matt Ponatoski,Moeller,4,Bottom,2,2,2,Breaking Ball,Strike Foul,,62,,18,Shadow
+133,3/23/24,5:12:08 PM,14,6,Michael McNabb,Strongsville High School,Matt Ponatoski,Moeller,4,Bottom,2,2,2,Fast Ball,Strike In Play,1B,N/A,,19,Shadow
+134,3/23/24,5:12:40 PM,15,1,Michael McNabb,Strongsville High School,Carter Christenson,Moeller,4,Bottom,2,0,0,Fast Ball,Strike In Play,Ground Out,74,,2,Heart
+135,3/23/24,5:14:32 PM,1,1,Sam Scuglik,Moeller,Keegan Cubbison,Strongsville High School,5,Top,0,0,0,Fast Ball,Ball,,83,,22,Chase
+136,3/23/24,5:14:44 PM,2,2,Sam Scuglik,Moeller,Keegan Cubbison,Strongsville High School,5,Top,0,1,0,Change Up,Strike Looking,,78,,26,Chase
+137,3/23/24,5:14:59 PM,3,3,Sam Scuglik,Moeller,Keegan Cubbison,Strongsville High School,5,Top,0,1,1,Fast Ball,Ball,,82,,28,Chase
+138,3/23/24,5:15:12 PM,4,4,Sam Scuglik,Moeller,Keegan Cubbison,Strongsville High School,5,Top,0,2,1,Fast Ball,Strike Foul,,82,,11,Shadow
+139,3/23/24,5:15:28 PM,5,5,Sam Scuglik,Moeller,Keegan Cubbison,Strongsville High School,5,Top,0,2,2,Change Up,Ball,,77,,27,Chase
+140,3/23/24,5:15:40 PM,6,6,Sam Scuglik,Moeller,Keegan Cubbison,Strongsville High School,5,Top,0,3,2,Fast Ball,Strike Looking,Strike Out,82,,16,Shadow
+141,3/23/24,5:16:03 PM,7,1,Sam Scuglik,Moeller,Evan Hartman,Strongsville High School,5,Top,1,0,0,Fast Ball,Strike Looking,,79,,13,Shadow
+142,3/23/24,5:16:14 PM,8,2,Sam Scuglik,Moeller,Evan Hartman,Strongsville High School,5,Top,1,0,1,Slider,Ball,,65,,38,Waste
+143,3/23/24,5:16:32 PM,9,3,Sam Scuglik,Moeller,Evan Hartman,Strongsville High School,5,Top,1,1,1,Change Up,Ball,,78,,39,Waste
+144,3/23/24,5:16:48 PM,10,4,Sam Scuglik,Moeller,Evan Hartman,Strongsville High School,5,Top,1,2,1,Change Up,Ball,,76,,39,Waste
+145,3/23/24,5:17:03 PM,11,5,Sam Scuglik,Moeller,Evan Hartman,Strongsville High School,5,Top,1,3,1,Change Up,Strike Foul,,77,,13,Shadow
+146,3/23/24,5:17:35 PM,12,6,Sam Scuglik,Moeller,Evan Hartman,Strongsville High School,5,Top,1,3,2,Change Up,Strike In Play,1B,73,,29,Chase
+147,3/23/24,5:18:09 PM,13,1,Sam Scuglik,Moeller,Evan Gyurko,Strongsville High School,5,Top,1,0,0,Change Up,Strike In Play,1B,73,,2,Heart
+148,3/23/24,5:18:59 PM,14,1,Sam Scuglik,Moeller,Gavin Reid,Strongsville High School,5,Top,1,0,0,Two Seam Fast Ball,Ball,HBP,78,,34,Waste
+149,3/23/24,5:20:14 PM,15,1,Sam Scuglik,Moeller,Faris Thabata,Strongsville High School,5,Top,1,0,0,Fast Ball,Strike Looking,,79,,16,Shadow
+150,3/23/24,5:20:34 PM,16,2,Sam Scuglik,Moeller,Faris Thabata,Strongsville High School,5,Top,1,0,1,Change Up,Strike Looking,,77,,19,Shadow
+151,3/23/24,5:20:55 PM,17,3,Sam Scuglik,Moeller,Faris Thabata,Strongsville High School,5,Top,1,0,2,Fast Ball,Strike In Play,Fielders Choice,81,,13,Shadow
+152,3/23/24,5:22:50 PM,18,1,Sam Scuglik,Moeller,Brett Kappel,Strongsville High School,5,Top,2,0,0,Two Seam Fast Ball,Ball,,77,,11,Shadow
+153,3/23/24,5:23:06 PM,19,2,Sam Scuglik,Moeller,Brett Kappel,Strongsville High School,5,Top,2,1,0,Fast Ball,Ball,,81,,N/A,Waste
+154,3/23/24,5:23:19 PM,20,3,Sam Scuglik,Moeller,Brett Kappel,Strongsville High School,5,Top,2,2,0,Change Up,Strike Looking,,78,,17,Shadow
+155,3/23/24,5:23:34 PM,21,4,Sam Scuglik,Moeller,Brett Kappel,Strongsville High School,5,Top,2,2,1,Fast Ball,Ball,,78,,39,Waste
+156,3/23/24,5:24:06 PM,22,5,Sam Scuglik,Moeller,Brett Kappel,Strongsville High School,5,Top,2,3,1,Fast Ball,Ball,BB,79,,33,Waste
+157,3/23/24,5:26:57 PM,1,1,Tyler Heflin,Moeller,Jude Fisher,Strongsville High School,5,Top,2,0,0,Fast Ball,Ball,,83,,38,Waste
+158,3/23/24,5:27:18 PM,2,2,Tyler Heflin,Moeller,Jude Fisher,Strongsville High School,5,Top,2,1,0,Fast Ball,Strike In Play,1B,82,,13,Shadow
+159,3/23/24,5:27:55 PM,3,1,Tyler Heflin,Moeller,Tommy Farkas,Strongsville High School,5,Top,2,0,0,Slider,Strike Looking,,73,,18,Shadow
+160,3/23/24,5:28:14 PM,4,2,Tyler Heflin,Moeller,Tommy Farkas,Strongsville High School,5,Top,2,0,1,Fast Ball,Ball,,84,,39,Waste
+161,3/23/24,5:28:34 PM,5,3,Tyler Heflin,Moeller,Tommy Farkas,Strongsville High School,5,Top,2,1,1,Slider,Ball,,72,,39,Waste
+162,3/23/24,5:28:57 PM,6,4,Tyler Heflin,Moeller,Tommy Farkas,Strongsville High School,5,Top,2,2,1,Fast Ball,Strike Swing and Miss,,82,,19,Shadow
+163,3/23/24,5:29:23 PM,7,5,Tyler Heflin,Moeller,Tommy Farkas,Strongsville High School,5,Top,2,2,2,Slider,Ball,,N/A,,17,Shadow
+164,3/23/24,5:29:45 PM,8,6,Tyler Heflin,Moeller,Tommy Farkas,Strongsville High School,5,Top,2,3,2,Fast Ball,Strike In Play,Fly Out,N/A,,16,Shadow
+165,3/23/24,5:32:07 PM,1,1,Michael McNabb,Strongsville High School,Cooper Ridley,Moeller,5,Bottom,0,0,0,Fast Ball,Strike In Play,2B,76,,13,Shadow
+166,3/23/24,5:33:20 PM,2,1,Michael McNabb,Strongsville High School,Conner Cuozzo,Moeller,5,Bottom,0,0,0,Breaking Ball,Strike Looking,,68,,2,Heart
+167,3/23/24,5:33:38 PM,3,2,Michael McNabb,Strongsville High School,Conner Cuozzo,Moeller,5,Bottom,0,0,1,Breaking Ball,Ball,,62,,13,Shadow
+168,3/23/24,5:34:00 PM,4,3,Michael McNabb,Strongsville High School,Conner Cuozzo,Moeller,5,Bottom,0,1,1,Breaking Ball,Ball,,67,,39,Waste
+169,3/23/24,5:34:26 PM,5,4,Michael McNabb,Strongsville High School,Conner Cuozzo,Moeller,5,Bottom,0,2,1,Fast Ball,Strike Swing and Miss,,72,,12,Shadow
+170,3/23/24,5:35:07 PM,6,5,Michael McNabb,Strongsville High School,Conner Cuozzo,Moeller,5,Bottom,0,2,2,Breaking Ball,Ball,,65,,29,Chase
+171,3/23/24,5:35:31 PM,7,6,Michael McNabb,Strongsville High School,Conner Cuozzo,Moeller,5,Bottom,0,3,2,Breaking Ball,Strike Looking,Strike Out,67,,13,Shadow
+172,3/23/24,5:36:15 PM,8,1,Michael McNabb,Strongsville High School,Hanleigh Lopez,Moeller,5,Bottom,1,0,0,Breaking Ball,Strike In Play,Fly Out,N/A,,8,Heart
+173,3/23/24,5:36:55 PM,9,1,Michael McNabb,Strongsville High School,Forrest Day,Moeller,5,Bottom,2,0,0,Breaking Ball,Ball,,67,,29,Chase
+174,3/23/24,5:37:08 PM,10,2,Michael McNabb,Strongsville High School,Forrest Day,Moeller,5,Bottom,2,1,0,Breaking Ball,Strike In Play,Ground Out,64,,14,Shadow
+175,3/23/24,5:39:37 PM,1,1,Tyler Heflin,Moeller,Brady Eckert,Strongsville High School,6,Top,0,0,0,Fast Ball,Ball,,N/A,,29,Chase
+176,3/23/24,5:39:53 PM,2,2,Tyler Heflin,Moeller,Brady Eckert,Strongsville High School,6,Top,0,1,0,Fast Ball,Strike Looking,,86,,14,Shadow
+177,3/23/24,5:40:09 PM,3,3,Tyler Heflin,Moeller,Brady Eckert,Strongsville High School,6,Top,0,1,1,Change Up,Ball,,79,,38,Waste
+178,3/23/24,5:40:27 PM,4,4,Tyler Heflin,Moeller,Brady Eckert,Strongsville High School,6,Top,0,2,1,Fast Ball,Ball,,79,,31,Waste
+179,3/23/24,5:40:50 PM,5,5,Tyler Heflin,Moeller,Brady Eckert,Strongsville High School,6,Top,0,3,1,Fast Ball,Strike In Play,Fly Out,N/A,,5,Heart
+180,3/23/24,5:41:23 PM,6,1,Tyler Heflin,Moeller,Keegan Cubbison,Strongsville High School,6,Top,1,0,0,Fast Ball,Strike Looking,,89,,11,Shadow
+181,3/23/24,5:41:39 PM,7,2,Tyler Heflin,Moeller,Keegan Cubbison,Strongsville High School,6,Top,1,0,1,Fast Ball,Ball,,N/A,,39,Waste
+182,3/23/24,5:42:02 PM,8,3,Tyler Heflin,Moeller,Keegan Cubbison,Strongsville High School,6,Top,1,1,1,Fast Ball,Ball,,88,,31,Waste
+183,3/23/24,5:42:20 PM,9,4,Tyler Heflin,Moeller,Keegan Cubbison,Strongsville High School,6,Top,1,2,1,Fast Ball,Ball,,87,,14,Shadow
+184,3/23/24,5:42:35 PM,10,5,Tyler Heflin,Moeller,Keegan Cubbison,Strongsville High School,6,Top,1,3,1,Fast Ball,Ball,BB,86,,29,Chase
+185,3/23/24,5:43:06 PM,11,1,Tyler Heflin,Moeller,Evan Hartman,Strongsville High School,6,Top,1,0,0,Slider,Strike Looking,,78,,18,Shadow
+186,3/23/24,5:43:39 PM,12,2,Tyler Heflin,Moeller,Evan Hartman,Strongsville High School,6,Top,1,0,1,Slider,Ball,,78,,38,Waste
+187,3/23/24,5:44:04 PM,13,3,Tyler Heflin,Moeller,Evan Hartman,Strongsville High School,6,Top,1,1,1,Fast Ball,Ball,,88,,N/A,Waste
+188,3/23/24,5:44:31 PM,14,4,Tyler Heflin,Moeller,Evan Hartman,Strongsville High School,6,Top,1,2,1,Fast Ball,Strike Looking,,89,,7,Heart
+189,3/23/24,5:44:42 PM,15,5,Tyler Heflin,Moeller,Evan Hartman,Strongsville High School,6,Top,1,2,2,Fast Ball,Ball,HBP,87,,21,Chase
+190,3/23/24,5:45:23 PM,16,1,Tyler Heflin,Moeller,Evan Gyurko,Strongsville High School,6,Top,1,0,0,Fast Ball,Ball,,86,,14,Shadow
+191,3/23/24,5:45:43 PM,17,2,Tyler Heflin,Moeller,Evan Gyurko,Strongsville High School,6,Top,1,1,0,Fast Ball,Ball,,87,,29,Chase
+192,3/23/24,5:46:05 PM,18,3,Tyler Heflin,Moeller,Evan Gyurko,Strongsville High School,6,Top,1,2,0,Fast Ball,Ball,,86,,38,Waste
+193,3/23/24,5:46:33 PM,19,4,Tyler Heflin,Moeller,Evan Gyurko,Strongsville High School,6,Top,1,3,0,Fast Ball,Ball,BB,87,,21,Chase
+194,3/23/24,5:47:44 PM,20,1,Tyler Heflin,Moeller,Gavin Reid,Strongsville High School,6,Top,1,0,0,Fast Ball,Strike Foul,,87,,9,Heart
+195,3/23/24,5:48:13 PM,21,2,Tyler Heflin,Moeller,Gavin Reid,Strongsville High School,6,Top,1,0,1,Fast Ball,Strike In Play,Double Play,88,,7,Heart
+196,3/23/24,5:51:32 PM,1,1,Caden Padson,Strongsville High School,Griffin Booth,Moeller,6,Bottom,0,0,0,Fast Ball,Ball,,74,,29,Chase
+197,3/23/24,5:51:43 PM,2,2,Caden Padson,Strongsville High School,Griffin Booth,Moeller,6,Bottom,0,1,0,Fast Ball,Ball,,75,,36,Waste
+198,3/23/24,5:51:55 PM,3,3,Caden Padson,Strongsville High School,Griffin Booth,Moeller,6,Bottom,0,2,0,Fast Ball,Strike Looking,,75,,19,Shadow
+199,3/23/24,5:52:06 PM,4,4,Caden Padson,Strongsville High School,Griffin Booth,Moeller,6,Bottom,0,2,1,Fast Ball,Ball,,76,,23,Chase
+200,3/23/24,5:52:22 PM,5,5,Caden Padson,Strongsville High School,Griffin Booth,Moeller,6,Bottom,0,3,1,Fast Ball,Strike In Play,1B,76,,16,Shadow
+201,3/23/24,5:53:10 PM,6,1,Caden Padson,Strongsville High School,Will McCullough,Moeller,6,Bottom,0,0,0,Fast Ball,Ball,,75,,22,Chase
+202,3/23/24,5:53:27 PM,7,2,Caden Padson,Strongsville High School,Will McCullough,Moeller,6,Bottom,0,1,0,Fast Ball,Ball,,76,,32,Waste
+203,3/23/24,5:53:51 PM,8,3,Caden Padson,Strongsville High School,Will McCullough,Moeller,6,Bottom,0,2,0,Fast Ball,Ball,,75,,37,Waste
+204,3/23/24,5:54:08 PM,9,4,Caden Padson,Strongsville High School,Will McCullough,Moeller,6,Bottom,0,3,0,Fast Ball,Ball,BB,76,,36,Waste
+205,3/23/24,5:54:35 PM,10,1,Caden Padson,Strongsville High School,Charlie Valencic,Moeller,6,Bottom,0,0,0,Fast Ball,Ball,,76,,36,Waste
+206,3/23/24,5:55:15 PM,11,2,Caden Padson,Strongsville High School,Charlie Valencic,Moeller,6,Bottom,0,1,0,Fast Ball,Strike In Play,Error,73,,5,Heart
+207,3/23/24,5:56:04 PM,12,1,Caden Padson,Strongsville High School,Matt Ponatoski,Moeller,6,Bottom,0,0,0,Breaking Ball,Strike Looking,,66,,11,Shadow
+208,3/23/24,5:56:21 PM,13,2,Caden Padson,Strongsville High School,Matt Ponatoski,Moeller,6,Bottom,0,0,1,Breaking Ball,Ball,,68,,14,Shadow
+209,3/23/24,5:56:39 PM,14,3,Caden Padson,Strongsville High School,Matt Ponatoski,Moeller,6,Bottom,0,1,1,Breaking Ball,Strike Looking,,67,,14,Shadow
+210,3/23/24,5:57:01 PM,15,4,Caden Padson,Strongsville High School,Matt Ponatoski,Moeller,6,Bottom,0,1,2,Fast Ball,Strike In Play,Error,76,,3,Heart
+211,3/23/24,5:58:50 PM,16,1,Caden Padson,Strongsville High School,Carter Christenson,Moeller,6,Bottom,0,0,0,Fast Ball,Ball,,74,,38,Waste
+212,3/23/24,5:59:04 PM,17,2,Caden Padson,Strongsville High School,Carter Christenson,Moeller,6,Bottom,0,1,0,Fast Ball,Strike In Play,2B,75,,2,Heart
