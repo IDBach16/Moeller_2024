@@ -1,0 +1,265 @@
+PitchNo,Date,Time,PAofInning,PAofInning,Pitcher,PitcherHand,PitcherTeam,Batter,BatterHand,BatterTeam,Inning,Top/Bottom,Outs,Balls,Strikes,PitchType,PitchResult,AtBatResult,PitchVelo,PitchId,Location,Attack Zone
+1,3/26/24,4:56:28 PM,1,1,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,1,Top,0,0,0,Fast Ball,Ball,,78,,21,Chase
+2,3/26/24,4:56:40 PM,2,2,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,1,Top,0,1,0,Fast Ball,Strike Foul,,78,,14,Shadow
+3,3/26/24,4:56:59 PM,3,3,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,1,Top,0,1,1,Fast Ball,Ball,,77,,24,Chase
+4,3/26/24,4:57:11 PM,4,4,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,1,Top,0,2,1,Fast Ball,Strike In Play,Fly Out,85,,17,Shadow
+5,3/26/24,4:57:45 PM,5,1,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,1,Top,1,0,0,Slider,Strike Looking,,75,,5,Heart
+6,3/26/24,4:57:59 PM,6,2,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,1,Top,1,0,1,Fast Ball,Ball,,84,,31,Waste
+7,3/26/24,4:58:13 PM,7,3,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,1,Top,1,1,1,Slider,Strike Swing and Miss,,75,,8,Heart
+8,3/26/24,4:58:27 PM,8,4,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,1,Top,1,1,2,Slider,Strike Looking,Strike Out,76,,17,Shadow
+9,3/26/24,4:58:52 PM,9,1,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,1,Top,2,0,0,Change Up,Ball,,80,,21,Chase
+10,3/26/24,4:59:05 PM,10,2,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,1,Top,2,1,0,Fast Ball,Ball,,85,,24,Chase
+11,3/26/24,4:59:20 PM,11,3,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,1,Top,2,2,0,Fast Ball,Strike In Play,1B,84,,7,Heart
+12,3/26/24,5:00:32 PM,12,1,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,1,Top,2,0,0,Slider,Strike Swing and Miss,,77,,13,Shadow
+13,3/26/24,5:00:55 PM,13,2,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,1,Top,2,0,1,Slider,Ball,,75,,39,Waste
+14,3/26/24,5:01:36 PM,14,3,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,1,Top,2,1,1,Fast Ball,Strike Foul,,87,,11,Shadow
+15,3/26/24,5:02:02 PM,15,4,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,1,Top,2,1,2,Slider,Ball,,73,,26,Chase
+16,3/26/24,5:02:25 PM,16,5,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,1,Top,2,2,2,Slider,Strike In Play,Fielders Choice,74,,26,Chase
+17,3/26/24,5:05:28 PM,1,1,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,1,Bottom,0,0,0,Fast Ball,Ball,,87,,29,Chase
+18,3/26/24,5:05:42 PM,2,2,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,1,Bottom,0,1,0,Fast Ball,Strike Looking,,86,,13,Shadow
+19,3/26/24,5:05:54 PM,3,3,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,1,Bottom,0,1,1,Breaking Ball,Strike Looking,,72,,11,Shadow
+20,3/26/24,5:06:06 PM,4,4,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,1,Bottom,0,1,2,Breaking Ball,Strike Foul,,75,,4,Heart
+21,3/26/24,5:06:22 PM,5,5,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,1,Bottom,0,1,2,Fast Ball,Strike Swing and Miss,Strike Out,89,,12,Shadow
+22,3/26/24,5:06:49 PM,6,1,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,1,Bottom,1,0,0,Breaking Ball,Ball,,73,,21,Chase
+23,3/26/24,5:07:00 PM,7,2,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,1,Bottom,1,1,0,Fast Ball,Strike Looking,,87,,16,Shadow
+24,3/26/24,5:07:12 PM,8,3,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,1,Bottom,1,1,1,Fast Ball,Strike Swing and Miss,,88,,13,Shadow
+25,3/26/24,5:07:26 PM,9,4,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,1,Bottom,1,1,2,Fast Ball,Strike Swing and Miss,Strike Out,90,,11,Shadow
+26,3/26/24,5:07:57 PM,10,1,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,0,0,Change Up,Strike Looking,,83,,19,Shadow
+27,3/26/24,5:08:08 PM,11,2,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,0,1,Change Up,Ball,,81,,17,Shadow
+28,3/26/24,5:08:20 PM,12,3,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,1,1,Fast Ball,Strike Looking,,88,,14,Shadow
+29,3/26/24,5:08:31 PM,13,4,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,1,2,Fast Ball,Strike Foul,,85,,17,Shadow
+30,3/26/24,5:09:17 PM,14,5,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,1,2,Fast Ball,Strike Foul,,88,,11,Shadow
+31,3/26/24,5:09:51 PM,15,6,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,1,2,Breaking Ball,Ball,,67,,34,Waste
+32,3/26/24,5:10:05 PM,16,7,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,2,2,Fast Ball,Ball,,88,,n/a,Waste
+33,3/26/24,5:10:23 PM,17,8,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,3,2,Breaking Ball,Strike Looking,Strike Out,71,,14,Shadow
+34,3/26/24,5:12:24 PM,1,1,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,2,Top,0,0,0,Fast Ball,Ball,,87,,14,Shadow
+35,3/26/24,5:12:36 PM,2,2,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,2,Top,0,1,0,Slider,Ball,,77,,28,Chase
+36,3/26/24,5:12:47 PM,3,3,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,2,Top,0,2,0,Fast Ball,Strike Foul,,87,,19,Shadow
+37,3/26/24,5:13:07 PM,4,4,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,2,Top,0,2,1,Change Up,Strike Foul,,79,,11,Shadow
+38,3/26/24,5:13:26 PM,5,5,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,2,Top,0,2,2,Fast Ball,Strike Looking,Strike Out,88,,19,Shadow
+39,3/26/24,5:13:50 PM,6,1,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,2,Top,1,0,0,Slider,Strike Swing and Miss,,78,,39,Waste
+40,3/26/24,5:14:04 PM,7,2,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,2,Top,1,0,1,Fast Ball,Strike Looking,,87,,7,Heart
+41,3/26/24,5:14:20 PM,8,3,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,2,Top,1,0,2,Fast Ball,Strike Foul,,88,,16,Shadow
+42,3/26/24,5:14:44 PM,9,4,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,2,Top,1,0,2,Slider,Strike Swing and Miss,Strike Out,80,,39,Waste
+43,3/26/24,5:15:12 PM,10,1,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,2,Top,2,0,0,Change Up,Ball,,83,,38,Waste
+44,3/26/24,5:15:24 PM,11,2,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,2,Top,2,1,0,Fast Ball,Ball,,89,,39,Waste
+45,3/26/24,5:15:37 PM,12,3,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,2,Top,2,2,0,Fast Ball,Strike Looking,,88,,16,Shadow
+46,3/26/24,5:15:52 PM,13,4,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,2,Top,2,2,1,Change Up,Strike Swing and Miss,,81,,19,Shadow
+47,3/26/24,5:16:11 PM,14,5,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,2,Top,2,2,2,Change Up,Strike Swing and Miss,Strike Out,83,,17,Shadow
+48,3/26/24,5:18:15 PM,1,1,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,2,Bottom,0,0,0,Fast Ball,Ball,,85,,39,Waste
+49,3/26/24,5:18:31 PM,2,2,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,2,Bottom,0,1,0,Fast Ball,Strike Looking,,86,,16,Shadow
+50,3/26/24,5:18:45 PM,3,3,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,2,Bottom,0,1,1,Fast Ball,Ball,,87,,29,Chase
+51,3/26/24,5:19:03 PM,4,4,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,2,Bottom,0,2,1,Fast Ball,Strike Foul,,87,,11,Shadow
+52,3/26/24,5:19:20 PM,5,5,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,2,Bottom,0,2,2,Breaking Ball,Strike In Play,1B,76,,5,Heart
+53,3/26/24,5:20:09 PM,6,1,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,0,0,0,Fast Ball,Ball,,85,,27,Chase
+54,3/26/24,5:20:26 PM,7,2,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,0,1,0,Fast Ball,Strike Foul,,85,,14,Shadow
+55,3/26/24,5:21:09 PM,8,3,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,0,1,1,Fast Ball,Strike Foul,,84,,14,Shadow
+56,3/26/24,5:21:46 PM,9,4,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,0,1,2,Change Up,Ball,,78,,11,Shadow
+57,3/26/24,5:22:12 PM,10,5,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,1,2,2,Fast Ball,Strike Foul,,90,,11,Shadow
+58,3/26/24,5:22:33 PM,11,6,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,1,2,2,Change Up,Strike Swing and Miss,Strike Out,81,,17,Shadow
+59,3/26/24,5:23:00 PM,12,1,Dylan McIntyre,R,Ryle High School,Conner Cuozzo,R,Moeller,2,Bottom,2,0,0,Breaking Ball,Ball,,72,,39,Waste
+60,3/26/24,5:23:11 PM,13,2,Dylan McIntyre,R,Ryle High School,Conner Cuozzo,R,Moeller,2,Bottom,2,1,0,Fast Ball,Strike In Play,Fly Out,86,,14,Shadow
+61,3/26/24,5:25:17 PM,1,1,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,0,0,Slider,Strike Swing and Miss,,0,,19,Shadow
+62,3/26/24,5:25:29 PM,2,2,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,0,1,Fast Ball,Ball,,86,,19,Shadow
+63,3/26/24,5:25:40 PM,3,3,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,1,1,Fast Ball,Strike Foul,,86,,14,Shadow
+64,3/26/24,5:25:58 PM,4,4,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,1,2,Slider,Ball,,77,,39,Waste
+65,3/26/24,5:26:23 PM,5,5,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,2,2,Fast Ball,Strike Foul,,88,,17,Shadow
+66,3/26/24,5:26:41 PM,6,6,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,2,2,Slider,Ball,,76,,29,Chase
+67,3/26/24,5:26:58 PM,7,7,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,3,2,Fast Ball,Strike In Play,Fly Out,87,,11,Shadow
+68,3/26/24,5:27:30 PM,8,1,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,0,0,Fast Ball,Strike Swing and Miss,,87,,14,Shadow
+69,3/26/24,5:27:42 PM,9,2,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,0,1,Fast Ball,Ball,,87,,11,Shadow
+70,3/26/24,5:27:57 PM,10,3,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,1,1,Fast Ball,Ball,,87,,11,Shadow
+71,3/26/24,5:28:11 PM,11,4,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,2,1,Fast Ball,Strike Looking,,88,,4,Heart
+72,3/26/24,5:28:26 PM,12,5,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,2,2,Slider,Strike Foul,,78,,16,Shadow
+73,3/26/24,5:28:57 PM,13,6,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,2,2,Fast Ball,Strike Swing and Miss,Strike Out,88,,11,Shadow
+74,3/26/24,5:29:23 PM,14,1,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,3,Top,2,0,0,Change Up,Strike Swing and Miss,,82,,24,Chase
+75,3/26/24,5:29:35 PM,15,2,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,3,Top,2,0,1,Slider,Strike Looking,,78,,11,Shadow
+76,3/26/24,5:29:48 PM,16,3,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,3,Top,2,0,2,Change Up,Strike Swing and Miss,Strike Out,81,,17,Shadow
+77,3/26/24,5:31:54 PM,1,1,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,0,0,Fast Ball,Ball,,84,,21,Chase
+78,3/26/24,5:32:06 PM,2,2,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,1,0,Fast Ball,Strike Foul,,86,,17,Shadow
+79,3/26/24,5:32:21 PM,3,3,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,1,1,Fast Ball,Strike Looking,,87,,11,Shadow
+80,3/26/24,5:32:31 PM,4,4,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,1,2,Change Up,Ball,,80,,39,Waste
+81,3/26/24,5:32:47 PM,5,5,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,2,2,Fast Ball,Ball,,87,,21,Chase
+82,3/26/24,5:33:07 PM,6,6,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,3,2,Fast Ball,Ball,BB,87,,14,Shadow
+83,3/26/24,5:33:39 PM,7,1,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,3,Bottom,0,0,0,Fast Ball,Ball,,84,,14,Shadow
+84,3/26/24,5:34:47 PM,8,2,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,3,Bottom,1,1,0,Fast Ball,Strike In Play,1B,87,,29,Chase
+85,3/26/24,5:35:19 PM,9,1,Dylan McIntyre,R,Ryle High School,Griffin Booth,R,Moeller,3,Bottom,1,0,0,Fast Ball,Strike Foul,,85,,14,Shadow
+86,3/26/24,5:35:38 PM,10,2,Dylan McIntyre,R,Ryle High School,Griffin Booth,R,Moeller,3,Bottom,1,0,1,Breaking Ball,Strike Looking,,76,,19,Shadow
+87,3/26/24,5:36:12 PM,11,3,Dylan McIntyre,R,Ryle High School,Griffin Booth,R,Moeller,3,Bottom,1,0,2,Fast Ball,Strike Swing and Miss,Strike Out,87,,17,Shadow
+88,3/26/24,5:36:53 PM,12,1,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,3,Bottom,2,0,0,Fast Ball,Strike Swing and Miss,,85,,11,Shadow
+89,3/26/24,5:37:12 PM,13,2,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,3,Bottom,2,0,1,Fast Ball,Ball,,86,,27,Chase
+90,3/26/24,5:37:28 PM,14,3,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,3,Bottom,2,1,1,Breaking Ball,Ball,,71,,39,Waste
+91,3/26/24,5:37:44 PM,15,4,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,3,Bottom,2,2,1,Fast Ball,Strike In Play,HR,85,,4,Heart
+92,3/26/24,5:38:38 PM,16,1,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,3,Bottom,2,0,0,Fast Ball,Strike Swing and Miss,,88,,1,Heart
+93,3/26/24,5:38:50 PM,17,2,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,3,Bottom,2,0,1,Breaking Ball,Ball,,76,,39,Waste
+94,3/26/24,5:39:02 PM,18,3,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,3,Bottom,2,1,1,Breaking Ball,Ball,,71,,39,Waste
+95,3/26/24,5:39:12 PM,19,4,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,3,Bottom,2,2,1,Fast Ball,Strike In Play,3B,88,,4,Heart
+96,3/26/24,5:39:59 PM,20,1,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,0,0,Fast Ball,Strike Looking,,87,,11,Shadow
+97,3/26/24,5:40:13 PM,21,2,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,0,1,Change Up,Ball,,80,,38,Waste
+98,3/26/24,5:40:32 PM,22,3,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,1,1,Fast Ball,Strike Foul,,88,,17,Shadow
+99,3/26/24,5:40:53 PM,23,4,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,1,2,Change Up,Ball,,82,,17,Shadow
+100,3/26/24,5:41:16 PM,24,5,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,2,2,Breaking Ball,Ball,,72,,34,Waste
+101,3/26/24,5:41:32 PM,25,6,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,3,2,Fast Ball,Ball,BB,88,,31,Waste
+102,3/26/24,5:42:07 PM,26,1,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,0,0,Fast Ball,Strike Looking,,86,,13,Shadow
+103,3/26/24,5:42:42 PM,27,2,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,0,1,Fast Ball,Strike Foul,,88,,14,Shadow
+104,3/26/24,5:43:04 PM,28,3,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,0,2,Breaking Ball,Ball,,76,,31,Waste
+105,3/26/24,5:43:39 PM,29,4,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,1,2,Breaking Ball,Ball,,71,,31,Waste
+106,3/26/24,5:43:57 PM,30,5,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,2,2,Fast Ball,Ball,,87,,22,Chase
+107,3/26/24,5:44:14 PM,31,6,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,3,2,Fast Ball,Strike In Play,Fly Out,86,,14,Shadow
+108,3/26/24,5:46:13 PM,1,1,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,4,Top,0,0,0,Fast Ball,Ball,,86,,27,Chase
+109,3/26/24,5:46:31 PM,2,2,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,4,Top,0,1,0,Slider,Strike Looking,,77,,5,Heart
+110,3/26/24,5:46:43 PM,3,3,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,4,Top,0,1,1,Fast Ball,Strike In Play,Ground Out,86,,14,Shadow
+111,3/26/24,5:47:15 PM,4,1,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,0,0,Change Up,Ball,,79,,27,Chase
+112,3/26/24,5:47:27 PM,5,2,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,1,0,Slider,Ball,,76,,27,Chase
+113,3/26/24,5:47:43 PM,6,3,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,2,0,Change Up,Ball,,81,,27,Chase
+114,3/26/24,5:47:56 PM,7,4,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,3,0,Fast Ball,Strike Looking,,87,,17,Shadow
+115,3/26/24,5:48:09 PM,8,5,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,3,1,Fast Ball,Strike Looking,,86,,19,Shadow
+116,3/26/24,5:48:27 PM,9,6,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,3,2,Fast Ball,Strike In Play,1B,87,,14,Shadow
+117,3/26/24,5:49:41 PM,10,1,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,4,Top,1,0,0,Fast Ball,Strike Looking,,86,,17,Shadow
+118,3/26/24,5:49:57 PM,11,2,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,4,Top,1,0,1,Change Up,Ball,,80,,21,Chase
+119,3/26/24,5:50:15 PM,12,3,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,4,Top,1,1,1,Fast Ball,Ball,,86,,23,Chase
+120,3/26/24,5:50:37 PM,13,4,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,4,Top,1,2,1,Fast Ball,Strike Looking,,86,,19,Shadow
+121,3/26/24,5:50:57 PM,14,5,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,4,Top,1,2,2,Fast Ball,Strike In Play,Error,86,,16,Shadow
+122,3/26/24,5:51:56 PM,15,1,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,0,0,Slider,Ball,,76,,39,Waste
+123,3/26/24,5:52:16 PM,16,2,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,1,0,Slider,Strike Looking,,77,,19,Shadow
+124,3/26/24,5:52:36 PM,17,3,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,1,1,Fast Ball,Strike Swing and Miss,,87,,14,Shadow
+125,3/26/24,5:52:58 PM,18,4,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,1,2,Fast Ball,Ball,,87,,28,Chase
+126,3/26/24,5:53:45 PM,19,5,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,2,2,Slider,Ball,,78,,29,Chase
+127,3/26/24,5:54:07 PM,20,6,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,3,2,Fast Ball,Strike Swing and Miss,Strike Out,87,,7,Heart
+128,3/26/24,5:54:40 PM,21,1,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,4,Top,2,0,0,Change Up,Ball,,80,,26,Chase
+129,3/26/24,5:55:29 PM,22,2,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,4,Top,2,1,0,Fast Ball,Ball,,86,,17,Shadow
+130,3/26/24,5:56:10 PM,23,3,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,4,Top,2,2,0,Fast Ball,Ball,,86,,29,Chase
+131,3/26/24,5:56:33 PM,24,4,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,4,Top,2,3,0,Fast Ball,Strike Looking,,86,,18,Shadow
+132,3/26/24,5:56:55 PM,25,5,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,4,Top,2,3,1,Fast Ball,Ball,BB,86,,29,Chase
+133,3/26/24,5:57:30 PM,26,1,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,4,Top,2,0,0,Change Up,Strike Looking,,81,,11,Shadow
+134,3/26/24,5:57:49 PM,27,2,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,4,Top,2,0,1,Fast Ball,Strike Swing and Miss,,88,,17,Shadow
+135,3/26/24,5:58:09 PM,28,3,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,4,Top,2,0,2,Change Up,Ball,,80,,29,Chase
+136,3/26/24,5:58:53 PM,29,4,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,4,Top,2,1,2,Change Up,Strike Swing and Miss,Strike Out,82,,19,Shadow
+137,3/26/24,6:01:25 PM,1,1,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,4,Bottom,0,0,0,Change Up,Ball,,0,,37,Waste
+138,3/26/24,6:01:38 PM,2,2,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,4,Bottom,0,1,0,Fast Ball,Strike Foul,,84,,16,Shadow
+139,3/26/24,6:01:56 PM,3,3,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,4,Bottom,0,1,1,Breaking Ball,Strike Foul,,72,,17,Shadow
+140,3/26/24,6:02:21 PM,4,4,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,4,Bottom,0,1,2,Change Up,Strike In Play,1B,79,,7,Heart
+141,3/26/24,6:03:17 PM,5,1,Dylan McIntyre,R,Ryle High School,Conner Cuozzo,R,Moeller,4,Bottom,0,0,0,Fast Ball,Strike Looking,,86,,17,Shadow
+142,3/26/24,6:03:50 PM,6,2,Dylan McIntyre,R,Ryle High School,Conner Cuozzo,R,Moeller,4,Bottom,0,0,1,Change Up,Strike In Play,Line Out,77,,7,Heart
+143,3/26/24,6:04:32 PM,7,1,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,4,Bottom,1,0,0,Fast Ball,Ball,,83,,29,Chase
+144,3/26/24,6:05:07 PM,8,2,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,4,Bottom,1,1,0,Fast Ball,Strike In Play,Ground Out,85,,4,Heart
+145,3/26/24,6:05:47 PM,9,1,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,4,Bottom,2,0,0,Fast Ball,Strike Foul,,85,,14,Shadow
+146,3/26/24,6:06:25 PM,10,2,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,4,Bottom,2,0,1,Change Up,Strike Swing and Miss,,77,,17,Shadow
+147,3/26/24,6:06:47 PM,11,3,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,4,Bottom,2,0,2,Fast Ball,Strike Foul,,89,,29,Chase
+148,3/26/24,6:07:17 PM,12,4,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,4,Bottom,2,0,2,Fast Ball,Ball,,87,,26,Chase
+149,3/26/24,6:07:39 PM,13,5,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,4,Bottom,2,1,2,Fast Ball,Strike In Play,Line Out,87,,18,Shadow
+150,3/26/24,6:10:29 PM,1,1,Finn O'Keefe,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,0,0,0,Fast Ball,Strike Looking,,85,,11,Shadow
+151,3/26/24,6:10:46 PM,2,2,Finn O'Keefe,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,0,0,1,Fast Ball,Ball,,86,,21,Chase
+152,3/26/24,6:11:02 PM,3,3,Finn O'Keefe,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,0,1,1,Change Up,Strike Looking,,78,,19,Shadow
+153,3/26/24,6:11:23 PM,4,4,Finn O'Keefe,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,0,1,2,Change Up,Ball,,81,,29,Chase
+154,3/26/24,6:11:40 PM,5,5,Finn O'Keefe,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,0,2,2,Fast Ball,Strike Looking,Strike Out,85,,12,Shadow
+155,3/26/24,6:12:08 PM,6,1,Finn O'Keefe,R,Moeller,Drake Carrol,R,Ryle High School,5,Top,1,0,0,Change Up,Ball,,79,,23,Chase
+156,3/26/24,6:12:25 PM,7,2,Finn O'Keefe,R,Moeller,Drake Carrol,R,Ryle High School,5,Top,1,1,0,Fast Ball,Ball,,85,,11,Shadow
+157,3/26/24,6:12:41 PM,8,3,Finn O'Keefe,R,Moeller,Drake Carrol,R,Ryle High School,5,Top,1,2,0,Fast Ball,Ball,,85,,22,Chase
+158,3/26/24,6:12:58 PM,9,4,Finn O'Keefe,R,Moeller,Drake Carrol,R,Ryle High School,5,Top,1,3,0,Fast Ball,Ball,BB,86,,21,Chase
+159,3/26/24,6:13:56 PM,10,1,Finn O'Keefe,R,Moeller,Tate Cordrey,L,Ryle High School,5,Top,1,0,0,Fast Ball,Strike Foul,,83,,4,Heart
+160,3/26/24,6:14:46 PM,11,2,Finn O'Keefe,R,Moeller,Tate Cordrey,L,Ryle High School,5,Top,1,0,1,Fast Ball,Ball,,84,,21,Chase
+161,3/26/24,6:15:07 PM,12,3,Finn O'Keefe,R,Moeller,Tate Cordrey,L,Ryle High School,5,Top,1,1,1,Fast Ball,Ball,,84,,21,Chase
+162,3/26/24,6:15:29 PM,13,4,Finn O'Keefe,R,Moeller,Tate Cordrey,L,Ryle High School,5,Top,1,2,1,Fast Ball,Ball,,83,,24,Chase
+163,3/26/24,6:15:49 PM,14,5,Finn O'Keefe,R,Moeller,Tate Cordrey,L,Ryle High School,5,Top,1,3,1,Fast Ball,Ball,BB,84,,21,Chase
+164,3/26/24,6:17:10 PM,15,1,Finn O'Keefe,R,Moeller,Sam Eppley,R,Ryle High School,5,Top,1,0,0,Fast Ball,Ball,,86,,11,Shadow
+165,3/26/24,6:17:34 PM,16,2,Finn O'Keefe,R,Moeller,Sam Eppley,R,Ryle High School,5,Top,1,1,0,Fast Ball,Strike In Play,1B,84,,4,Heart
+166,3/26/24,6:18:15 PM,17,1,Finn O'Keefe,R,Moeller,AJ Curray,L,Ryle High School,5,Top,1,0,0,Change Up,Ball,,76,,39,Waste
+167,3/26/24,6:18:36 PM,18,2,Finn O'Keefe,R,Moeller,AJ Curray,L,Ryle High School,5,Top,1,1,0,Change Up,Ball,,77,,39,Waste
+168,3/26/24,6:18:57 PM,19,3,Finn O'Keefe,R,Moeller,AJ Curray,L,Ryle High School,5,Top,1,2,0,Fast Ball,Ball,,86,,29,Chase
+169,3/26/24,6:19:19 PM,20,4,Finn O'Keefe,R,Moeller,AJ Curray,L,Ryle High School,5,Top,1,3,0,Fast Ball,Strike Looking,,85,,17,Shadow
+170,3/26/24,6:19:37 PM,21,5,Finn O'Keefe,R,Moeller,AJ Curray,L,Ryle High School,5,Top,1,3,1,Fast Ball,Strike In Play,1B,85,,19,Shadow
+171,3/26/24,6:20:22 PM,22,1,Finn O'Keefe,R,Moeller,Dylan McIntyre,R,Ryle High School,5,Top,1,0,0,Change Up,Strike Looking,,78,,19,Shadow
+172,3/26/24,6:20:41 PM,23,2,Finn O'Keefe,R,Moeller,Dylan McIntyre,R,Ryle High School,5,Top,1,0,1,Fast Ball,Strike Foul,,85,,14,Shadow
+173,3/26/24,6:21:09 PM,24,3,Finn O'Keefe,R,Moeller,Dylan McIntyre,R,Ryle High School,5,Top,1,0,2,Change Up,Strike In Play,1B,79,,16,Shadow
+174,3/26/24,6:21:51 PM,25,1,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,0,0,Fast Ball,Strike Looking,,86,,16,Shadow
+175,3/26/24,6:22:10 PM,26,2,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,0,1,Change Up,Ball,,77,,39,Waste
+176,3/26/24,6:22:48 PM,27,3,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,1,1,Fast Ball,Ball,,83,,31,Waste
+177,3/26/24,6:23:12 PM,28,4,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,2,1,Fast Ball,Strike Foul,,86,,14,Shadow
+178,3/26/24,6:23:48 PM,29,5,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,2,2,Change Up,Ball,,77,,36,Waste
+179,3/26/24,6:24:08 PM,30,6,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,3,2,Fast Ball,Strike In Play,1B,86,,1,Heart
+180,3/26/24,6:26:37 PM,1,1,Connor Fuhrer,R,Moeller,Matt Furtado,R,Ryle High School,5,Top,1,0,0,Fast Ball,Strike In Play,1B,83,,16,Shadow
+181,3/26/24,6:27:18 PM,2,1,Connor Fuhrer,R,Moeller,Caleb Mann,L,Ryle High School,5,Top,1,0,0,Fast Ball,Ball,,0,,23,Chase
+182,3/26/24,6:27:54 PM,3,2,Connor Fuhrer,R,Moeller,Caleb Mann,L,Ryle High School,5,Top,1,1,0,Fast Ball,Strike Looking,,83,,16,Shadow
+183,3/26/24,6:28:12 PM,4,3,Connor Fuhrer,R,Moeller,Caleb Mann,L,Ryle High School,5,Top,1,1,1,Change Up,Strike Looking,,77,,14,Shadow
+184,3/26/24,6:28:30 PM,5,4,Connor Fuhrer,R,Moeller,Caleb Mann,L,Ryle High School,5,Top,1,1,2,Slider,Strike Looking,Strike Out,75,,11,Shadow
+185,3/26/24,6:29:06 PM,6,1,Connor Fuhrer,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,2,0,0,Fast Ball,Ball,,85,,11,Shadow
+186,3/26/24,6:29:21 PM,7,2,Connor Fuhrer,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,2,1,0,Slider,Strike Looking,,73,,17,Shadow
+187,3/26/24,6:29:41 PM,8,3,Connor Fuhrer,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,2,1,1,Slider,Ball,,73,,11,Shadow
+188,3/26/24,6:29:56 PM,9,4,Connor Fuhrer,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,2,2,1,Fast Ball,Strike Looking,,85,,17,Shadow
+189,3/26/24,6:30:14 PM,10,5,Connor Fuhrer,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,2,2,2,Fast Ball,Strike Looking,Strike Out,85,,16,Shadow
+190,3/26/24,6:33:04 PM,1,1,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,0,0,Fast Ball,Strike Looking,,85,,14,Shadow
+191,3/26/24,6:33:21 PM,2,2,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,0,1,Change Up,Ball,,80,,39,Waste
+192,3/26/24,6:33:36 PM,3,3,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,1,1,Fast Ball,Ball,,84,,32,Waste
+193,3/26/24,6:33:56 PM,4,4,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,2,1,Breaking Ball,Strike Foul,,70,,18,Shadow
+194,3/26/24,6:34:26 PM,5,5,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,2,2,Breaking Ball,Ball,,72,,28,Chase
+195,3/26/24,6:35:06 PM,6,6,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,3,2,Fast Ball,Strike Foul,,84,,19,Shadow
+196,3/26/24,6:35:24 PM,7,7,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,3,2,Breaking Ball,Strike Swing and Miss,Strike Out,69,,37,Waste
+197,3/26/24,6:35:57 PM,8,1,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,5,Bottom,1,0,0,Fast Ball,Strike Looking,,85,,19,Shadow
+198,3/26/24,6:36:11 PM,9,2,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,5,Bottom,1,0,1,Fast Ball,Strike Looking,,82,,19,Shadow
+199,3/26/24,6:36:28 PM,10,3,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,5,Bottom,1,0,2,Breaking Ball,Ball,,71,,13,Shadow
+200,3/26/24,6:36:42 PM,11,4,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,5,Bottom,1,1,2,Fast Ball,Strike Swing and Miss,Strike Out,84,,16,Shadow
+201,3/26/24,6:37:11 PM,12,1,AJ Curray,L,Ryle High School,Charlie Valencic,R,Moeller,5,Bottom,2,0,0,Breaking Ball,Strike Looking,,72,,19,Shadow
+202,3/26/24,6:37:24 PM,13,2,AJ Curray,L,Ryle High School,Charlie Valencic,R,Moeller,5,Bottom,2,0,1,Fast Ball,Ball,,83,,38,Waste
+203,3/26/24,6:37:38 PM,14,3,AJ Curray,L,Ryle High School,Charlie Valencic,R,Moeller,5,Bottom,2,1,1,Fast Ball,Strike In Play,Line Out,85,,19,Shadow
+204,3/26/24,6:39:41 PM,1,1,Connor Fuhrer,R,Moeller,Drake Carrol,R,Ryle High School,6,Top,0,0,0,Fast Ball,Strike Swing and Miss,,84,,19,Shadow
+205,3/26/24,6:39:53 PM,2,2,Connor Fuhrer,R,Moeller,Drake Carrol,R,Ryle High School,6,Top,0,0,1,Fast Ball,Ball,,85,,29,Chase
+206,3/26/24,6:40:08 PM,3,3,Connor Fuhrer,R,Moeller,Drake Carrol,R,Ryle High School,6,Top,0,1,1,Fast Ball,Ball,,84,,39,Waste
+207,3/26/24,6:40:21 PM,4,4,Connor Fuhrer,R,Moeller,Drake Carrol,R,Ryle High School,6,Top,0,2,1,Fast Ball,Ball,,84,,21,Chase
+208,3/26/24,6:40:33 PM,5,5,Connor Fuhrer,R,Moeller,Drake Carrol,R,Ryle High School,6,Top,0,3,1,Fast Ball,Ball,BB,85,,11,Shadow
+209,3/26/24,6:41:01 PM,6,1,Connor Fuhrer,R,Moeller,Tate Cordrey,L,Ryle High School,6,Top,0,0,0,Change Up,Ball,,76,,37,Waste
+210,3/26/24,6:41:17 PM,7,2,Connor Fuhrer,R,Moeller,Tate Cordrey,L,Ryle High School,6,Top,0,1,0,Fast Ball,Strike Foul,,85,,16,Shadow
+211,3/26/24,6:41:55 PM,8,3,Connor Fuhrer,R,Moeller,Tate Cordrey,L,Ryle High School,6,Top,0,1,1,Fast Ball,Strike Swing and Miss,,84,,17,Shadow
+212,3/26/24,6:42:23 PM,9,4,Connor Fuhrer,R,Moeller,Tate Cordrey,L,Ryle High School,6,Top,0,1,2,Slider,Ball,,75,,39,Waste
+213,3/26/24,6:42:44 PM,10,5,Connor Fuhrer,R,Moeller,Tate Cordrey,L,Ryle High School,6,Top,0,2,2,Fast Ball,Strike Swing and Miss,Strike Out,84,,14,Shadow
+214,3/26/24,6:43:09 PM,11,1,Connor Fuhrer,R,Moeller,Sam Eppley,R,Ryle High School,6,Top,1,0,0,Slider,Strike In Play,Fly Out,73,,8,Heart
+215,3/26/24,6:43:47 PM,12,1,Connor Fuhrer,R,Moeller,AJ Curray,L,Ryle High School,6,Top,2,0,0,Fast Ball,Ball,,84,,28,Chase
+216,3/26/24,6:44:05 PM,13,2,Connor Fuhrer,R,Moeller,AJ Curray,L,Ryle High School,6,Top,2,1,0,Slider,Ball,,76,,27,Chase
+217,3/26/24,6:44:24 PM,14,3,Connor Fuhrer,R,Moeller,AJ Curray,L,Ryle High School,6,Top,2,2,0,Fast Ball,Ball,,84,,28,Chase
+218,3/26/24,6:44:39 PM,15,4,Connor Fuhrer,R,Moeller,AJ Curray,L,Ryle High School,6,Top,2,3,0,Fast Ball,Strike Looking,,82,,17,Shadow
+219,3/26/24,6:44:52 PM,16,5,Connor Fuhrer,R,Moeller,AJ Curray,L,Ryle High School,6,Top,2,3,1,Fast Ball,Strike In Play,Ground Out,84,,14,Shadow
+220,3/26/24,6:47:20 PM,1,1,AJ Curray,L,Ryle High School,Matt Ponatoski,L,Moeller,6,Bottom,0,0,0,Breaking Ball,Ball,,70,,27,Chase
+221,3/26/24,6:47:31 PM,2,2,AJ Curray,L,Ryle High School,Matt Ponatoski,L,Moeller,6,Bottom,0,1,0,Fast Ball,Strike Looking,,85,,17,Shadow
+222,3/26/24,6:47:46 PM,3,3,AJ Curray,L,Ryle High School,Matt Ponatoski,L,Moeller,6,Bottom,0,1,1,Breaking Ball,Strike Looking,,70,,14,Shadow
+223,3/26/24,6:48:02 PM,4,4,AJ Curray,L,Ryle High School,Matt Ponatoski,L,Moeller,6,Bottom,0,1,2,Breaking Ball,Ball,,72,,27,Chase
+224,3/26/24,6:48:17 PM,5,5,AJ Curray,L,Ryle High School,Matt Ponatoski,L,Moeller,6,Bottom,0,2,2,Fast Ball,Strike Swing and Miss,Strike Out,82,,17,Shadow
+225,3/26/24,6:48:47 PM,6,1,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,0,0,Fast Ball,Strike Looking,,82,,16,Shadow
+226,3/26/24,6:49:02 PM,7,2,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,0,1,Fast Ball,Ball,,82,,26,Chase
+227,3/26/24,6:49:17 PM,8,3,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,1,1,Breaking Ball,Ball,,71,,38,Waste
+228,3/26/24,6:49:36 PM,9,4,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,2,1,Breaking Ball,Strike Foul,,71,,8,Heart
+229,3/26/24,6:49:59 PM,10,5,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,2,2,Fast Ball,Ball,,87,,23,Chase
+230,3/26/24,6:50:14 PM,11,6,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,3,2,Change Up,Ball,BB,80,,39,Waste
+231,3/26/24,6:50:43 PM,12,1,AJ Curray,L,Ryle High School,Cooper Ridley,L,Moeller,6,Bottom,1,0,0,Fast Ball,Ball,,87,,27,Chase
+232,3/26/24,6:51:01 PM,13,2,AJ Curray,L,Ryle High School,Cooper Ridley,L,Moeller,6,Bottom,1,1,0,Fast Ball,Ball,,82,,11,Shadow
+233,3/26/24,6:51:20 PM,14,3,AJ Curray,L,Ryle High School,Cooper Ridley,L,Moeller,6,Bottom,1,2,0,Breaking Ball,Ball,,70,,26,Chase
+234,3/26/24,6:51:36 PM,15,4,AJ Curray,L,Ryle High School,Cooper Ridley,L,Moeller,6,Bottom,1,3,0,Fast Ball,Ball,BB,83,,22,Chase
+235,3/26/24,6:52:22 PM,16,1,AJ Curray,L,Ryle High School,Conner Cuozzo,R,Moeller,6,Bottom,1,0,0,Fast Ball,Strike In Play,2B,82,,7,Heart
+236,3/26/24,6:54:07 PM,17,1,AJ Curray,L,Ryle High School,Forrest Day,L,Moeller,6,Bottom,1,0,0,Fast Ball,Ball,,84,,14,Shadow
+237,3/26/24,6:54:25 PM,18,2,AJ Curray,L,Ryle High School,Forrest Day,L,Moeller,6,Bottom,1,1,0,Fast Ball,Strike Swing and Miss,,83,,17,Shadow
+238,3/26/24,6:54:41 PM,19,3,AJ Curray,L,Ryle High School,Forrest Day,L,Moeller,6,Bottom,1,1,1,Breaking Ball,Strike In Play,Error,71,,18,Shadow
+239,3/26/24,6:55:30 PM,20,1,AJ Curray,L,Ryle High School,Luke Pappano,L,Moeller,6,Bottom,1,0,0,Breaking Ball,Ball,,72,,29,Chase
+240,3/26/24,6:55:45 PM,21,2,AJ Curray,L,Ryle High School,Luke Pappano,L,Moeller,6,Bottom,1,1,0,Fast Ball,Strike Foul,,85,,1,Heart
+241,3/26/24,6:56:06 PM,22,3,AJ Curray,L,Ryle High School,Luke Pappano,L,Moeller,6,Bottom,1,1,1,Fast Ball,Strike Swing and Miss,,83,,19,Shadow
+242,3/26/24,6:56:22 PM,23,4,AJ Curray,L,Ryle High School,Luke Pappano,L,Moeller,6,Bottom,1,1,2,Fast Ball,Strike Foul,,85,,19,Shadow
+243,3/26/24,6:56:42 PM,24,5,AJ Curray,L,Ryle High School,Luke Pappano,L,Moeller,6,Bottom,1,1,2,Fast Ball,Strike Looking,Strike Out,85,,8,Heart
+244,3/26/24,6:57:31 PM,25,1,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,0,0,Fast Ball,Ball,,84,,38,Waste
+245,3/26/24,6:57:46 PM,26,2,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,1,0,Fast Ball,Ball,,83,,11,Shadow
+246,3/26/24,6:58:01 PM,27,3,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,2,0,Fast Ball,Strike Foul,,83,,14,Shadow
+247,3/26/24,6:58:33 PM,28,4,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,2,1,Fast Ball,Ball,,85,,23,Chase
+248,3/26/24,6:58:47 PM,29,5,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,3,1,Breaking Ball,Strike Foul,,0,,19,Shadow
+249,3/26/24,6:59:12 PM,30,6,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,3,2,Fast Ball,Ball,BB,88,,23,Chase
+250,3/26/24,7:00:19 PM,31,1,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,6,Bottom,2,0,0,Fast Ball,Ball,,81,,23,Chase
+251,3/26/24,7:00:36 PM,32,2,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,6,Bottom,2,1,0,Fast Ball,Strike Looking,,83,,12,Shadow
+252,3/26/24,7:00:55 PM,33,3,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,6,Bottom,2,1,1,Breaking Ball,Ball,,71,,29,Chase
+253,3/26/24,7:01:12 PM,34,4,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,6,Bottom,2,2,1,Fast Ball,Strike Swing and Miss,,84,,1,Heart
+254,3/26/24,7:01:39 PM,35,5,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,6,Bottom,2,2,2,Fast Ball,Strike Looking,Strike Out,84,,19,Shadow
+255,3/26/24,7:03:29 PM,1,1,Connor Fuhrer,R,Moeller,Dylan McIntyre,R,Ryle High School,7,Top,0,0,0,Fast Ball,Strike Foul,,84,,14,Shadow
+256,3/26/24,7:03:53 PM,2,2,Connor Fuhrer,R,Moeller,Dylan McIntyre,R,Ryle High School,7,Top,0,0,1,Slider,Ball,,74,,23,Chase
+257,3/26/24,7:04:07 PM,3,3,Connor Fuhrer,R,Moeller,Dylan McIntyre,R,Ryle High School,7,Top,0,1,1,Fast Ball,Ball,,85,,26,Chase
+258,3/26/24,7:04:23 PM,4,4,Connor Fuhrer,R,Moeller,Dylan McIntyre,R,Ryle High School,7,Top,0,2,1,Fast Ball,Ball,,84,,39,Waste
+259,3/26/24,7:04:37 PM,5,5,Connor Fuhrer,R,Moeller,Dylan McIntyre,R,Ryle High School,7,Top,0,3,1,Slider,Strike In Play,Fly Out,73,,11,Shadow
+260,3/26/24,7:05:07 PM,6,1,Connor Fuhrer,R,Moeller,Josh Caudill,R,Ryle High School,7,Top,1,0,0,Slider,Strike In Play,Fly Out,0,,12,Shadow
+261,3/26/24,7:05:41 PM,7,1,Connor Fuhrer,R,Moeller,Matt Furtado,R,Ryle High School,7,Top,2,0,0,Fast Ball,Strike Swing and Miss,,85,,17,Shadow
+262,3/26/24,7:05:58 PM,8,2,Connor Fuhrer,R,Moeller,Matt Furtado,R,Ryle High School,7,Top,2,0,1,Slider,Ball,,76,,39,Waste
+263,3/26/24,7:06:08 PM,9,3,Connor Fuhrer,R,Moeller,Matt Furtado,R,Ryle High School,7,Top,2,1,1,Fast Ball,Strike Swing and Miss,,84,,11,Shadow
+264,3/26/24,7:06:26 PM,10,4,Connor Fuhrer,R,Moeller,Matt Furtado,R,Ryle High School,7,Top,2,1,2,Slider,Strike Swing and Miss,Strike Out,77,,19,Shadow
