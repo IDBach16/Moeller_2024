@@ -1,0 +1,959 @@
+PitchNo,Date,Time,PAofInning,PAofInning,Pitcher,PitcherHand,PitcherTeam,Batter,Batter Hand,BatterTeam,Inning,Top/Bottom,Outs,Balls,Strikes,PitchType,PitchResult,AtBatResult,PitchVelo,Location,AttackZone
+1,3/23/24,4:11:09 PM,1,1,Zion Theophilus,R,Moeller,Faris Thabata,R,Strongsville High School,1,Top,0,0,0,Fast Ball,Strike Looking,,91,13,Shadow
+2,3/23/24,4:11:23 PM,2,2,Zion Theophilus,R,Moeller,Faris Thabata,R,Strongsville High School,1,Top,0,0,1,Fast Ball,Strike In Play,Ground Out,91,11,Shadow
+3,3/23/24,4:11:49 PM,3,1,Zion Theophilus,R,Moeller,Brett Kappel,R,Strongsville High School,1,Top,1,0,0,Fast Ball,Ball,,91,13,Shadow
+4,3/23/24,4:12:05 PM,4,2,Zion Theophilus,R,Moeller,Brett Kappel,R,Strongsville High School,1,Top,1,1,0,Fast Ball,Strike Looking,,90,5,Heart
+5,3/23/24,4:12:21 PM,5,3,Zion Theophilus,R,Moeller,Brett Kappel,R,Strongsville High School,1,Top,1,1,1,Fast Ball,Strike Swing and Miss,,87,12,Shadow
+6,3/23/24,4:12:36 PM,6,4,Zion Theophilus,R,Moeller,Brett Kappel,R,Strongsville High School,1,Top,1,1,2,Fast Ball,Strike In Play,Line Out,88,16,Shadow
+7,3/23/24,4:13:11 PM,7,1,Zion Theophilus,R,Moeller,Jude Fisher,R,Strongsville High School,1,Top,2,0,0,Slider,Strike Looking,,76,17,Shadow
+8,3/23/24,4:13:23 PM,8,2,Zion Theophilus,R,Moeller,Jude Fisher,R,Strongsville High School,1,Top,2,0,1,Fast Ball,Strike Foul,,90,12,Shadow
+9,3/23/24,4:13:50 PM,9,3,Zion Theophilus,R,Moeller,Jude Fisher,R,Strongsville High School,1,Top,2,0,2,Slider,Ball,,81,32,Waste
+10,3/23/24,4:14:05 PM,10,4,Zion Theophilus,R,Moeller,Jude Fisher,R,Strongsville High School,1,Top,2,1,2,Fast Ball,Strike In Play,Fly Out,89,13,Shadow
+11,3/23/24,4:16:55 PM,1,1,Austin Payne,R,Strongsville High School,Will McCullough,R,Moeller,1,Bottom,0,0,0,Fast Ball,Strike Looking,,73,16,Shadow
+12,3/23/24,4:17:08 PM,2,2,Austin Payne,R,Strongsville High School,Will McCullough,R,Moeller,1,Bottom,0,0,1,Breaking Ball,Ball,,68,22,Chase
+13,3/23/24,4:17:25 PM,3,3,Austin Payne,R,Strongsville High School,Will McCullough,R,Moeller,1,Bottom,0,1,1,Breaking Ball,Ball,,69,39,Waste
+14,3/23/24,4:17:41 PM,4,4,Austin Payne,R,Strongsville High School,Will McCullough,R,Moeller,1,Bottom,0,2,1,Fast Ball,Strike Foul,,74,16,Shadow
+15,3/23/24,4:18:05 PM,5,5,Austin Payne,R,Strongsville High School,Will McCullough,R,Moeller,1,Bottom,0,2,2,Fast Ball,Strike Foul,,70,11,Shadow
+16,3/23/24,4:18:26 PM,6,6,Austin Payne,R,Strongsville High School,Will McCullough,R,Moeller,1,Bottom,0,2,2,Fast Ball,Strike In Play,1B,76,16,Shadow
+17,3/23/24,4:18:54 PM,7,1,Austin Payne,R,Strongsville High School,Charlie Valencic,R,Moeller,1,Bottom,0,0,0,Fast Ball,Ball,,71,28,Chase
+18,3/23/24,4:19:11 PM,8,2,Austin Payne,R,Strongsville High School,Charlie Valencic,R,Moeller,1,Bottom,0,1,0,Fast Ball,Strike Swing and Miss,,74,1,Heart
+19,3/23/24,4:19:58 PM,9,3,Austin Payne,R,Strongsville High School,Charlie Valencic,R,Moeller,1,Bottom,0,1,1,Fast Ball,Strike Foul,,72,16,Shadow
+20,3/23/24,4:20:18 PM,10,4,Austin Payne,R,Strongsville High School,Charlie Valencic,R,Moeller,1,Bottom,0,1,2,Change Up,Strike In Play,Ground Out,70,19,Shadow
+21,3/23/24,4:20:48 PM,11,1,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,1,Bottom,1,0,0,Fast Ball,Strike Looking,,71,11,Shadow
+22,3/23/24,4:21:05 PM,12,2,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,1,Bottom,1,0,1,Fast Ball,Strike Foul,,70,16,Shadow
+23,3/23/24,4:21:31 PM,13,3,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,1,Bottom,1,0,2,Fast Ball,Ball,,78,21,Chase
+24,3/23/24,4:21:47 PM,14,4,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,1,Bottom,1,1,2,Fast Ball,Ball,,71,29,Chase
+25,3/23/24,4:22:02 PM,15,5,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,1,Bottom,1,2,2,Fast Ball,Ball,,79,22,Chase
+26,3/23/24,4:22:19 PM,16,6,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,1,Bottom,1,3,2,Fast Ball,Strike In Play,Sacrifice,78,5,Heart
+27,3/23/24,4:22:56 PM,17,1,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,1,Bottom,2,0,0,Breaking Ball,Ball,,68,11,Shadow
+28,3/23/24,4:23:09 PM,18,2,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,1,Bottom,2,1,0,Fast Ball,Strike Looking,,74,16,Shadow
+29,3/23/24,4:23:20 PM,19,3,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,1,Bottom,2,1,1,Fast Ball,Ball,,76,22,Chase
+30,3/23/24,4:23:34 PM,20,4,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,1,Bottom,2,2,1,Fast Ball,Strike Swing and Miss,,73,17,Shadow
+31,3/23/24,4:23:49 PM,21,5,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,1,Bottom,2,2,2,Fast Ball,Strike In Play,Ground Out,77,16,Shadow
+32,3/23/24,4:25:46 PM,1,1,Zion Theophilus,R,Moeller,Tommy Farkas,R,Strongsville High School,2,Top,0,0,0,Slider,Strike Looking,,81,4,Heart
+33,3/23/24,4:25:59 PM,2,2,Zion Theophilus,R,Moeller,Tommy Farkas,R,Strongsville High School,2,Top,0,0,1,Fast Ball,Strike Swing and Miss,,32,1,Heart
+34,3/23/24,4:26:14 PM,3,3,Zion Theophilus,R,Moeller,Tommy Farkas,R,Strongsville High School,2,Top,0,0,2,Slider,Ball,,81,11,Shadow
+35,3/23/24,4:26:26 PM,4,4,Zion Theophilus,R,Moeller,Tommy Farkas,R,Strongsville High School,2,Top,0,1,2,Fast Ball,Strike Foul,,92,6,Heart
+36,3/23/24,4:26:48 PM,5,5,Zion Theophilus,R,Moeller,Tommy Farkas,R,Strongsville High School,2,Top,0,1,2,Slider,Strike Swing and Miss,Strike Out,82,12,Shadow
+37,3/23/24,4:27:15 PM,6,1,Zion Theophilus,R,Moeller,Brady Eckert,R,Strongsville High School,2,Top,1,0,0,Slider,Strike In Play,Ground Out,81,4,Heart
+38,3/23/24,4:27:43 PM,7,1,Zion Theophilus,R,Moeller,Keegan Cubbison,L,Strongsville High School,2,Top,2,0,0,Fast Ball,Ball,,91,21,Chase
+39,3/23/24,4:28:04 PM,8,2,Zion Theophilus,R,Moeller,Keegan Cubbison,L,Strongsville High School,2,Top,2,1,0,Fast Ball,Ball,,90,29,Chase
+40,3/23/24,4:28:17 PM,9,3,Zion Theophilus,R,Moeller,Keegan Cubbison,L,Strongsville High School,2,Top,2,2,0,Fast Ball,Ball,,91,17,Shadow
+41,3/23/24,4:28:33 PM,10,4,Zion Theophilus,R,Moeller,Keegan Cubbison,L,Strongsville High School,2,Top,2,3,0,Fast Ball,Strike Looking,,91,12,Shadow
+42,3/23/24,4:28:47 PM,11,5,Zion Theophilus,R,Moeller,Keegan Cubbison,L,Strongsville High School,2,Top,2,3,1,Fast Ball,Ball,BB,90,19,Shadow
+43,3/23/24,4:29:11 PM,12,1,Zion Theophilus,R,Moeller,Evan Hartman,R,Strongsville High School,2,Top,2,0,0,Fast Ball,Ball,,90,29,Chase
+44,3/23/24,4:29:26 PM,13,2,Zion Theophilus,R,Moeller,Evan Hartman,R,Strongsville High School,2,Top,2,1,0,Fast Ball,Strike Looking,,89,13,Shadow
+45,3/23/24,4:29:40 PM,14,3,Zion Theophilus,R,Moeller,Evan Hartman,R,Strongsville High School,2,Top,2,1,1,Slider,Strike Looking,,80,16,Shadow
+46,3/23/24,4:29:58 PM,15,4,Zion Theophilus,R,Moeller,Evan Hartman,R,Strongsville High School,2,Top,2,1,2,Slider,Ball,,80,23,Chase
+47,3/23/24,4:30:13 PM,16,5,Zion Theophilus,R,Moeller,Evan Hartman,R,Strongsville High School,2,Top,2,2,2,Fast Ball,Strike Foul,,90,5,Heart
+48,3/23/24,4:30:39 PM,17,6,Zion Theophilus,R,Moeller,Evan Hartman,R,Strongsville High School,2,Top,2,2,2,Slider,Strike Swing and Miss,Strike Out,80,18,Shadow
+49,3/23/24,4:32:36 PM,1,1,Austin Payne,R,Strongsville High School,Cooper Ridley,L,Moeller,2,Bottom,0,0,0,Fast Ball,Ball,,74,27,Chase
+50,3/23/24,4:32:46 PM,2,2,Austin Payne,R,Strongsville High School,Cooper Ridley,L,Moeller,2,Bottom,0,1,0,Fast Ball,Strike Looking,,78,18,Shadow
+51,3/23/24,4:32:59 PM,3,3,Austin Payne,R,Strongsville High School,Cooper Ridley,L,Moeller,2,Bottom,0,1,1,Fast Ball,Strike Foul,,78,22,Chase
+52,3/23/24,4:33:16 PM,4,4,Austin Payne,R,Strongsville High School,Cooper Ridley,L,Moeller,2,Bottom,0,1,2,Breaking Ball,Strike Swing and Miss,Strike Out,78,19,Shadow
+53,3/23/24,4:33:39 PM,5,1,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,2,Bottom,1,0,0,Change Up,Strike Foul,,71,4,Heart
+54,3/23/24,4:33:58 PM,6,2,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,2,Bottom,1,0,1,Change Up,Ball,,73,14,Shadow
+55,3/23/24,4:34:11 PM,7,3,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,2,Bottom,1,1,1,Fast Ball,Strike Looking,,77,16,Shadow
+56,3/23/24,4:34:25 PM,8,4,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,2,Bottom,1,1,2,Change Up,Strike Foul,,71,5,Heart
+57,3/23/24,4:34:48 PM,9,5,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,2,Bottom,1,1,2,Fast Ball,Strike Foul,,76,14,Shadow
+58,3/23/24,4:35:06 PM,10,6,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,2,Bottom,1,1,2,Change Up,Strike Swing and Miss,Strike Out,70,13,Shadow
+59,3/23/24,4:35:36 PM,11,1,Austin Payne,R,Strongsville High School,Luke Pappano,L,Moeller,2,Bottom,2,0,0,Fast Ball,Ball,,72,11,Shadow
+60,3/23/24,4:35:48 PM,12,2,Austin Payne,R,Strongsville High School,Luke Pappano,L,Moeller,2,Bottom,2,1,0,Fast Ball,Strike Foul,,79,19,Shadow
+61,3/23/24,4:36:03 PM,13,3,Austin Payne,R,Strongsville High School,Luke Pappano,L,Moeller,2,Bottom,2,1,1,Change Up,Strike Swing and Miss,,72,39,Waste
+62,3/23/24,4:36:18 PM,14,4,Austin Payne,R,Strongsville High School,Luke Pappano,L,Moeller,2,Bottom,2,1,2,Change Up,Strike Swing and Miss,Strike Out,73,19,Shadow
+63,3/23/24,4:38:30 PM,1,1,Sam Scuglik,R,Moeller,Evan Gyurko,R,Strongsville High School,3,Top,0,0,0,Fast Ball,Strike Swing and Miss,,N/A,18,Shadow
+64,3/23/24,4:38:47 PM,2,2,Sam Scuglik,R,Moeller,Evan Gyurko,R,Strongsville High School,3,Top,0,0,1,Fast Ball,Strike In Play,Ground Out,N/A,6,Heart
+65,3/23/24,4:39:16 PM,3,1,Sam Scuglik,R,Moeller,Murphy Kelley,L,Strongsville High School,3,Top,1,0,0,Fast Ball,Strike Looking,,84,12,Shadow
+66,3/23/24,4:39:30 PM,4,2,Sam Scuglik,R,Moeller,Murphy Kelley,L,Strongsville High School,3,Top,1,0,1,Fast Ball,Strike Foul,,84,13,Shadow
+67,3/23/24,4:39:54 PM,5,3,Sam Scuglik,R,Moeller,Murphy Kelley,L,Strongsville High School,3,Top,1,0,2,Slider,Strike Foul,,76,13,Shadow
+68,3/23/24,4:40:11 PM,6,4,Sam Scuglik,R,Moeller,Murphy Kelley,L,Strongsville High School,3,Top,1,0,2,Fast Ball,Ball,,83,23,Chase
+69,3/23/24,4:40:24 PM,7,5,Sam Scuglik,R,Moeller,Murphy Kelley,L,Strongsville High School,3,Top,1,1,2,Change Up,Ball,,78,14,Shadow
+70,3/23/24,4:40:39 PM,8,6,Sam Scuglik,R,Moeller,Murphy Kelley,L,Strongsville High School,3,Top,1,2,2,Two Seam Fast Ball,Strike Swing and Miss,Strike Out,83,5,Heart
+71,3/23/24,4:41:11 PM,9,1,Sam Scuglik,R,Moeller,Faris Thabata,R,Strongsville High School,3,Top,2,0,0,Slider,Ball,,N/A,29,Chase
+72,3/23/24,4:41:35 PM,10,2,Sam Scuglik,R,Moeller,Faris Thabata,R,Strongsville High School,3,Top,2,1,0,Change Up,Ball,,77,37,Waste
+73,3/23/24,4:41:41 PM,11,3,Sam Scuglik,R,Moeller,Faris Thabata,R,Strongsville High School,3,Top,2,2,0,Fast Ball,Strike Looking,,82,16,Shadow
+74,3/23/24,4:42:03 PM,12,4,Sam Scuglik,R,Moeller,Faris Thabata,R,Strongsville High School,3,Top,2,2,1,Fast Ball,Strike Foul,,83,14,Shadow
+75,3/23/24,4:42:22 PM,13,5,Sam Scuglik,R,Moeller,Faris Thabata,R,Strongsville High School,3,Top,2,2,2,Slider,Strike Swing and Miss,Strike Out,70,13,Shadow
+76,3/23/24,4:44:22 PM,1,1,Austin Payne,R,Strongsville High School,Forrest Day,L,Moeller,3,Bottom,0,0,0,Fast Ball,Strike Foul,,75,16,Shadow
+77,3/23/24,4:44:39 PM,2,2,Austin Payne,R,Strongsville High School,Forrest Day,L,Moeller,3,Bottom,0,0,1,Fast Ball,Strike In Play,1B,74,19,Shadow
+78,3/23/24,4:45:11 PM,3,1,Austin Payne,R,Strongsville High School,Griffin Booth,R,Moeller,3,Bottom,0,0,0,Fast Ball,Strike Foul,,76,13,Shadow
+79,3/23/24,4:45:51 PM,4,2,Austin Payne,R,Strongsville High School,Griffin Booth,R,Moeller,3,Bottom,0,0,1,Fast Ball,Strike In Play,Sacrifice,75,12,Shadow
+80,3/23/24,4:46:30 PM,5,1,Austin Payne,R,Strongsville High School,Will McCullough,R,Moeller,3,Bottom,1,0,0,Fast Ball,Ball,,76,13,Shadow
+81,3/23/24,4:46:52 PM,6,2,Austin Payne,R,Strongsville High School,Will McCullough,R,Moeller,3,Bottom,1,1,0,Fast Ball,Strike In Play,1B,76,16,Shadow
+82,3/23/24,4:47:41 PM,7,1,Austin Payne,R,Strongsville High School,Charlie Valencic,R,Moeller,3,Bottom,1,0,0,Fast Ball,Strike Foul,,77,1,Heart
+83,3/23/24,4:48:01 PM,8,2,Austin Payne,R,Strongsville High School,Charlie Valencic,R,Moeller,3,Bottom,1,0,1,Breaking Ball,Ball,,70,32,Waste
+84,3/23/24,4:48:21 PM,9,3,Austin Payne,R,Strongsville High School,Charlie Valencic,R,Moeller,3,Bottom,1,1,1,Breaking Ball,Strike In Play,1B,70,19,Shadow
+85,3/23/24,4:49:06 PM,10,1,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,3,Bottom,1,0,0,Fast Ball,Strike Foul,,76,22,Chase
+86,3/23/24,4:49:27 PM,11,2,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,3,Bottom,1,0,1,Fast Ball,Ball,,74,38,Waste
+87,3/23/24,4:49:47 PM,12,3,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,3,Bottom,1,1,1,Breaking Ball,Ball,,68,31,Waste
+88,3/23/24,4:50:04 PM,13,4,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,3,Bottom,1,2,1,Fast Ball,Strike Foul,,76,16,Shadow
+89,3/23/24,4:50:41 PM,14,5,Austin Payne,R,Strongsville High School,Matt Ponatoski,L,Moeller,3,Bottom,1,2,2,Fast Ball,Strike In Play,Ground Out,70,27,Chase
+90,3/23/24,4:51:09 PM,15,1,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,3,Bottom,2,0,0,Fast Ball,Ball,,71,14,Shadow
+91,3/23/24,4:51:22 PM,16,2,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,3,Bottom,2,1,0,Fast Ball,Ball,,78,29,Chase
+92,3/23/24,4:51:37 PM,17,3,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,3,Bottom,2,2,0,Fast Ball,Ball,,77,23,Chase
+93,3/23/24,4:51:54 PM,18,4,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,3,Bottom,2,3,0,Fast Ball,Strike Looking,,78,16,Shadow
+94,3/23/24,4:52:08 PM,19,5,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,3,Bottom,2,3,1,Fast Ball,Strike Foul,,77,16,Shadow
+95,3/23/24,4:52:29 PM,20,6,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,3,Bottom,2,3,2,Fast Ball,Strike Foul,,78,21,Chase
+96,3/23/24,4:52:50 PM,21,7,Austin Payne,R,Strongsville High School,Carter Christenson,R,Moeller,3,Bottom,2,3,2,Fast Ball,Strike In Play,1B,78,13,Shadow
+97,3/23/24,4:53:18 PM,22,1,Austin Payne,R,Strongsville High School,Cooper Ridley,L,Moeller,3,Bottom,2,0,0,Fast Ball,Strike In Play,1B,75,16,Shadow
+98,3/23/24,4:54:25 PM,23,1,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,3,Bottom,2,0,0,Breaking Ball,Ball,,64,22,Chase
+99,3/23/24,4:54:39 PM,24,2,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,3,Bottom,2,1,0,Fast Ball,Strike Looking,,77,13,Shadow
+100,3/23/24,4:55:02 PM,25,3,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,3,Bottom,2,1,1,Fast Ball,Strike Looking,,80,13,Shadow
+101,3/23/24,4:55:17 PM,26,4,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,3,Bottom,2,1,2,Fast Ball,Ball,,70,37,Waste
+102,3/23/24,4:55:40 PM,27,5,Austin Payne,R,Strongsville High School,Conner Cuozzo,R,Moeller,3,Bottom,2,2,2,Fast Ball,Strike In Play,2B,77,13,Shadow
+103,3/23/24,4:56:17 PM,28,1,Austin Payne,R,Strongsville High School,Luke Pappano,L,Moeller,3,Bottom,2,0,0,Fast Ball,Strike Foul,,76,13,Shadow
+104,3/23/24,4:56:37 PM,29,2,Austin Payne,R,Strongsville High School,Luke Pappano,L,Moeller,3,Bottom,2,0,1,Fast Ball,Strike Foul,,75,16,Shadow
+105,3/23/24,4:57:01 PM,30,3,Austin Payne,R,Strongsville High School,Luke Pappano,L,Moeller,3,Bottom,2,0,2,Fast Ball,Strike Foul,,73,12,Shadow
+106,3/23/24,4:57:24 PM,31,4,Austin Payne,R,Strongsville High School,Luke Pappano,L,Moeller,3,Bottom,2,0,2,Change Up,Strike Looking,Strike Out,70,11,Shadow
+107,3/23/24,4:59:46 PM,1,1,Sam Scuglik,R,Moeller,Brett Kappel,R,Strongsville High School,4,Top,0,0,0,Fast Ball,Ball,,82,11,Shadow
+108,3/23/24,4:59:57 PM,2,2,Sam Scuglik,R,Moeller,Brett Kappel,R,Strongsville High School,4,Top,0,1,0,Fast Ball,Ball,,81,37,Waste
+109,3/23/24,5:00:10 PM,3,3,Sam Scuglik,R,Moeller,Brett Kappel,R,Strongsville High School,4,Top,0,2,0,Fast Ball,Strike In Play,Ground Out,82,1,Heart
+110,3/23/24,5:00:47 PM,4,1,Sam Scuglik,R,Moeller,Jude Fisher,R,Strongsville High School,4,Top,1,0,0,Slider,Ball,,69,39,Waste
+111,3/23/24,5:01:05 PM,5,2,Sam Scuglik,R,Moeller,Jude Fisher,R,Strongsville High School,4,Top,1,1,0,Fast Ball,Strike Foul,,82,13,Shadow
+112,3/23/24,5:01:25 PM,6,3,Sam Scuglik,R,Moeller,Jude Fisher,R,Strongsville High School,4,Top,1,1,1,Change Up,Ball,,75,14,Shadow
+113,3/23/24,5:01:39 PM,7,4,Sam Scuglik,R,Moeller,Jude Fisher,R,Strongsville High School,4,Top,1,2,1,Fast Ball,Ball,,82,19,Shadow
+114,3/23/24,5:01:53 PM,8,5,Sam Scuglik,R,Moeller,Jude Fisher,R,Strongsville High School,4,Top,1,3,1,Fast Ball,Ball,BB,81,N/A,Waste
+115,3/23/24,5:02:20 PM,9,1,Sam Scuglik,R,Moeller,Tommy Farkas,R,Strongsville High School,4,Top,1,0,0,Fast Ball,Strike In Play,Fielders Choice,81,5,Heart
+116,3/23/24,5:02:56 PM,10,1,Sam Scuglik,R,Moeller,Brady Eckert,R,Strongsville High School,4,Top,2,0,0,Fast Ball,Ball,,80,32,Waste
+117,3/23/24,5:03:19 PM,11,2,Sam Scuglik,R,Moeller,Brady Eckert,R,Strongsville High School,4,Top,2,1,0,Fast Ball,Strike Foul,,81,1,Heart
+118,3/23/24,5:03:39 PM,12,3,Sam Scuglik,R,Moeller,Brady Eckert,R,Strongsville High School,4,Top,2,1,1,Fast Ball,Strike Looking,,82,19,Shadow
+119,3/23/24,5:03:57 PM,13,4,Sam Scuglik,R,Moeller,Brady Eckert,R,Strongsville High School,4,Top,2,1,2,Fast Ball,Strike In Play,Fielders Choice,81,13,Shadow
+120,3/23/24,5:06:48 PM,1,1,Michael McNabb,R,Strongsville High School,Forrest Day,L,Moeller,4,Bottom,0,0,0,Fast Ball,Strike In Play,3B,77,16,Shadow
+121,3/23/24,5:07:28 PM,2,1,Michael McNabb,R,Strongsville High School,Griffin Booth,R,Moeller,4,Bottom,0,0,0,Breaking Ball,Strike Looking,,64,29,Chase
+122,3/23/24,5:07:44 PM,3,2,Michael McNabb,R,Strongsville High School,Griffin Booth,R,Moeller,4,Bottom,0,0,1,Breaking Ball,Strike Looking,,63,14,Shadow
+123,3/23/24,5:08:01 PM,4,3,Michael McNabb,R,Strongsville High School,Griffin Booth,R,Moeller,4,Bottom,0,0,2,Breaking Ball,Strike Swing and Miss,Strike Out,63,29,Chase
+124,3/23/24,5:08:22 PM,5,1,Michael McNabb,R,Strongsville High School,Will McCullough,R,Moeller,4,Bottom,1,0,0,Breaking Ball,Ball,,70,38,Waste
+125,3/23/24,5:08:40 PM,6,2,Michael McNabb,R,Strongsville High School,Will McCullough,R,Moeller,4,Bottom,1,1,0,Fast Ball,Strike In Play,2B,77,16,Shadow
+126,3/23/24,5:09:28 PM,7,1,Michael McNabb,R,Strongsville High School,Charlie Valencic,R,Moeller,4,Bottom,1,0,0,Breaking Ball,Ball,,65,39,Waste
+127,3/23/24,5:09:48 PM,8,2,Michael McNabb,R,Strongsville High School,Charlie Valencic,R,Moeller,4,Bottom,1,1,0,Fast Ball,Strike In Play,Ground Out,74,12,Shadow
+128,3/23/24,5:10:22 PM,9,1,Michael McNabb,R,Strongsville High School,Matt Ponatoski,L,Moeller,4,Bottom,2,0,0,Breaking Ball,Strike Foul,,62,29,Chase
+129,3/23/24,5:10:50 PM,10,2,Michael McNabb,R,Strongsville High School,Matt Ponatoski,L,Moeller,4,Bottom,2,0,1,Breaking Ball,Ball,,72,38,Waste
+130,3/23/24,5:11:09 PM,11,3,Michael McNabb,R,Strongsville High School,Matt Ponatoski,L,Moeller,4,Bottom,2,1,1,Breaking Ball,Strike Looking,,65,4,Heart
+131,3/23/24,5:11:25 PM,12,4,Michael McNabb,R,Strongsville High School,Matt Ponatoski,L,Moeller,4,Bottom,2,1,2,Fast Ball,Ball,,71,27,Chase
+132,3/23/24,5:11:40 PM,13,5,Michael McNabb,R,Strongsville High School,Matt Ponatoski,L,Moeller,4,Bottom,2,2,2,Breaking Ball,Strike Foul,,62,18,Shadow
+133,3/23/24,5:12:08 PM,14,6,Michael McNabb,R,Strongsville High School,Matt Ponatoski,L,Moeller,4,Bottom,2,2,2,Fast Ball,Strike In Play,1B,N/A,19,Shadow
+134,3/23/24,5:12:40 PM,15,1,Michael McNabb,R,Strongsville High School,Carter Christenson,R,Moeller,4,Bottom,2,0,0,Fast Ball,Strike In Play,Ground Out,74,2,Heart
+135,3/23/24,5:14:32 PM,1,1,Sam Scuglik,R,Moeller,Keegan Cubbison,L,Strongsville High School,5,Top,0,0,0,Fast Ball,Ball,,83,22,Chase
+136,3/23/24,5:14:44 PM,2,2,Sam Scuglik,R,Moeller,Keegan Cubbison,L,Strongsville High School,5,Top,0,1,0,Change Up,Strike Looking,,78,26,Chase
+137,3/23/24,5:14:59 PM,3,3,Sam Scuglik,R,Moeller,Keegan Cubbison,L,Strongsville High School,5,Top,0,1,1,Fast Ball,Ball,,82,28,Chase
+138,3/23/24,5:15:12 PM,4,4,Sam Scuglik,R,Moeller,Keegan Cubbison,L,Strongsville High School,5,Top,0,2,1,Fast Ball,Strike Foul,,82,11,Shadow
+139,3/23/24,5:15:28 PM,5,5,Sam Scuglik,R,Moeller,Keegan Cubbison,L,Strongsville High School,5,Top,0,2,2,Change Up,Ball,,77,27,Chase
+140,3/23/24,5:15:40 PM,6,6,Sam Scuglik,R,Moeller,Keegan Cubbison,L,Strongsville High School,5,Top,0,3,2,Fast Ball,Strike Looking,Strike Out,82,16,Shadow
+141,3/23/24,5:16:03 PM,7,1,Sam Scuglik,R,Moeller,Evan Hartman,R,Strongsville High School,5,Top,1,0,0,Fast Ball,Strike Looking,,79,13,Shadow
+142,3/23/24,5:16:14 PM,8,2,Sam Scuglik,R,Moeller,Evan Hartman,R,Strongsville High School,5,Top,1,0,1,Slider,Ball,,65,38,Waste
+143,3/23/24,5:16:32 PM,9,3,Sam Scuglik,R,Moeller,Evan Hartman,R,Strongsville High School,5,Top,1,1,1,Change Up,Ball,,78,39,Waste
+144,3/23/24,5:16:48 PM,10,4,Sam Scuglik,R,Moeller,Evan Hartman,R,Strongsville High School,5,Top,1,2,1,Change Up,Ball,,76,39,Waste
+145,3/23/24,5:17:03 PM,11,5,Sam Scuglik,R,Moeller,Evan Hartman,R,Strongsville High School,5,Top,1,3,1,Change Up,Strike Foul,,77,13,Shadow
+146,3/23/24,5:17:35 PM,12,6,Sam Scuglik,R,Moeller,Evan Hartman,R,Strongsville High School,5,Top,1,3,2,Change Up,Strike In Play,1B,73,29,Chase
+147,3/23/24,5:18:09 PM,13,1,Sam Scuglik,R,Moeller,Evan Gyurko,R,Strongsville High School,5,Top,1,0,0,Change Up,Strike In Play,1B,73,2,Heart
+148,3/23/24,5:18:59 PM,14,1,Sam Scuglik,R,Moeller,Gavin Reid,R,Strongsville High School,5,Top,1,0,0,Two Seam Fast Ball,Ball,HBP,78,34,Waste
+149,3/23/24,5:20:14 PM,15,1,Sam Scuglik,R,Moeller,Faris Thabata,R,Strongsville High School,5,Top,1,0,0,Fast Ball,Strike Looking,,79,16,Shadow
+150,3/23/24,5:20:34 PM,16,2,Sam Scuglik,R,Moeller,Faris Thabata,R,Strongsville High School,5,Top,1,0,1,Change Up,Strike Looking,,77,19,Shadow
+151,3/23/24,5:20:55 PM,17,3,Sam Scuglik,R,Moeller,Faris Thabata,R,Strongsville High School,5,Top,1,0,2,Fast Ball,Strike In Play,Fielders Choice,81,13,Shadow
+152,3/23/24,5:22:50 PM,18,1,Sam Scuglik,R,Moeller,Brett Kappel,R,Strongsville High School,5,Top,2,0,0,Two Seam Fast Ball,Ball,,77,11,Shadow
+153,3/23/24,5:23:06 PM,19,2,Sam Scuglik,R,Moeller,Brett Kappel,R,Strongsville High School,5,Top,2,1,0,Fast Ball,Ball,,81,N/A,Waste
+154,3/23/24,5:23:19 PM,20,3,Sam Scuglik,R,Moeller,Brett Kappel,R,Strongsville High School,5,Top,2,2,0,Change Up,Strike Looking,,78,17,Shadow
+155,3/23/24,5:23:34 PM,21,4,Sam Scuglik,R,Moeller,Brett Kappel,R,Strongsville High School,5,Top,2,2,1,Fast Ball,Ball,,78,39,Waste
+156,3/23/24,5:24:06 PM,22,5,Sam Scuglik,R,Moeller,Brett Kappel,R,Strongsville High School,5,Top,2,3,1,Fast Ball,Ball,BB,79,33,Waste
+157,3/23/24,5:26:57 PM,1,1,Tyler Heflin,R,Moeller,Jude Fisher,R,Strongsville High School,5,Top,2,0,0,Fast Ball,Ball,,83,38,Waste
+158,3/23/24,5:27:18 PM,2,2,Tyler Heflin,R,Moeller,Jude Fisher,R,Strongsville High School,5,Top,2,1,0,Fast Ball,Strike In Play,1B,82,13,Shadow
+159,3/23/24,5:27:55 PM,3,1,Tyler Heflin,R,Moeller,Tommy Farkas,R,Strongsville High School,5,Top,2,0,0,Slider,Strike Looking,,73,18,Shadow
+160,3/23/24,5:28:14 PM,4,2,Tyler Heflin,R,Moeller,Tommy Farkas,R,Strongsville High School,5,Top,2,0,1,Fast Ball,Ball,,84,39,Waste
+161,3/23/24,5:28:34 PM,5,3,Tyler Heflin,R,Moeller,Tommy Farkas,R,Strongsville High School,5,Top,2,1,1,Slider,Ball,,72,39,Waste
+162,3/23/24,5:28:57 PM,6,4,Tyler Heflin,R,Moeller,Tommy Farkas,R,Strongsville High School,5,Top,2,2,1,Fast Ball,Strike Swing and Miss,,82,19,Shadow
+163,3/23/24,5:29:23 PM,7,5,Tyler Heflin,R,Moeller,Tommy Farkas,R,Strongsville High School,5,Top,2,2,2,Slider,Ball,,N/A,17,Shadow
+164,3/23/24,5:29:45 PM,8,6,Tyler Heflin,R,Moeller,Tommy Farkas,R,Strongsville High School,5,Top,2,3,2,Fast Ball,Strike In Play,Fly Out,N/A,16,Shadow
+165,3/23/24,5:32:07 PM,1,1,Michael McNabb,R,Strongsville High School,Cooper Ridley,L,Moeller,5,Bottom,0,0,0,Fast Ball,Strike In Play,2B,76,13,Shadow
+166,3/23/24,5:33:20 PM,2,1,Michael McNabb,R,Strongsville High School,Conner Cuozzo,R,Moeller,5,Bottom,0,0,0,Breaking Ball,Strike Looking,,68,2,Heart
+167,3/23/24,5:33:38 PM,3,2,Michael McNabb,R,Strongsville High School,Conner Cuozzo,R,Moeller,5,Bottom,0,0,1,Breaking Ball,Ball,,62,13,Shadow
+168,3/23/24,5:34:00 PM,4,3,Michael McNabb,R,Strongsville High School,Conner Cuozzo,R,Moeller,5,Bottom,0,1,1,Breaking Ball,Ball,,67,39,Waste
+169,3/23/24,5:34:26 PM,5,4,Michael McNabb,R,Strongsville High School,Conner Cuozzo,R,Moeller,5,Bottom,0,2,1,Fast Ball,Strike Swing and Miss,,72,12,Shadow
+170,3/23/24,5:35:07 PM,6,5,Michael McNabb,R,Strongsville High School,Conner Cuozzo,R,Moeller,5,Bottom,0,2,2,Breaking Ball,Ball,,65,29,Chase
+171,3/23/24,5:35:31 PM,7,6,Michael McNabb,R,Strongsville High School,Conner Cuozzo,R,Moeller,5,Bottom,0,3,2,Breaking Ball,Strike Looking,Strike Out,67,13,Shadow
+172,3/23/24,5:36:15 PM,8,1,Michael McNabb,R,Strongsville High School,Hanleigh Lopez,R,Moeller,5,Bottom,1,0,0,Breaking Ball,Strike In Play,Fly Out,N/A,8,Heart
+173,3/23/24,5:36:55 PM,9,1,Michael McNabb,R,Strongsville High School,Forrest Day,L,Moeller,5,Bottom,2,0,0,Breaking Ball,Ball,,67,29,Chase
+174,3/23/24,5:37:08 PM,10,2,Michael McNabb,R,Strongsville High School,Forrest Day,L,Moeller,5,Bottom,2,1,0,Breaking Ball,Strike In Play,Ground Out,64,14,Shadow
+175,3/23/24,5:39:37 PM,1,1,Tyler Heflin,R,Moeller,Brady Eckert,R,Strongsville High School,6,Top,0,0,0,Fast Ball,Ball,,N/A,29,Chase
+176,3/23/24,5:39:53 PM,2,2,Tyler Heflin,R,Moeller,Brady Eckert,R,Strongsville High School,6,Top,0,1,0,Fast Ball,Strike Looking,,86,14,Shadow
+177,3/23/24,5:40:09 PM,3,3,Tyler Heflin,R,Moeller,Brady Eckert,R,Strongsville High School,6,Top,0,1,1,Change Up,Ball,,79,38,Waste
+178,3/23/24,5:40:27 PM,4,4,Tyler Heflin,R,Moeller,Brady Eckert,R,Strongsville High School,6,Top,0,2,1,Fast Ball,Ball,,79,31,Waste
+179,3/23/24,5:40:50 PM,5,5,Tyler Heflin,R,Moeller,Brady Eckert,R,Strongsville High School,6,Top,0,3,1,Fast Ball,Strike In Play,Fly Out,N/A,5,Heart
+180,3/23/24,5:41:23 PM,6,1,Tyler Heflin,R,Moeller,Keegan Cubbison,L,Strongsville High School,6,Top,1,0,0,Fast Ball,Strike Looking,,89,11,Shadow
+181,3/23/24,5:41:39 PM,7,2,Tyler Heflin,R,Moeller,Keegan Cubbison,L,Strongsville High School,6,Top,1,0,1,Fast Ball,Ball,,N/A,39,Waste
+182,3/23/24,5:42:02 PM,8,3,Tyler Heflin,R,Moeller,Keegan Cubbison,L,Strongsville High School,6,Top,1,1,1,Fast Ball,Ball,,88,31,Waste
+183,3/23/24,5:42:20 PM,9,4,Tyler Heflin,R,Moeller,Keegan Cubbison,L,Strongsville High School,6,Top,1,2,1,Fast Ball,Ball,,87,14,Shadow
+184,3/23/24,5:42:35 PM,10,5,Tyler Heflin,R,Moeller,Keegan Cubbison,L,Strongsville High School,6,Top,1,3,1,Fast Ball,Ball,BB,86,29,Chase
+185,3/23/24,5:43:06 PM,11,1,Tyler Heflin,R,Moeller,Evan Hartman,R,Strongsville High School,6,Top,1,0,0,Slider,Strike Looking,,78,18,Shadow
+186,3/23/24,5:43:39 PM,12,2,Tyler Heflin,R,Moeller,Evan Hartman,R,Strongsville High School,6,Top,1,0,1,Slider,Ball,,78,38,Waste
+187,3/23/24,5:44:04 PM,13,3,Tyler Heflin,R,Moeller,Evan Hartman,R,Strongsville High School,6,Top,1,1,1,Fast Ball,Ball,,88,N/A,Waste
+188,3/23/24,5:44:31 PM,14,4,Tyler Heflin,R,Moeller,Evan Hartman,R,Strongsville High School,6,Top,1,2,1,Fast Ball,Strike Looking,,89,7,Heart
+189,3/23/24,5:44:42 PM,15,5,Tyler Heflin,R,Moeller,Evan Hartman,R,Strongsville High School,6,Top,1,2,2,Fast Ball,Ball,HBP,87,21,Chase
+190,3/23/24,5:45:23 PM,16,1,Tyler Heflin,R,Moeller,Evan Gyurko,R,Strongsville High School,6,Top,1,0,0,Fast Ball,Ball,,86,14,Shadow
+191,3/23/24,5:45:43 PM,17,2,Tyler Heflin,R,Moeller,Evan Gyurko,R,Strongsville High School,6,Top,1,1,0,Fast Ball,Ball,,87,29,Chase
+192,3/23/24,5:46:05 PM,18,3,Tyler Heflin,R,Moeller,Evan Gyurko,R,Strongsville High School,6,Top,1,2,0,Fast Ball,Ball,,86,38,Waste
+193,3/23/24,5:46:33 PM,19,4,Tyler Heflin,R,Moeller,Evan Gyurko,R,Strongsville High School,6,Top,1,3,0,Fast Ball,Ball,BB,87,21,Chase
+194,3/23/24,5:47:44 PM,20,1,Tyler Heflin,R,Moeller,Gavin Reid,R,Strongsville High School,6,Top,1,0,0,Fast Ball,Strike Foul,,87,9,Heart
+195,3/23/24,5:48:13 PM,21,2,Tyler Heflin,R,Moeller,Gavin Reid,R,Strongsville High School,6,Top,1,0,1,Fast Ball,Strike In Play,Double Play,88,7,Heart
+196,3/23/24,5:51:32 PM,1,1,Caden Padson,R,Strongsville High School,Griffin Booth,R,Moeller,6,Bottom,0,0,0,Fast Ball,Ball,,74,29,Chase
+197,3/23/24,5:51:43 PM,2,2,Caden Padson,R,Strongsville High School,Griffin Booth,R,Moeller,6,Bottom,0,1,0,Fast Ball,Ball,,75,36,Waste
+198,3/23/24,5:51:55 PM,3,3,Caden Padson,R,Strongsville High School,Griffin Booth,R,Moeller,6,Bottom,0,2,0,Fast Ball,Strike Looking,,75,19,Shadow
+199,3/23/24,5:52:06 PM,4,4,Caden Padson,R,Strongsville High School,Griffin Booth,R,Moeller,6,Bottom,0,2,1,Fast Ball,Ball,,76,23,Chase
+200,3/23/24,5:52:22 PM,5,5,Caden Padson,R,Strongsville High School,Griffin Booth,R,Moeller,6,Bottom,0,3,1,Fast Ball,Strike In Play,1B,76,16,Shadow
+201,3/23/24,5:53:10 PM,6,1,Caden Padson,R,Strongsville High School,Will McCullough,R,Moeller,6,Bottom,0,0,0,Fast Ball,Ball,,75,22,Chase
+202,3/23/24,5:53:27 PM,7,2,Caden Padson,R,Strongsville High School,Will McCullough,R,Moeller,6,Bottom,0,1,0,Fast Ball,Ball,,76,32,Waste
+203,3/23/24,5:53:51 PM,8,3,Caden Padson,R,Strongsville High School,Will McCullough,R,Moeller,6,Bottom,0,2,0,Fast Ball,Ball,,75,37,Waste
+204,3/23/24,5:54:08 PM,9,4,Caden Padson,R,Strongsville High School,Will McCullough,R,Moeller,6,Bottom,0,3,0,Fast Ball,Ball,BB,76,36,Waste
+205,3/23/24,5:54:35 PM,10,1,Caden Padson,R,Strongsville High School,Charlie Valencic,R,Moeller,6,Bottom,0,0,0,Fast Ball,Ball,,76,36,Waste
+206,3/23/24,5:55:15 PM,11,2,Caden Padson,R,Strongsville High School,Charlie Valencic,R,Moeller,6,Bottom,0,1,0,Fast Ball,Strike In Play,Error,73,5,Heart
+207,3/23/24,5:56:04 PM,12,1,Caden Padson,R,Strongsville High School,Matt Ponatoski,L,Moeller,6,Bottom,0,0,0,Breaking Ball,Strike Looking,,66,11,Shadow
+208,3/23/24,5:56:21 PM,13,2,Caden Padson,R,Strongsville High School,Matt Ponatoski,L,Moeller,6,Bottom,0,0,1,Breaking Ball,Ball,,68,14,Shadow
+209,3/23/24,5:56:39 PM,14,3,Caden Padson,R,Strongsville High School,Matt Ponatoski,L,Moeller,6,Bottom,0,1,1,Breaking Ball,Strike Looking,,67,14,Shadow
+210,3/23/24,5:57:01 PM,15,4,Caden Padson,R,Strongsville High School,Matt Ponatoski,L,Moeller,6,Bottom,0,1,2,Fast Ball,Strike In Play,Error,76,3,Heart
+211,3/23/24,5:58:50 PM,16,1,Caden Padson,R,Strongsville High School,Carter Christenson,R,Moeller,6,Bottom,0,0,0,Fast Ball,Ball,,74,38,Waste
+212,3/23/24,5:59:04 PM,17,2,Caden Padson,R,Strongsville High School,Carter Christenson,R,Moeller,6,Bottom,0,1,0,Fast Ball,Strike In Play,2B,75,2,Heart
+1,3/26/24,4:56:28 PM,1,1,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,1,Top,0,0,0,Fast Ball,Ball,,78,21,Chase
+2,3/26/24,4:56:40 PM,2,2,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,1,Top,0,1,0,Fast Ball,Strike Foul,,78,14,Shadow
+3,3/26/24,4:56:59 PM,3,3,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,1,Top,0,1,1,Fast Ball,Ball,,77,24,Chase
+4,3/26/24,4:57:11 PM,4,4,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,1,Top,0,2,1,Fast Ball,Strike In Play,Fly Out,85,17,Shadow
+5,3/26/24,4:57:45 PM,5,1,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,1,Top,1,0,0,Slider,Strike Looking,,75,5,Heart
+6,3/26/24,4:57:59 PM,6,2,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,1,Top,1,0,1,Fast Ball,Ball,,84,31,Waste
+7,3/26/24,4:58:13 PM,7,3,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,1,Top,1,1,1,Slider,Strike Swing and Miss,,75,8,Heart
+8,3/26/24,4:58:27 PM,8,4,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,1,Top,1,1,2,Slider,Strike Looking,Strike Out,76,17,Shadow
+9,3/26/24,4:58:52 PM,9,1,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,1,Top,2,0,0,Change Up,Ball,,80,21,Chase
+10,3/26/24,4:59:05 PM,10,2,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,1,Top,2,1,0,Fast Ball,Ball,,85,24,Chase
+11,3/26/24,4:59:20 PM,11,3,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,1,Top,2,2,0,Fast Ball,Strike In Play,1B,84,7,Heart
+12,3/26/24,5:00:32 PM,12,1,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,1,Top,2,0,0,Slider,Strike Swing and Miss,,77,13,Shadow
+13,3/26/24,5:00:55 PM,13,2,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,1,Top,2,0,1,Slider,Ball,,75,39,Waste
+14,3/26/24,5:01:36 PM,14,3,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,1,Top,2,1,1,Fast Ball,Strike Foul,,87,11,Shadow
+15,3/26/24,5:02:02 PM,15,4,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,1,Top,2,1,2,Slider,Ball,,73,26,Chase
+16,3/26/24,5:02:25 PM,16,5,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,1,Top,2,2,2,Slider,Strike In Play,Fielders Choice,74,26,Chase
+17,3/26/24,5:05:28 PM,1,1,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,1,Bottom,0,0,0,Fast Ball,Ball,,87,29,Chase
+18,3/26/24,5:05:42 PM,2,2,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,1,Bottom,0,1,0,Fast Ball,Strike Looking,,86,13,Shadow
+19,3/26/24,5:05:54 PM,3,3,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,1,Bottom,0,1,1,Breaking Ball,Strike Looking,,72,11,Shadow
+20,3/26/24,5:06:06 PM,4,4,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,1,Bottom,0,1,2,Breaking Ball,Strike Foul,,75,4,Heart
+21,3/26/24,5:06:22 PM,5,5,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,1,Bottom,0,1,2,Fast Ball,Strike Swing and Miss,Strike Out,89,12,Shadow
+22,3/26/24,5:06:49 PM,6,1,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,1,Bottom,1,0,0,Breaking Ball,Ball,,73,21,Chase
+23,3/26/24,5:07:00 PM,7,2,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,1,Bottom,1,1,0,Fast Ball,Strike Looking,,87,16,Shadow
+24,3/26/24,5:07:12 PM,8,3,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,1,Bottom,1,1,1,Fast Ball,Strike Swing and Miss,,88,13,Shadow
+25,3/26/24,5:07:26 PM,9,4,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,1,Bottom,1,1,2,Fast Ball,Strike Swing and Miss,Strike Out,90,11,Shadow
+26,3/26/24,5:07:57 PM,10,1,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,0,0,Change Up,Strike Looking,,83,19,Shadow
+27,3/26/24,5:08:08 PM,11,2,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,0,1,Change Up,Ball,,81,17,Shadow
+28,3/26/24,5:08:20 PM,12,3,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,1,1,Fast Ball,Strike Looking,,88,14,Shadow
+29,3/26/24,5:08:31 PM,13,4,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,1,2,Fast Ball,Strike Foul,,85,17,Shadow
+30,3/26/24,5:09:17 PM,14,5,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,1,2,Fast Ball,Strike Foul,,88,11,Shadow
+31,3/26/24,5:09:51 PM,15,6,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,1,2,Breaking Ball,Ball,,67,34,Waste
+32,3/26/24,5:10:05 PM,16,7,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,2,2,Fast Ball,Ball,,88,n/a,Waste
+33,3/26/24,5:10:23 PM,17,8,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,1,Bottom,2,3,2,Breaking Ball,Strike Looking,Strike Out,71,14,Shadow
+34,3/26/24,5:12:24 PM,1,1,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,2,Top,0,0,0,Fast Ball,Ball,,87,14,Shadow
+35,3/26/24,5:12:36 PM,2,2,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,2,Top,0,1,0,Slider,Ball,,77,28,Chase
+36,3/26/24,5:12:47 PM,3,3,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,2,Top,0,2,0,Fast Ball,Strike Foul,,87,19,Shadow
+37,3/26/24,5:13:07 PM,4,4,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,2,Top,0,2,1,Change Up,Strike Foul,,79,11,Shadow
+38,3/26/24,5:13:26 PM,5,5,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,2,Top,0,2,2,Fast Ball,Strike Looking,Strike Out,88,19,Shadow
+39,3/26/24,5:13:50 PM,6,1,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,2,Top,1,0,0,Slider,Strike Swing and Miss,,78,39,Waste
+40,3/26/24,5:14:04 PM,7,2,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,2,Top,1,0,1,Fast Ball,Strike Looking,,87,7,Heart
+41,3/26/24,5:14:20 PM,8,3,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,2,Top,1,0,2,Fast Ball,Strike Foul,,88,16,Shadow
+42,3/26/24,5:14:44 PM,9,4,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,2,Top,1,0,2,Slider,Strike Swing and Miss,Strike Out,80,39,Waste
+43,3/26/24,5:15:12 PM,10,1,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,2,Top,2,0,0,Change Up,Ball,,83,38,Waste
+44,3/26/24,5:15:24 PM,11,2,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,2,Top,2,1,0,Fast Ball,Ball,,89,39,Waste
+45,3/26/24,5:15:37 PM,12,3,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,2,Top,2,2,0,Fast Ball,Strike Looking,,88,16,Shadow
+46,3/26/24,5:15:52 PM,13,4,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,2,Top,2,2,1,Change Up,Strike Swing and Miss,,81,19,Shadow
+47,3/26/24,5:16:11 PM,14,5,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,2,Top,2,2,2,Change Up,Strike Swing and Miss,Strike Out,83,17,Shadow
+48,3/26/24,5:18:15 PM,1,1,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,2,Bottom,0,0,0,Fast Ball,Ball,,85,39,Waste
+49,3/26/24,5:18:31 PM,2,2,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,2,Bottom,0,1,0,Fast Ball,Strike Looking,,86,16,Shadow
+50,3/26/24,5:18:45 PM,3,3,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,2,Bottom,0,1,1,Fast Ball,Ball,,87,29,Chase
+51,3/26/24,5:19:03 PM,4,4,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,2,Bottom,0,2,1,Fast Ball,Strike Foul,,87,11,Shadow
+52,3/26/24,5:19:20 PM,5,5,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,2,Bottom,0,2,2,Breaking Ball,Strike In Play,1B,76,5,Heart
+53,3/26/24,5:20:09 PM,6,1,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,0,0,0,Fast Ball,Ball,,85,27,Chase
+54,3/26/24,5:20:26 PM,7,2,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,0,1,0,Fast Ball,Strike Foul,,85,14,Shadow
+55,3/26/24,5:21:09 PM,8,3,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,0,1,1,Fast Ball,Strike Foul,,84,14,Shadow
+56,3/26/24,5:21:46 PM,9,4,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,0,1,2,Change Up,Ball,,78,11,Shadow
+57,3/26/24,5:22:12 PM,10,5,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,1,2,2,Fast Ball,Strike Foul,,90,11,Shadow
+58,3/26/24,5:22:33 PM,11,6,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,2,Bottom,1,2,2,Change Up,Strike Swing and Miss,Strike Out,81,17,Shadow
+59,3/26/24,5:23:00 PM,12,1,Dylan McIntyre,R,Ryle High School,Conner Cuozzo,R,Moeller,2,Bottom,2,0,0,Breaking Ball,Ball,,72,39,Waste
+60,3/26/24,5:23:11 PM,13,2,Dylan McIntyre,R,Ryle High School,Conner Cuozzo,R,Moeller,2,Bottom,2,1,0,Fast Ball,Strike In Play,Fly Out,86,14,Shadow
+61,3/26/24,5:25:17 PM,1,1,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,0,0,Slider,Strike Swing and Miss,,0,19,Shadow
+62,3/26/24,5:25:29 PM,2,2,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,0,1,Fast Ball,Ball,,86,19,Shadow
+63,3/26/24,5:25:40 PM,3,3,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,1,1,Fast Ball,Strike Foul,,86,14,Shadow
+64,3/26/24,5:25:58 PM,4,4,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,1,2,Slider,Ball,,77,39,Waste
+65,3/26/24,5:26:23 PM,5,5,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,2,2,Fast Ball,Strike Foul,,88,17,Shadow
+66,3/26/24,5:26:41 PM,6,6,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,2,2,Slider,Ball,,76,29,Chase
+67,3/26/24,5:26:58 PM,7,7,David Hagen,R,Moeller,Xavier Owens,R,Ryle High School,3,Top,0,3,2,Fast Ball,Strike In Play,Fly Out,87,11,Shadow
+68,3/26/24,5:27:30 PM,8,1,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,0,0,Fast Ball,Strike Swing and Miss,,87,14,Shadow
+69,3/26/24,5:27:42 PM,9,2,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,0,1,Fast Ball,Ball,,87,11,Shadow
+70,3/26/24,5:27:57 PM,10,3,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,1,1,Fast Ball,Ball,,87,11,Shadow
+71,3/26/24,5:28:11 PM,11,4,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,2,1,Fast Ball,Strike Looking,,88,4,Heart
+72,3/26/24,5:28:26 PM,12,5,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,2,2,Slider,Strike Foul,,78,16,Shadow
+73,3/26/24,5:28:57 PM,13,6,David Hagen,R,Moeller,Drake Carrol,R,Ryle High School,3,Top,1,2,2,Fast Ball,Strike Swing and Miss,Strike Out,88,11,Shadow
+74,3/26/24,5:29:23 PM,14,1,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,3,Top,2,0,0,Change Up,Strike Swing and Miss,,82,24,Chase
+75,3/26/24,5:29:35 PM,15,2,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,3,Top,2,0,1,Slider,Strike Looking,,78,11,Shadow
+76,3/26/24,5:29:48 PM,16,3,David Hagen,R,Moeller,Tate Cordrey,L,Ryle High School,3,Top,2,0,2,Change Up,Strike Swing and Miss,Strike Out,81,17,Shadow
+77,3/26/24,5:31:54 PM,1,1,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,0,0,Fast Ball,Ball,,84,21,Chase
+78,3/26/24,5:32:06 PM,2,2,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,1,0,Fast Ball,Strike Foul,,86,17,Shadow
+79,3/26/24,5:32:21 PM,3,3,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,1,1,Fast Ball,Strike Looking,,87,11,Shadow
+80,3/26/24,5:32:31 PM,4,4,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,1,2,Change Up,Ball,,80,39,Waste
+81,3/26/24,5:32:47 PM,5,5,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,2,2,Fast Ball,Ball,,87,21,Chase
+82,3/26/24,5:33:07 PM,6,6,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,3,Bottom,0,3,2,Fast Ball,Ball,BB,87,14,Shadow
+83,3/26/24,5:33:39 PM,7,1,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,3,Bottom,0,0,0,Fast Ball,Ball,,84,14,Shadow
+84,3/26/24,5:34:47 PM,8,2,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,3,Bottom,1,1,0,Fast Ball,Strike In Play,1B,87,29,Chase
+85,3/26/24,5:35:19 PM,9,1,Dylan McIntyre,R,Ryle High School,Griffin Booth,R,Moeller,3,Bottom,1,0,0,Fast Ball,Strike Foul,,85,14,Shadow
+86,3/26/24,5:35:38 PM,10,2,Dylan McIntyre,R,Ryle High School,Griffin Booth,R,Moeller,3,Bottom,1,0,1,Breaking Ball,Strike Looking,,76,19,Shadow
+87,3/26/24,5:36:12 PM,11,3,Dylan McIntyre,R,Ryle High School,Griffin Booth,R,Moeller,3,Bottom,1,0,2,Fast Ball,Strike Swing and Miss,Strike Out,87,17,Shadow
+88,3/26/24,5:36:53 PM,12,1,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,3,Bottom,2,0,0,Fast Ball,Strike Swing and Miss,,85,11,Shadow
+89,3/26/24,5:37:12 PM,13,2,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,3,Bottom,2,0,1,Fast Ball,Ball,,86,27,Chase
+90,3/26/24,5:37:28 PM,14,3,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,3,Bottom,2,1,1,Breaking Ball,Ball,,71,39,Waste
+91,3/26/24,5:37:44 PM,15,4,Dylan McIntyre,R,Ryle High School,Will McCullough,R,Moeller,3,Bottom,2,2,1,Fast Ball,Strike In Play,HR,85,4,Heart
+92,3/26/24,5:38:38 PM,16,1,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,3,Bottom,2,0,0,Fast Ball,Strike Swing and Miss,,88,1,Heart
+93,3/26/24,5:38:50 PM,17,2,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,3,Bottom,2,0,1,Breaking Ball,Ball,,76,39,Waste
+94,3/26/24,5:39:02 PM,18,3,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,3,Bottom,2,1,1,Breaking Ball,Ball,,71,39,Waste
+95,3/26/24,5:39:12 PM,19,4,Dylan McIntyre,R,Ryle High School,Charlie Valencic,R,Moeller,3,Bottom,2,2,1,Fast Ball,Strike In Play,3B,88,4,Heart
+96,3/26/24,5:39:59 PM,20,1,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,0,0,Fast Ball,Strike Looking,,87,11,Shadow
+97,3/26/24,5:40:13 PM,21,2,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,0,1,Change Up,Ball,,80,38,Waste
+98,3/26/24,5:40:32 PM,22,3,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,1,1,Fast Ball,Strike Foul,,88,17,Shadow
+99,3/26/24,5:40:53 PM,23,4,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,1,2,Change Up,Ball,,82,17,Shadow
+100,3/26/24,5:41:16 PM,24,5,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,2,2,Breaking Ball,Ball,,72,34,Waste
+101,3/26/24,5:41:32 PM,25,6,Dylan McIntyre,R,Ryle High School,Matt Ponatoski,L,Moeller,3,Bottom,2,3,2,Fast Ball,Ball,BB,88,31,Waste
+102,3/26/24,5:42:07 PM,26,1,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,0,0,Fast Ball,Strike Looking,,86,13,Shadow
+103,3/26/24,5:42:42 PM,27,2,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,0,1,Fast Ball,Strike Foul,,88,14,Shadow
+104,3/26/24,5:43:04 PM,28,3,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,0,2,Breaking Ball,Ball,,76,31,Waste
+105,3/26/24,5:43:39 PM,29,4,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,1,2,Breaking Ball,Ball,,71,31,Waste
+106,3/26/24,5:43:57 PM,30,5,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,2,2,Fast Ball,Ball,,87,22,Chase
+107,3/26/24,5:44:14 PM,31,6,Dylan McIntyre,R,Ryle High School,Carter Christenson,R,Moeller,3,Bottom,2,3,2,Fast Ball,Strike In Play,Fly Out,86,14,Shadow
+108,3/26/24,5:46:13 PM,1,1,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,4,Top,0,0,0,Fast Ball,Ball,,86,27,Chase
+109,3/26/24,5:46:31 PM,2,2,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,4,Top,0,1,0,Slider,Strike Looking,,77,5,Heart
+110,3/26/24,5:46:43 PM,3,3,David Hagen,R,Moeller,Sam Eppley,R,Ryle High School,4,Top,0,1,1,Fast Ball,Strike In Play,Ground Out,86,14,Shadow
+111,3/26/24,5:47:15 PM,4,1,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,0,0,Change Up,Ball,,79,27,Chase
+112,3/26/24,5:47:27 PM,5,2,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,1,0,Slider,Ball,,76,27,Chase
+113,3/26/24,5:47:43 PM,6,3,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,2,0,Change Up,Ball,,81,27,Chase
+114,3/26/24,5:47:56 PM,7,4,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,3,0,Fast Ball,Strike Looking,,87,17,Shadow
+115,3/26/24,5:48:09 PM,8,5,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,3,1,Fast Ball,Strike Looking,,86,19,Shadow
+116,3/26/24,5:48:27 PM,9,6,David Hagen,R,Moeller,AJ Curray,L,Ryle High School,4,Top,1,3,2,Fast Ball,Strike In Play,1B,87,14,Shadow
+117,3/26/24,5:49:41 PM,10,1,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,4,Top,1,0,0,Fast Ball,Strike Looking,,86,17,Shadow
+118,3/26/24,5:49:57 PM,11,2,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,4,Top,1,0,1,Change Up,Ball,,80,21,Chase
+119,3/26/24,5:50:15 PM,12,3,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,4,Top,1,1,1,Fast Ball,Ball,,86,23,Chase
+120,3/26/24,5:50:37 PM,13,4,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,4,Top,1,2,1,Fast Ball,Strike Looking,,86,19,Shadow
+121,3/26/24,5:50:57 PM,14,5,David Hagen,R,Moeller,Dylan McIntyre,R,Ryle High School,4,Top,1,2,2,Fast Ball,Strike In Play,Error,86,16,Shadow
+122,3/26/24,5:51:56 PM,15,1,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,0,0,Slider,Ball,,76,39,Waste
+123,3/26/24,5:52:16 PM,16,2,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,1,0,Slider,Strike Looking,,77,19,Shadow
+124,3/26/24,5:52:36 PM,17,3,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,1,1,Fast Ball,Strike Swing and Miss,,87,14,Shadow
+125,3/26/24,5:52:58 PM,18,4,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,1,2,Fast Ball,Ball,,87,28,Chase
+126,3/26/24,5:53:45 PM,19,5,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,2,2,Slider,Ball,,78,29,Chase
+127,3/26/24,5:54:07 PM,20,6,David Hagen,R,Moeller,Josh Caudill,R,Ryle High School,4,Top,1,3,2,Fast Ball,Strike Swing and Miss,Strike Out,87,7,Heart
+128,3/26/24,5:54:40 PM,21,1,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,4,Top,2,0,0,Change Up,Ball,,80,26,Chase
+129,3/26/24,5:55:29 PM,22,2,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,4,Top,2,1,0,Fast Ball,Ball,,86,17,Shadow
+130,3/26/24,5:56:10 PM,23,3,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,4,Top,2,2,0,Fast Ball,Ball,,86,29,Chase
+131,3/26/24,5:56:33 PM,24,4,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,4,Top,2,3,0,Fast Ball,Strike Looking,,86,18,Shadow
+132,3/26/24,5:56:55 PM,25,5,David Hagen,R,Moeller,Matt Furtado,R,Ryle High School,4,Top,2,3,1,Fast Ball,Ball,BB,86,29,Chase
+133,3/26/24,5:57:30 PM,26,1,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,4,Top,2,0,0,Change Up,Strike Looking,,81,11,Shadow
+134,3/26/24,5:57:49 PM,27,2,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,4,Top,2,0,1,Fast Ball,Strike Swing and Miss,,88,17,Shadow
+135,3/26/24,5:58:09 PM,28,3,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,4,Top,2,0,2,Change Up,Ball,,80,29,Chase
+136,3/26/24,5:58:53 PM,29,4,David Hagen,R,Moeller,Caleb Mann,L,Ryle High School,4,Top,2,1,2,Change Up,Strike Swing and Miss,Strike Out,82,19,Shadow
+137,3/26/24,6:01:25 PM,1,1,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,4,Bottom,0,0,0,Change Up,Ball,,0,37,Waste
+138,3/26/24,6:01:38 PM,2,2,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,4,Bottom,0,1,0,Fast Ball,Strike Foul,,84,16,Shadow
+139,3/26/24,6:01:56 PM,3,3,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,4,Bottom,0,1,1,Breaking Ball,Strike Foul,,72,17,Shadow
+140,3/26/24,6:02:21 PM,4,4,Dylan McIntyre,R,Ryle High School,Cooper Ridley,L,Moeller,4,Bottom,0,1,2,Change Up,Strike In Play,1B,79,7,Heart
+141,3/26/24,6:03:17 PM,5,1,Dylan McIntyre,R,Ryle High School,Conner Cuozzo,R,Moeller,4,Bottom,0,0,0,Fast Ball,Strike Looking,,86,17,Shadow
+142,3/26/24,6:03:50 PM,6,2,Dylan McIntyre,R,Ryle High School,Conner Cuozzo,R,Moeller,4,Bottom,0,0,1,Change Up,Strike In Play,Line Out,77,7,Heart
+143,3/26/24,6:04:32 PM,7,1,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,4,Bottom,1,0,0,Fast Ball,Ball,,83,29,Chase
+144,3/26/24,6:05:07 PM,8,2,Dylan McIntyre,R,Ryle High School,Forrest Day,L,Moeller,4,Bottom,1,1,0,Fast Ball,Strike In Play,Ground Out,85,4,Heart
+145,3/26/24,6:05:47 PM,9,1,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,4,Bottom,2,0,0,Fast Ball,Strike Foul,,85,14,Shadow
+146,3/26/24,6:06:25 PM,10,2,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,4,Bottom,2,0,1,Change Up,Strike Swing and Miss,,77,17,Shadow
+147,3/26/24,6:06:47 PM,11,3,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,4,Bottom,2,0,2,Fast Ball,Strike Foul,,89,29,Chase
+148,3/26/24,6:07:17 PM,12,4,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,4,Bottom,2,0,2,Fast Ball,Ball,,87,26,Chase
+149,3/26/24,6:07:39 PM,13,5,Dylan McIntyre,R,Ryle High School,Luke Pappano,L,Moeller,4,Bottom,2,1,2,Fast Ball,Strike In Play,Line Out,87,18,Shadow
+150,3/26/24,6:10:29 PM,1,1,Finn O'Keefe,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,0,0,0,Fast Ball,Strike Looking,,85,11,Shadow
+151,3/26/24,6:10:46 PM,2,2,Finn O'Keefe,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,0,0,1,Fast Ball,Ball,,86,21,Chase
+152,3/26/24,6:11:02 PM,3,3,Finn O'Keefe,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,0,1,1,Change Up,Strike Looking,,78,19,Shadow
+153,3/26/24,6:11:23 PM,4,4,Finn O'Keefe,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,0,1,2,Change Up,Ball,,81,29,Chase
+154,3/26/24,6:11:40 PM,5,5,Finn O'Keefe,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,0,2,2,Fast Ball,Strike Looking,Strike Out,85,12,Shadow
+155,3/26/24,6:12:08 PM,6,1,Finn O'Keefe,R,Moeller,Drake Carrol,R,Ryle High School,5,Top,1,0,0,Change Up,Ball,,79,23,Chase
+156,3/26/24,6:12:25 PM,7,2,Finn O'Keefe,R,Moeller,Drake Carrol,R,Ryle High School,5,Top,1,1,0,Fast Ball,Ball,,85,11,Shadow
+157,3/26/24,6:12:41 PM,8,3,Finn O'Keefe,R,Moeller,Drake Carrol,R,Ryle High School,5,Top,1,2,0,Fast Ball,Ball,,85,22,Chase
+158,3/26/24,6:12:58 PM,9,4,Finn O'Keefe,R,Moeller,Drake Carrol,R,Ryle High School,5,Top,1,3,0,Fast Ball,Ball,BB,86,21,Chase
+159,3/26/24,6:13:56 PM,10,1,Finn O'Keefe,R,Moeller,Tate Cordrey,L,Ryle High School,5,Top,1,0,0,Fast Ball,Strike Foul,,83,4,Heart
+160,3/26/24,6:14:46 PM,11,2,Finn O'Keefe,R,Moeller,Tate Cordrey,L,Ryle High School,5,Top,1,0,1,Fast Ball,Ball,,84,21,Chase
+161,3/26/24,6:15:07 PM,12,3,Finn O'Keefe,R,Moeller,Tate Cordrey,L,Ryle High School,5,Top,1,1,1,Fast Ball,Ball,,84,21,Chase
+162,3/26/24,6:15:29 PM,13,4,Finn O'Keefe,R,Moeller,Tate Cordrey,L,Ryle High School,5,Top,1,2,1,Fast Ball,Ball,,83,24,Chase
+163,3/26/24,6:15:49 PM,14,5,Finn O'Keefe,R,Moeller,Tate Cordrey,L,Ryle High School,5,Top,1,3,1,Fast Ball,Ball,BB,84,21,Chase
+164,3/26/24,6:17:10 PM,15,1,Finn O'Keefe,R,Moeller,Sam Eppley,R,Ryle High School,5,Top,1,0,0,Fast Ball,Ball,,86,11,Shadow
+165,3/26/24,6:17:34 PM,16,2,Finn O'Keefe,R,Moeller,Sam Eppley,R,Ryle High School,5,Top,1,1,0,Fast Ball,Strike In Play,1B,84,4,Heart
+166,3/26/24,6:18:15 PM,17,1,Finn O'Keefe,R,Moeller,AJ Curray,L,Ryle High School,5,Top,1,0,0,Change Up,Ball,,76,39,Waste
+167,3/26/24,6:18:36 PM,18,2,Finn O'Keefe,R,Moeller,AJ Curray,L,Ryle High School,5,Top,1,1,0,Change Up,Ball,,77,39,Waste
+168,3/26/24,6:18:57 PM,19,3,Finn O'Keefe,R,Moeller,AJ Curray,L,Ryle High School,5,Top,1,2,0,Fast Ball,Ball,,86,29,Chase
+169,3/26/24,6:19:19 PM,20,4,Finn O'Keefe,R,Moeller,AJ Curray,L,Ryle High School,5,Top,1,3,0,Fast Ball,Strike Looking,,85,17,Shadow
+170,3/26/24,6:19:37 PM,21,5,Finn O'Keefe,R,Moeller,AJ Curray,L,Ryle High School,5,Top,1,3,1,Fast Ball,Strike In Play,1B,85,19,Shadow
+171,3/26/24,6:20:22 PM,22,1,Finn O'Keefe,R,Moeller,Dylan McIntyre,R,Ryle High School,5,Top,1,0,0,Change Up,Strike Looking,,78,19,Shadow
+172,3/26/24,6:20:41 PM,23,2,Finn O'Keefe,R,Moeller,Dylan McIntyre,R,Ryle High School,5,Top,1,0,1,Fast Ball,Strike Foul,,85,14,Shadow
+173,3/26/24,6:21:09 PM,24,3,Finn O'Keefe,R,Moeller,Dylan McIntyre,R,Ryle High School,5,Top,1,0,2,Change Up,Strike In Play,1B,79,16,Shadow
+174,3/26/24,6:21:51 PM,25,1,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,0,0,Fast Ball,Strike Looking,,86,16,Shadow
+175,3/26/24,6:22:10 PM,26,2,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,0,1,Change Up,Ball,,77,39,Waste
+176,3/26/24,6:22:48 PM,27,3,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,1,1,Fast Ball,Ball,,83,31,Waste
+177,3/26/24,6:23:12 PM,28,4,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,2,1,Fast Ball,Strike Foul,,86,14,Shadow
+178,3/26/24,6:23:48 PM,29,5,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,2,2,Change Up,Ball,,77,36,Waste
+179,3/26/24,6:24:08 PM,30,6,Finn O'Keefe,R,Moeller,Josh Caudill,R,Ryle High School,5,Top,1,3,2,Fast Ball,Strike In Play,1B,86,1,Heart
+180,3/26/24,6:26:37 PM,1,1,Connor Fuhrer,R,Moeller,Matt Furtado,R,Ryle High School,5,Top,1,0,0,Fast Ball,Strike In Play,1B,83,16,Shadow
+181,3/26/24,6:27:18 PM,2,1,Connor Fuhrer,R,Moeller,Caleb Mann,L,Ryle High School,5,Top,1,0,0,Fast Ball,Ball,,0,23,Chase
+182,3/26/24,6:27:54 PM,3,2,Connor Fuhrer,R,Moeller,Caleb Mann,L,Ryle High School,5,Top,1,1,0,Fast Ball,Strike Looking,,83,16,Shadow
+183,3/26/24,6:28:12 PM,4,3,Connor Fuhrer,R,Moeller,Caleb Mann,L,Ryle High School,5,Top,1,1,1,Change Up,Strike Looking,,77,14,Shadow
+184,3/26/24,6:28:30 PM,5,4,Connor Fuhrer,R,Moeller,Caleb Mann,L,Ryle High School,5,Top,1,1,2,Slider,Strike Looking,Strike Out,75,11,Shadow
+185,3/26/24,6:29:06 PM,6,1,Connor Fuhrer,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,2,0,0,Fast Ball,Ball,,85,11,Shadow
+186,3/26/24,6:29:21 PM,7,2,Connor Fuhrer,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,2,1,0,Slider,Strike Looking,,73,17,Shadow
+187,3/26/24,6:29:41 PM,8,3,Connor Fuhrer,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,2,1,1,Slider,Ball,,73,11,Shadow
+188,3/26/24,6:29:56 PM,9,4,Connor Fuhrer,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,2,2,1,Fast Ball,Strike Looking,,85,17,Shadow
+189,3/26/24,6:30:14 PM,10,5,Connor Fuhrer,R,Moeller,Xavier Owens,R,Ryle High School,5,Top,2,2,2,Fast Ball,Strike Looking,Strike Out,85,16,Shadow
+190,3/26/24,6:33:04 PM,1,1,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,0,0,Fast Ball,Strike Looking,,85,14,Shadow
+191,3/26/24,6:33:21 PM,2,2,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,0,1,Change Up,Ball,,80,39,Waste
+192,3/26/24,6:33:36 PM,3,3,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,1,1,Fast Ball,Ball,,84,32,Waste
+193,3/26/24,6:33:56 PM,4,4,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,2,1,Breaking Ball,Strike Foul,,70,18,Shadow
+194,3/26/24,6:34:26 PM,5,5,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,2,2,Breaking Ball,Ball,,72,28,Chase
+195,3/26/24,6:35:06 PM,6,6,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,3,2,Fast Ball,Strike Foul,,84,19,Shadow
+196,3/26/24,6:35:24 PM,7,7,AJ Curray,L,Ryle High School,Griffin Booth,R,Moeller,5,Bottom,0,3,2,Breaking Ball,Strike Swing and Miss,Strike Out,69,37,Waste
+197,3/26/24,6:35:57 PM,8,1,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,5,Bottom,1,0,0,Fast Ball,Strike Looking,,85,19,Shadow
+198,3/26/24,6:36:11 PM,9,2,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,5,Bottom,1,0,1,Fast Ball,Strike Looking,,82,19,Shadow
+199,3/26/24,6:36:28 PM,10,3,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,5,Bottom,1,0,2,Breaking Ball,Ball,,71,13,Shadow
+200,3/26/24,6:36:42 PM,11,4,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,5,Bottom,1,1,2,Fast Ball,Strike Swing and Miss,Strike Out,84,16,Shadow
+201,3/26/24,6:37:11 PM,12,1,AJ Curray,L,Ryle High School,Charlie Valencic,R,Moeller,5,Bottom,2,0,0,Breaking Ball,Strike Looking,,72,19,Shadow
+202,3/26/24,6:37:24 PM,13,2,AJ Curray,L,Ryle High School,Charlie Valencic,R,Moeller,5,Bottom,2,0,1,Fast Ball,Ball,,83,38,Waste
+203,3/26/24,6:37:38 PM,14,3,AJ Curray,L,Ryle High School,Charlie Valencic,R,Moeller,5,Bottom,2,1,1,Fast Ball,Strike In Play,Line Out,85,19,Shadow
+204,3/26/24,6:39:41 PM,1,1,Connor Fuhrer,R,Moeller,Drake Carrol,R,Ryle High School,6,Top,0,0,0,Fast Ball,Strike Swing and Miss,,84,19,Shadow
+205,3/26/24,6:39:53 PM,2,2,Connor Fuhrer,R,Moeller,Drake Carrol,R,Ryle High School,6,Top,0,0,1,Fast Ball,Ball,,85,29,Chase
+206,3/26/24,6:40:08 PM,3,3,Connor Fuhrer,R,Moeller,Drake Carrol,R,Ryle High School,6,Top,0,1,1,Fast Ball,Ball,,84,39,Waste
+207,3/26/24,6:40:21 PM,4,4,Connor Fuhrer,R,Moeller,Drake Carrol,R,Ryle High School,6,Top,0,2,1,Fast Ball,Ball,,84,21,Chase
+208,3/26/24,6:40:33 PM,5,5,Connor Fuhrer,R,Moeller,Drake Carrol,R,Ryle High School,6,Top,0,3,1,Fast Ball,Ball,BB,85,11,Shadow
+209,3/26/24,6:41:01 PM,6,1,Connor Fuhrer,R,Moeller,Tate Cordrey,L,Ryle High School,6,Top,0,0,0,Change Up,Ball,,76,37,Waste
+210,3/26/24,6:41:17 PM,7,2,Connor Fuhrer,R,Moeller,Tate Cordrey,L,Ryle High School,6,Top,0,1,0,Fast Ball,Strike Foul,,85,16,Shadow
+211,3/26/24,6:41:55 PM,8,3,Connor Fuhrer,R,Moeller,Tate Cordrey,L,Ryle High School,6,Top,0,1,1,Fast Ball,Strike Swing and Miss,,84,17,Shadow
+212,3/26/24,6:42:23 PM,9,4,Connor Fuhrer,R,Moeller,Tate Cordrey,L,Ryle High School,6,Top,0,1,2,Slider,Ball,,75,39,Waste
+213,3/26/24,6:42:44 PM,10,5,Connor Fuhrer,R,Moeller,Tate Cordrey,L,Ryle High School,6,Top,0,2,2,Fast Ball,Strike Swing and Miss,Strike Out,84,14,Shadow
+214,3/26/24,6:43:09 PM,11,1,Connor Fuhrer,R,Moeller,Sam Eppley,R,Ryle High School,6,Top,1,0,0,Slider,Strike In Play,Fly Out,73,8,Heart
+215,3/26/24,6:43:47 PM,12,1,Connor Fuhrer,R,Moeller,AJ Curray,L,Ryle High School,6,Top,2,0,0,Fast Ball,Ball,,84,28,Chase
+216,3/26/24,6:44:05 PM,13,2,Connor Fuhrer,R,Moeller,AJ Curray,L,Ryle High School,6,Top,2,1,0,Slider,Ball,,76,27,Chase
+217,3/26/24,6:44:24 PM,14,3,Connor Fuhrer,R,Moeller,AJ Curray,L,Ryle High School,6,Top,2,2,0,Fast Ball,Ball,,84,28,Chase
+218,3/26/24,6:44:39 PM,15,4,Connor Fuhrer,R,Moeller,AJ Curray,L,Ryle High School,6,Top,2,3,0,Fast Ball,Strike Looking,,82,17,Shadow
+219,3/26/24,6:44:52 PM,16,5,Connor Fuhrer,R,Moeller,AJ Curray,L,Ryle High School,6,Top,2,3,1,Fast Ball,Strike In Play,Ground Out,84,14,Shadow
+220,3/26/24,6:47:20 PM,1,1,AJ Curray,L,Ryle High School,Matt Ponatoski,L,Moeller,6,Bottom,0,0,0,Breaking Ball,Ball,,70,27,Chase
+221,3/26/24,6:47:31 PM,2,2,AJ Curray,L,Ryle High School,Matt Ponatoski,L,Moeller,6,Bottom,0,1,0,Fast Ball,Strike Looking,,85,17,Shadow
+222,3/26/24,6:47:46 PM,3,3,AJ Curray,L,Ryle High School,Matt Ponatoski,L,Moeller,6,Bottom,0,1,1,Breaking Ball,Strike Looking,,70,14,Shadow
+223,3/26/24,6:48:02 PM,4,4,AJ Curray,L,Ryle High School,Matt Ponatoski,L,Moeller,6,Bottom,0,1,2,Breaking Ball,Ball,,72,27,Chase
+224,3/26/24,6:48:17 PM,5,5,AJ Curray,L,Ryle High School,Matt Ponatoski,L,Moeller,6,Bottom,0,2,2,Fast Ball,Strike Swing and Miss,Strike Out,82,17,Shadow
+225,3/26/24,6:48:47 PM,6,1,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,0,0,Fast Ball,Strike Looking,,82,16,Shadow
+226,3/26/24,6:49:02 PM,7,2,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,0,1,Fast Ball,Ball,,82,26,Chase
+227,3/26/24,6:49:17 PM,8,3,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,1,1,Breaking Ball,Ball,,71,38,Waste
+228,3/26/24,6:49:36 PM,9,4,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,2,1,Breaking Ball,Strike Foul,,71,8,Heart
+229,3/26/24,6:49:59 PM,10,5,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,2,2,Fast Ball,Ball,,87,23,Chase
+230,3/26/24,6:50:14 PM,11,6,AJ Curray,L,Ryle High School,Carter Christenson,R,Moeller,6,Bottom,1,3,2,Change Up,Ball,BB,80,39,Waste
+231,3/26/24,6:50:43 PM,12,1,AJ Curray,L,Ryle High School,Cooper Ridley,L,Moeller,6,Bottom,1,0,0,Fast Ball,Ball,,87,27,Chase
+232,3/26/24,6:51:01 PM,13,2,AJ Curray,L,Ryle High School,Cooper Ridley,L,Moeller,6,Bottom,1,1,0,Fast Ball,Ball,,82,11,Shadow
+233,3/26/24,6:51:20 PM,14,3,AJ Curray,L,Ryle High School,Cooper Ridley,L,Moeller,6,Bottom,1,2,0,Breaking Ball,Ball,,70,26,Chase
+234,3/26/24,6:51:36 PM,15,4,AJ Curray,L,Ryle High School,Cooper Ridley,L,Moeller,6,Bottom,1,3,0,Fast Ball,Ball,BB,83,22,Chase
+235,3/26/24,6:52:22 PM,16,1,AJ Curray,L,Ryle High School,Conner Cuozzo,R,Moeller,6,Bottom,1,0,0,Fast Ball,Strike In Play,2B,82,7,Heart
+236,3/26/24,6:54:07 PM,17,1,AJ Curray,L,Ryle High School,Forrest Day,L,Moeller,6,Bottom,1,0,0,Fast Ball,Ball,,84,14,Shadow
+237,3/26/24,6:54:25 PM,18,2,AJ Curray,L,Ryle High School,Forrest Day,L,Moeller,6,Bottom,1,1,0,Fast Ball,Strike Swing and Miss,,83,17,Shadow
+238,3/26/24,6:54:41 PM,19,3,AJ Curray,L,Ryle High School,Forrest Day,L,Moeller,6,Bottom,1,1,1,Breaking Ball,Strike In Play,Error,71,18,Shadow
+239,3/26/24,6:55:30 PM,20,1,AJ Curray,L,Ryle High School,Luke Pappano,L,Moeller,6,Bottom,1,0,0,Breaking Ball,Ball,,72,29,Chase
+240,3/26/24,6:55:45 PM,21,2,AJ Curray,L,Ryle High School,Luke Pappano,L,Moeller,6,Bottom,1,1,0,Fast Ball,Strike Foul,,85,1,Heart
+241,3/26/24,6:56:06 PM,22,3,AJ Curray,L,Ryle High School,Luke Pappano,L,Moeller,6,Bottom,1,1,1,Fast Ball,Strike Swing and Miss,,83,19,Shadow
+242,3/26/24,6:56:22 PM,23,4,AJ Curray,L,Ryle High School,Luke Pappano,L,Moeller,6,Bottom,1,1,2,Fast Ball,Strike Foul,,85,19,Shadow
+243,3/26/24,6:56:42 PM,24,5,AJ Curray,L,Ryle High School,Luke Pappano,L,Moeller,6,Bottom,1,1,2,Fast Ball,Strike Looking,Strike Out,85,8,Heart
+244,3/26/24,6:57:31 PM,25,1,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,0,0,Fast Ball,Ball,,84,38,Waste
+245,3/26/24,6:57:46 PM,26,2,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,1,0,Fast Ball,Ball,,83,11,Shadow
+246,3/26/24,6:58:01 PM,27,3,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,2,0,Fast Ball,Strike Foul,,83,14,Shadow
+247,3/26/24,6:58:33 PM,28,4,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,2,1,Fast Ball,Ball,,85,23,Chase
+248,3/26/24,6:58:47 PM,29,5,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,3,1,Breaking Ball,Strike Foul,,0,19,Shadow
+249,3/26/24,6:59:12 PM,30,6,AJ Curray,L,Ryle High School,Hanleigh Lopez,R,Moeller,6,Bottom,2,3,2,Fast Ball,Ball,BB,88,23,Chase
+250,3/26/24,7:00:19 PM,31,1,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,6,Bottom,2,0,0,Fast Ball,Ball,,81,23,Chase
+251,3/26/24,7:00:36 PM,32,2,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,6,Bottom,2,1,0,Fast Ball,Strike Looking,,83,12,Shadow
+252,3/26/24,7:00:55 PM,33,3,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,6,Bottom,2,1,1,Breaking Ball,Ball,,71,29,Chase
+253,3/26/24,7:01:12 PM,34,4,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,6,Bottom,2,2,1,Fast Ball,Strike Swing and Miss,,84,1,Heart
+254,3/26/24,7:01:39 PM,35,5,AJ Curray,L,Ryle High School,Will McCullough,R,Moeller,6,Bottom,2,2,2,Fast Ball,Strike Looking,Strike Out,84,19,Shadow
+255,3/26/24,7:03:29 PM,1,1,Connor Fuhrer,R,Moeller,Dylan McIntyre,R,Ryle High School,7,Top,0,0,0,Fast Ball,Strike Foul,,84,14,Shadow
+256,3/26/24,7:03:53 PM,2,2,Connor Fuhrer,R,Moeller,Dylan McIntyre,R,Ryle High School,7,Top,0,0,1,Slider,Ball,,74,23,Chase
+257,3/26/24,7:04:07 PM,3,3,Connor Fuhrer,R,Moeller,Dylan McIntyre,R,Ryle High School,7,Top,0,1,1,Fast Ball,Ball,,85,26,Chase
+258,3/26/24,7:04:23 PM,4,4,Connor Fuhrer,R,Moeller,Dylan McIntyre,R,Ryle High School,7,Top,0,2,1,Fast Ball,Ball,,84,39,Waste
+259,3/26/24,7:04:37 PM,5,5,Connor Fuhrer,R,Moeller,Dylan McIntyre,R,Ryle High School,7,Top,0,3,1,Slider,Strike In Play,Fly Out,73,11,Shadow
+260,3/26/24,7:05:07 PM,6,1,Connor Fuhrer,R,Moeller,Josh Caudill,R,Ryle High School,7,Top,1,0,0,Slider,Strike In Play,Fly Out,0,12,Shadow
+261,3/26/24,7:05:41 PM,7,1,Connor Fuhrer,R,Moeller,Matt Furtado,R,Ryle High School,7,Top,2,0,0,Fast Ball,Strike Swing and Miss,,85,17,Shadow
+262,3/26/24,7:05:58 PM,8,2,Connor Fuhrer,R,Moeller,Matt Furtado,R,Ryle High School,7,Top,2,0,1,Slider,Ball,,76,39,Waste
+263,3/26/24,7:06:08 PM,9,3,Connor Fuhrer,R,Moeller,Matt Furtado,R,Ryle High School,7,Top,2,1,1,Fast Ball,Strike Swing and Miss,,84,11,Shadow
+264,3/26/24,7:06:26 PM,10,4,Connor Fuhrer,R,Moeller,Matt Furtado,R,Ryle High School,7,Top,2,1,2,Slider,Strike Swing and Miss,Strike Out,77,19,Shadow
+1,3/27/24,5:05:49 PM,1,1,Corbin Shondel,R,Elder High School,Will McCullough,R,Moeller,1,Top,0,0,0,Fast Ball,Strike Looking,,76,12,Shadow
+2,3/27/24,5:06:04 PM,2,2,Corbin Shondel,R,Elder High School,Will McCullough,R,Moeller,1,Top,0,0,1,Breaking Ball,Strike In Play,Fly Out,64,13,Shadow
+3,3/27/24,5:06:36 PM,3,1,Corbin Shondel,R,Elder High School,Charlie Valencic,R,Moeller,1,Top,1,0,0,Fast Ball,Ball,,80,32,Waste
+4,3/27/24,5:06:54 PM,4,2,Corbin Shondel,R,Elder High School,Charlie Valencic,R,Moeller,1,Top,1,1,0,Fast Ball,Strike In Play,2B,79,7,Heart
+5,3/27/24,5:08:13 PM,5,1,Corbin Shondel,R,Elder High School,Matt Ponatoski,L,Moeller,1,Top,1,0,0,Breaking Ball,Ball,,65,39,Waste
+6,3/27/24,5:08:30 PM,6,2,Corbin Shondel,R,Elder High School,Matt Ponatoski,L,Moeller,1,Top,1,1,0,Fast Ball,Ball,,76,21,Chase
+7,3/27/24,5:08:55 PM,7,3,Corbin Shondel,R,Elder High School,Matt Ponatoski,L,Moeller,1,Top,1,2,0,Change Up,Strike Foul,,72,1,Heart
+8,3/27/24,5:09:17 PM,8,4,Corbin Shondel,R,Elder High School,Matt Ponatoski,L,Moeller,1,Top,1,2,1,Breaking Ball,Ball,,65,38,Waste
+9,3/27/24,5:09:38 PM,9,5,Corbin Shondel,R,Elder High School,Matt Ponatoski,L,Moeller,1,Top,1,3,1,Fast Ball,Strike Foul,,77,14,Shadow
+10,3/27/24,5:10:01 PM,10,6,Corbin Shondel,R,Elder High School,Matt Ponatoski,L,Moeller,1,Top,1,3,2,Change Up,Strike In Play,2B,70,11,Shadow
+11,3/27/24,5:10:45 PM,11,1,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,1,Top,1,0,0,Fast Ball,Ball,,79,37,Waste
+12,3/27/24,5:11:09 PM,12,2,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,1,Top,1,1,0,Change Up,Strike Swing and Miss,,70,16,Shadow
+13,3/27/24,5:11:33 PM,13,3,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,1,Top,1,1,1,Fast Ball,Ball,,78,37,Waste
+14,3/27/24,5:11:58 PM,14,4,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,1,Top,1,2,1,Breaking Ball,Ball,,64,21,Chase
+15,3/27/24,5:12:17 PM,15,5,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,1,Top,1,3,1,Fast Ball,Ball,BB,79,39,Waste
+16,3/27/24,5:12:50 PM,16,1,Corbin Shondel,R,Elder High School,Cooper Ridley,L,Moeller,1,Top,1,0,0,Fast Ball,Ball,,75,37,Waste
+17,3/27/24,5:14:32 PM,17,2,Corbin Shondel,R,Elder High School,Cooper Ridley,L,Moeller,1,Top,1,1,0,Fast Ball,Ball,,78,38,Waste
+18,3/27/24,5:14:52 PM,18,3,Corbin Shondel,R,Elder High School,Cooper Ridley,L,Moeller,1,Top,1,2,0,Breaking Ball,Strike Looking,,N/A,1,Heart
+19,3/27/24,5:15:11 PM,19,4,Corbin Shondel,R,Elder High School,Cooper Ridley,L,Moeller,1,Top,1,2,1,Fast Ball,Strike In Play,Sacrifice,79,16,Shadow
+20,3/27/24,5:15:53 PM,20,1,Corbin Shondel,R,Elder High School,Conner Cuozzo,R,Moeller,1,Top,2,0,0,Fast Ball,Strike Looking,,80,28,Chase
+21,3/27/24,5:16:10 PM,21,2,Corbin Shondel,R,Elder High School,Conner Cuozzo,R,Moeller,1,Top,2,0,1,Breaking Ball,Ball,,70,39,Waste
+22,3/27/24,5:16:40 PM,22,3,Corbin Shondel,R,Elder High School,Conner Cuozzo,R,Moeller,1,Top,2,1,1,Breaking Ball,Ball,,65,21,Chase
+23,3/27/24,5:17:18 PM,23,4,Corbin Shondel,R,Elder High School,Conner Cuozzo,R,Moeller,1,Top,2,2,1,Fast Ball,Ball,,79,39,Waste
+24,3/27/24,5:17:47 PM,24,5,Corbin Shondel,R,Elder High School,Conner Cuozzo,R,Moeller,1,Top,2,3,1,Breaking Ball,Strike Foul,,68,12,Shadow
+25,3/27/24,5:18:16 PM,25,6,Corbin Shondel,R,Elder High School,Conner Cuozzo,R,Moeller,1,Top,2,3,2,Breaking Ball,Ball,BB,65,39,Waste
+26,3/27/24,5:18:53 PM,26,1,Corbin Shondel,R,Elder High School,Forrest Day,L,Moeller,1,Top,2,0,0,Fast Ball,Ball,,N/A,31,Waste
+27,3/27/24,5:19:10 PM,27,2,Corbin Shondel,R,Elder High School,Forrest Day,L,Moeller,1,Top,2,1,0,Fast Ball,Strike Swing and Miss,,77,37,Waste
+28,3/27/24,5:19:33 PM,28,3,Corbin Shondel,R,Elder High School,Forrest Day,L,Moeller,1,Top,2,1,1,Fast Ball,Strike In Play,2B,70,16,Shadow
+29,3/27/24,5:20:17 PM,29,1,Corbin Shondel,R,Elder High School,Luke Pappano,L,Moeller,1,Top,2,0,0,Breaking Ball,Strike Looking,,64,17,Shadow
+30,3/27/24,5:20:32 PM,30,2,Corbin Shondel,R,Elder High School,Luke Pappano,L,Moeller,1,Top,2,0,1,Fast Ball,Ball,,80,38,Waste
+31,3/27/24,5:20:52 PM,31,3,Corbin Shondel,R,Elder High School,Luke Pappano,L,Moeller,1,Top,2,1,1,Fast Ball,Strike Foul,,77,5,Heart
+32,3/27/24,5:21:21 PM,32,4,Corbin Shondel,R,Elder High School,Luke Pappano,L,Moeller,1,Top,2,1,2,Breaking Ball,Ball,,66,N/A,Waste
+33,3/27/24,5:21:40 PM,33,5,Corbin Shondel,R,Elder High School,Luke Pappano,L,Moeller,1,Top,2,2,2,Fast Ball,Ball,,80,38,Waste
+34,3/27/24,5:22:01 PM,34,6,Corbin Shondel,R,Elder High School,Luke Pappano,L,Moeller,1,Top,2,3,2,Fast Ball,Strike Swing and Miss,Strike Out,80,14,Shadow
+35,3/27/24,5:24:49 PM,1,1,Zion Theophilus,R,Moeller,Brayden Curlis,R,Elder High School,1,Bottom,0,0,0,Fast Ball,Strike Foul,,90,11,Shadow
+36,3/27/24,5:25:13 PM,2,2,Zion Theophilus,R,Moeller,Brayden Curlis,R,Elder High School,1,Bottom,0,0,1,Slider,Strike Looking,,N/A,13,Shadow
+37,3/27/24,5:25:25 PM,3,3,Zion Theophilus,R,Moeller,Brayden Curlis,R,Elder High School,1,Bottom,0,0,2,Slider,Strike Swing and Miss,Strike Out,82,29,Chase
+38,3/27/24,5:25:47 PM,4,1,Zion Theophilus,R,Moeller,Jaden Walpole,R,Elder High School,1,Bottom,1,0,0,Fast Ball,Ball,,90,17,Shadow
+39,3/27/24,5:25:58 PM,5,2,Zion Theophilus,R,Moeller,Jaden Walpole,R,Elder High School,1,Bottom,1,1,0,Fast Ball,Strike In Play,1B,90,16,Shadow
+40,3/27/24,5:26:35 PM,6,1,Zion Theophilus,R,Moeller,Caden Ammon,R,Elder High School,1,Bottom,1,0,0,Slider,Strike Looking,,77,18,Shadow
+41,3/27/24,5:26:51 PM,7,2,Zion Theophilus,R,Moeller,Caden Ammon,R,Elder High School,1,Bottom,1,0,1,Fast Ball,Strike In Play,Fly Out,87,16,Shadow
+42,3/27/24,5:27:22 PM,8,1,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,1,Bottom,2,0,0,Fast Ball,Strike Foul,,88,13,Shadow
+43,3/27/24,5:27:44 PM,9,2,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,1,Bottom,2,0,1,Slider,Strike Swing and Miss,,79,29,Chase
+44,3/27/24,5:27:59 PM,10,3,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,1,Bottom,2,0,2,Fast Ball,Ball,,91,14,Shadow
+45,3/27/24,5:28:20 PM,11,4,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,1,Bottom,2,1,2,Slider,Strike Foul,,79,19,Shadow
+46,3/27/24,5:28:44 PM,12,5,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,1,Bottom,2,1,2,Slider,Ball,,80,23,Chase
+47,3/27/24,5:29:02 PM,13,6,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,1,Bottom,2,2,2,Fast Ball,Ball,,89,33,Waste
+48,3/27/24,5:29:18 PM,14,7,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,1,Bottom,2,3,2,Slider,Strike Foul,,80,16,Shadow
+49,3/27/24,5:29:44 PM,15,8,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,1,Bottom,2,3,2,Slider,Strike Looking,Strike Out,80,26,Chase
+50,3/27/24,5:31:42 PM,1,1,Corbin Shondel,R,Elder High School,Griffin Booth,R,Moeller,2,Top,0,0,0,Breaking Ball,Strike Looking,,63,7,Heart
+51,3/27/24,5:31:57 PM,2,2,Corbin Shondel,R,Elder High School,Griffin Booth,R,Moeller,2,Top,0,0,1,Fast Ball,Strike Foul,,78,3,Heart
+52,3/27/24,5:32:22 PM,3,3,Corbin Shondel,R,Elder High School,Griffin Booth,R,Moeller,2,Top,0,0,2,Fast Ball,Strike Foul,,N/A,16,Shadow
+53,3/27/24,5:32:45 PM,4,4,Corbin Shondel,R,Elder High School,Griffin Booth,R,Moeller,2,Top,0,0,2,Fast Ball,Ball,,78,16,Shadow
+54,3/27/24,5:33:02 PM,5,5,Corbin Shondel,R,Elder High School,Griffin Booth,R,Moeller,2,Top,0,1,2,Breaking Ball,Strike Foul,,64,17,Shadow
+55,3/27/24,5:33:22 PM,6,6,Corbin Shondel,R,Elder High School,Griffin Booth,R,Moeller,2,Top,0,1,2,Fast Ball,Ball,,71,39,Waste
+56,3/27/24,5:33:46 PM,7,7,Corbin Shondel,R,Elder High School,Griffin Booth,R,Moeller,2,Top,0,2,2,Fast Ball,Ball,,78,29,Chase
+57,3/27/24,5:34:06 PM,8,8,Corbin Shondel,R,Elder High School,Griffin Booth,R,Moeller,2,Top,0,3,2,Breaking Ball,Strike In Play,Ground Out,65,26,Chase
+58,3/27/24,5:34:44 PM,9,1,Corbin Shondel,R,Elder High School,Will McCullough,R,Moeller,2,Top,1,0,0,Fast Ball,Strike Foul,,77,16,Shadow
+59,3/27/24,5:35:24 PM,10,2,Corbin Shondel,R,Elder High School,Will McCullough,R,Moeller,2,Top,1,0,1,Breaking Ball,Ball,,69,N/A,Waste
+60,3/27/24,5:35:43 PM,11,3,Corbin Shondel,R,Elder High School,Will McCullough,R,Moeller,2,Top,1,1,1,Breaking Ball,Strike Foul,,74,19,Shadow
+61,3/27/24,5:36:06 PM,12,4,Corbin Shondel,R,Elder High School,Will McCullough,R,Moeller,2,Top,1,1,2,Fast Ball,Strike In Play,Fly Out,75,11,Shadow
+62,3/27/24,5:36:39 PM,13,1,Corbin Shondel,R,Elder High School,Charlie Valencic,R,Moeller,2,Top,2,0,0,Fast Ball,Ball,,70,27,Chase
+63,3/27/24,5:36:54 PM,14,2,Corbin Shondel,R,Elder High School,Charlie Valencic,R,Moeller,2,Top,2,1,0,Breaking Ball,Strike Looking,,62,11,Shadow
+64,3/27/24,5:37:11 PM,15,3,Corbin Shondel,R,Elder High School,Charlie Valencic,R,Moeller,2,Top,2,1,1,Fast Ball,Strike Foul,,77,19,Shadow
+65,3/27/24,5:37:37 PM,16,4,Corbin Shondel,R,Elder High School,Charlie Valencic,R,Moeller,2,Top,2,1,2,Fast Ball,Strike Foul,,73,23,Chase
+66,3/27/24,5:37:57 PM,17,5,Corbin Shondel,R,Elder High School,Charlie Valencic,R,Moeller,2,Top,2,1,2,Fast Ball,Ball,,71,39,Waste
+67,3/27/24,5:38:16 PM,18,6,Corbin Shondel,R,Elder High School,Charlie Valencic,R,Moeller,2,Top,2,2,2,Breaking Ball,Ball,,66,39,Waste
+68,3/27/24,5:38:41 PM,19,7,Corbin Shondel,R,Elder High School,Charlie Valencic,R,Moeller,2,Top,2,3,2,Fast Ball,Ball,BB,75,24,Chase
+69,3/27/24,5:39:12 PM,20,1,Corbin Shondel,R,Elder High School,Matt Ponatoski,L,Moeller,2,Top,2,0,0,Fast Ball,Strike In Play,2B,76,13,Shadow
+70,3/27/24,5:39:58 PM,21,1,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,2,Top,2,0,0,Breaking Ball,Strike Looking,,64,19,Shadow
+71,3/27/24,5:40:18 PM,22,2,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,2,Top,2,0,1,Fast Ball,Ball,,78,39,Waste
+72,3/27/24,5:40:40 PM,23,3,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,2,Top,2,1,1,Fast Ball,Strike Swing and Miss,,N/A,27,Chase
+73,3/27/24,5:41:02 PM,24,4,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,2,Top,2,1,2,Fast Ball,Ball,,79,33,Waste
+74,3/27/24,5:41:22 PM,25,5,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,2,Top,2,2,2,Breaking Ball,Ball,,60,39,Waste
+75,3/27/24,5:41:49 PM,26,6,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,2,Top,2,3,2,Change Up,Strike Foul,,69,19,Shadow
+76,3/27/24,5:42:18 PM,27,7,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,2,Top,2,3,2,Breaking Ball,Strike Foul,,59,2,Heart
+77,3/27/24,5:42:57 PM,28,8,Corbin Shondel,R,Elder High School,Carter Christenson,R,Moeller,2,Top,2,3,2,Fast Ball,Ball,BB,77,27,Chase
+78,3/27/24,5:43:24 PM,29,1,Corbin Shondel,R,Elder High School,Cooper Ridley,L,Moeller,2,Top,2,0,0,Fast Ball,Ball,,75,N/A,Waste
+79,3/27/24,5:43:47 PM,30,2,Corbin Shondel,R,Elder High School,Cooper Ridley,L,Moeller,2,Top,2,1,0,Breaking Ball,Strike Swing and Miss,,69,19,Shadow
+80,3/27/24,5:44:06 PM,31,3,Corbin Shondel,R,Elder High School,Cooper Ridley,L,Moeller,2,Top,2,1,1,Fast Ball,Strike In Play,2B,77,16,Shadow
+81,3/27/24,5:45:00 PM,32,1,Corbin Shondel,R,Elder High School,Conner Cuozzo,R,Moeller,2,Top,2,0,0,Fast Ball,Ball,,75,16,Shadow
+82,3/27/24,5:45:35 PM,33,2,Corbin Shondel,R,Elder High School,Conner Cuozzo,R,Moeller,2,Top,2,1,0,Fast Ball,Strike In Play,Fly Out,77,14,Shadow
+83,3/27/24,5:47:34 PM,1,1,Zion Theophilus,R,Moeller,Mason Schneider,L,Elder High School,2,Bottom,0,0,0,Fast Ball,Ball,,90,37,Waste
+84,3/27/24,5:47:45 PM,2,2,Zion Theophilus,R,Moeller,Mason Schneider,L,Elder High School,2,Bottom,0,1,0,Slider,Ball,,79,31,Waste
+85,3/27/24,5:47:58 PM,3,3,Zion Theophilus,R,Moeller,Mason Schneider,L,Elder High School,2,Bottom,0,2,0,Fast Ball,Strike In Play,1B,90,26,Chase
+86,3/27/24,5:48:37 PM,4,1,Zion Theophilus,R,Moeller,Ben Weigand,R,Elder High School,2,Bottom,0,0,0,Change Up,Ball,,77,37,Waste
+87,3/27/24,5:48:44 PM,5,2,Zion Theophilus,R,Moeller,Ben Weigand,R,Elder High School,2,Bottom,0,1,0,Slider,Strike Looking,,77,19,Shadow
+88,3/27/24,5:48:56 PM,6,3,Zion Theophilus,R,Moeller,Ben Weigand,R,Elder High School,2,Bottom,0,1,1,Fast Ball,Strike Foul,,88,16,Shadow
+89,3/27/24,5:49:16 PM,7,4,Zion Theophilus,R,Moeller,Ben Weigand,R,Elder High School,2,Bottom,0,1,2,Slider,Strike Swing and Miss,Strike Out,77,16,Shadow
+90,3/27/24,5:49:40 PM,8,1,Zion Theophilus,R,Moeller,Eli Roden,L,Elder High School,2,Bottom,1,0,0,Fast Ball,Ball,,89,27,Chase
+91,3/27/24,5:49:55 PM,9,2,Zion Theophilus,R,Moeller,Eli Roden,L,Elder High School,2,Bottom,1,1,0,Fast Ball,Strike Foul,,88,5,Heart
+92,3/27/24,5:50:18 PM,10,3,Zion Theophilus,R,Moeller,Eli Roden,L,Elder High School,2,Bottom,1,1,1,Fast Ball,Strike In Play,1B,88,17,Shadow
+93,3/27/24,5:50:49 PM,11,1,Zion Theophilus,R,Moeller,Carson Smith,R,Elder High School,2,Bottom,1,0,0,Slider,Ball,,77,39,Waste
+94,3/27/24,5:51:06 PM,12,2,Zion Theophilus,R,Moeller,Carson Smith,R,Elder High School,2,Bottom,1,1,0,Slider,Strike Looking,,78,19,Shadow
+95,3/27/24,5:51:23 PM,13,3,Zion Theophilus,R,Moeller,Carson Smith,R,Elder High School,2,Bottom,1,1,1,Fast Ball,Ball,,90,23,Chase
+96,3/27/24,5:51:39 PM,14,4,Zion Theophilus,R,Moeller,Carson Smith,R,Elder High School,2,Bottom,1,2,1,Fast Ball,Ball,,87,38,Waste
+97,3/27/24,5:51:59 PM,15,5,Zion Theophilus,R,Moeller,Carson Smith,R,Elder High School,2,Bottom,1,3,1,Fast Ball,Ball,BB,89,33,Waste
+98,3/27/24,5:52:29 PM,16,1,Zion Theophilus,R,Moeller,Cooper Sandhas,R,Elder High School,2,Bottom,1,0,0,Fast Ball,Ball,,88,38,Waste
+99,3/27/24,5:53:05 PM,17,2,Zion Theophilus,R,Moeller,Cooper Sandhas,R,Elder High School,2,Bottom,1,1,0,Fast Ball,Strike Looking,,91,14,Shadow
+100,3/27/24,5:53:20 PM,18,3,Zion Theophilus,R,Moeller,Cooper Sandhas,R,Elder High School,2,Bottom,1,1,1,Fast Ball,Strike Looking,,90,16,Shadow
+101,3/27/24,5:53:33 PM,19,4,Zion Theophilus,R,Moeller,Cooper Sandhas,R,Elder High School,2,Bottom,1,1,2,Slider,Strike Foul,,78,5,Heart
+102,3/27/24,5:53:55 PM,20,5,Zion Theophilus,R,Moeller,Cooper Sandhas,R,Elder High School,2,Bottom,1,1,2,Fast Ball,Ball,,91,39,Waste
+103,3/27/24,5:54:16 PM,21,6,Zion Theophilus,R,Moeller,Cooper Sandhas,R,Elder High School,2,Bottom,1,2,2,Slider,Strike Looking,Strike Out,80,3,Heart
+104,3/27/24,5:54:45 PM,22,1,Zion Theophilus,R,Moeller,Brayden Curlis,R,Elder High School,2,Bottom,2,0,0,Fast Ball,Strike In Play,1B,88,5,Heart
+105,3/27/24,5:55:19 PM,23,1,Zion Theophilus,R,Moeller,Jaden Walpole,R,Elder High School,2,Bottom,2,0,0,Fast Ball,Ball,,91,39,Waste
+106,3/27/24,5:55:41 PM,24,2,Zion Theophilus,R,Moeller,Jaden Walpole,R,Elder High School,2,Bottom,2,1,0,Fast Ball,Strike Looking,,91,18,Shadow
+107,3/27/24,5:56:01 PM,25,3,Zion Theophilus,R,Moeller,Jaden Walpole,R,Elder High School,2,Bottom,2,1,1,Slider,Strike Looking,,80,16,Shadow
+108,3/27/24,5:56:17 PM,26,4,Zion Theophilus,R,Moeller,Jaden Walpole,R,Elder High School,2,Bottom,2,1,2,Slider,Strike Swing and Miss,Strike Out,81,39,Waste
+109,3/27/24,5:59:07 PM,1,1,Devyn Mullins,R,Elder High School,Forrest Day,L,Moeller,3,Top,0,0,0,Fast Ball,Ball,,76,31,Waste
+110,3/27/24,5:59:23 PM,2,2,Devyn Mullins,R,Elder High School,Forrest Day,L,Moeller,3,Top,0,1,0,Fast Ball,Strike Looking,,79,14,Shadow
+111,3/27/24,5:59:39 PM,3,3,Devyn Mullins,R,Elder High School,Forrest Day,L,Moeller,3,Top,0,1,1,Fast Ball,Ball,,75,38,Waste
+112,3/27/24,5:59:58 PM,4,4,Devyn Mullins,R,Elder High School,Forrest Day,L,Moeller,3,Top,0,2,1,Fast Ball,Strike In Play,1B,78,7,Heart
+113,3/27/24,6:00:42 PM,5,1,Devyn Mullins,R,Elder High School,Luke Pappano,L,Moeller,3,Top,0,0,0,Fast Ball,Ball,,77,32,Waste
+114,3/27/24,6:01:03 PM,6,2,Devyn Mullins,R,Elder High School,Luke Pappano,L,Moeller,3,Top,0,1,0,Fast Ball,Ball,,77,21,Chase
+115,3/27/24,6:01:38 PM,7,3,Devyn Mullins,R,Elder High School,Luke Pappano,L,Moeller,3,Top,0,2,0,Fast Ball,Strike Looking,,77,14,Shadow
+116,3/27/24,6:02:00 PM,8,4,Devyn Mullins,R,Elder High School,Luke Pappano,L,Moeller,3,Top,0,2,1,Fast Ball,Ball,,76,24,Chase
+117,3/27/24,6:02:33 PM,9,5,Devyn Mullins,R,Elder High School,Luke Pappano,L,Moeller,3,Top,0,3,1,Fast Ball,Strike In Play,1B,78,16,Shadow
+118,3/27/24,6:03:13 PM,10,1,Devyn Mullins,R,Elder High School,Griffin Booth,R,Moeller,3,Top,0,0,0,Fast Ball,Strike Foul,,78,13,Shadow
+119,3/27/24,6:03:44 PM,11,2,Devyn Mullins,R,Elder High School,Griffin Booth,R,Moeller,3,Top,0,0,1,Fast Ball,Ball,,77,32,Waste
+120,3/27/24,6:04:05 PM,12,3,Devyn Mullins,R,Elder High School,Griffin Booth,R,Moeller,3,Top,0,1,1,Fast Ball,Ball,,75,31,Waste
+121,3/27/24,6:04:29 PM,13,4,Devyn Mullins,R,Elder High School,Griffin Booth,R,Moeller,3,Top,0,2,1,Fast Ball,Strike Swing and Miss,,76,22,Chase
+122,3/27/24,6:04:52 PM,14,5,Devyn Mullins,R,Elder High School,Griffin Booth,R,Moeller,3,Top,0,2,2,Fast Ball,Strike Foul,,71,1,Heart
+123,3/27/24,6:05:17 PM,15,6,Devyn Mullins,R,Elder High School,Griffin Booth,R,Moeller,3,Top,0,2,2,Fast Ball,Ball,,77,32,Waste
+124,3/27/24,6:05:39 PM,16,7,Devyn Mullins,R,Elder High School,Griffin Booth,R,Moeller,3,Top,0,3,2,Fast Ball,Strike Foul,,72,11,Shadow
+125,3/27/24,6:06:12 PM,17,8,Devyn Mullins,R,Elder High School,Griffin Booth,R,Moeller,3,Top,0,3,2,Fast Ball,Strike Swing and Miss,Strike Out,73,5,Heart
+126,3/27/24,6:06:32 PM,18,1,Devyn Mullins,R,Elder High School,Will McCullough,R,Moeller,3,Top,1,0,0,Breaking Ball,Ball,,69,14,Shadow
+127,3/27/24,6:06:51 PM,19,2,Devyn Mullins,R,Elder High School,Will McCullough,R,Moeller,3,Top,1,1,0,Fast Ball,Ball,,79,33,Waste
+128,3/27/24,6:07:10 PM,20,3,Devyn Mullins,R,Elder High School,Will McCullough,R,Moeller,3,Top,1,2,0,Breaking Ball,Ball,,69,11,Shadow
+129,3/27/24,6:07:49 PM,21,4,Devyn Mullins,R,Elder High School,Will McCullough,R,Moeller,3,Top,1,3,0,Fast Ball,Strike Looking,,82,12,Shadow
+130,3/27/24,6:08:04 PM,22,5,Devyn Mullins,R,Elder High School,Will McCullough,R,Moeller,3,Top,1,3,1,Fast Ball,Strike Looking,,78,13,Shadow
+131,3/27/24,6:08:20 PM,23,6,Devyn Mullins,R,Elder High School,Will McCullough,R,Moeller,3,Top,1,3,2,Fast Ball,Ball,BB,80,31,Waste
+132,3/27/24,6:08:45 PM,24,1,Devyn Mullins,R,Elder High School,Charlie Valencic,R,Moeller,3,Top,1,0,0,Breaking Ball,Ball,,71,39,Waste
+133,3/27/24,6:09:05 PM,25,2,Devyn Mullins,R,Elder High School,Charlie Valencic,R,Moeller,3,Top,1,1,0,Fast Ball,Ball,,78,36,Waste
+134,3/27/24,6:09:30 PM,26,3,Devyn Mullins,R,Elder High School,Charlie Valencic,R,Moeller,3,Top,1,2,0,Fast Ball,Strike Looking,,81,12,Shadow
+135,3/27/24,6:09:49 PM,27,4,Devyn Mullins,R,Elder High School,Charlie Valencic,R,Moeller,3,Top,1,2,1,Breaking Ball,Ball,,72,16,Shadow
+136,3/27/24,6:10:11 PM,28,5,Devyn Mullins,R,Elder High School,Charlie Valencic,R,Moeller,3,Top,1,3,1,Fast Ball,Ball,BB,78,22,Chase
+137,3/27/24,6:11:44 PM,29,1,Devyn Mullins,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,1,0,0,Fast Ball,Strike Foul,,77,13,Shadow
+138,3/27/24,6:12:09 PM,30,2,Devyn Mullins,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,1,0,1,Fast Ball,Ball,,80,28,Chase
+139,3/27/24,6:12:26 PM,31,3,Devyn Mullins,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,1,1,1,Fast Ball,Strike Foul,,80,16,Shadow
+140,3/27/24,6:12:58 PM,32,4,Devyn Mullins,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,1,1,2,Fast Ball,Ball,,80,26,Chase
+141,3/27/24,6:13:15 PM,33,5,Devyn Mullins,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,1,2,2,Fast Ball,Strike Foul,,82,16,Shadow
+142,3/27/24,6:13:55 PM,34,6,Devyn Mullins,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,1,2,2,Breaking Ball,Ball,,70,31,Waste
+143,3/27/24,6:14:13 PM,35,7,Devyn Mullins,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,1,3,2,Fast Ball,Ball,BB,78,31,Waste
+144,3/27/24,6:14:41 PM,36,1,Devyn Mullins,R,Elder High School,Carter Christenson,R,Moeller,3,Top,1,0,0,Breaking Ball,Ball,,70,31,Waste
+145,3/27/24,6:14:57 PM,37,2,Devyn Mullins,R,Elder High School,Carter Christenson,R,Moeller,3,Top,1,1,0,Fast Ball,Ball,,80,33,Waste
+146,3/27/24,6:15:19 PM,38,3,Devyn Mullins,R,Elder High School,Carter Christenson,R,Moeller,3,Top,1,2,0,Fast Ball,Ball,,77,32,Waste
+147,3/27/24,6:15:49 PM,39,4,Devyn Mullins,R,Elder High School,Carter Christenson,R,Moeller,3,Top,1,3,0,Fast Ball,Ball,BB,76,22,Chase
+148,3/27/24,6:18:53 PM,1,1,Ben Weigand,R,Elder High School,Cooper Ridley,L,Moeller,3,Top,1,0,0,Fast Ball,Ball,HBP,81,N/A,Waste
+149,3/27/24,6:19:30 PM,2,1,Ben Weigand,R,Elder High School,Conner Cuozzo,R,Moeller,3,Top,1,0,0,Fast Ball,Strike In Play,Error,80,7,Heart
+150,3/27/24,6:20:12 PM,3,1,Ben Weigand,R,Elder High School,Forrest Day,L,Moeller,3,Top,1,0,0,Fast Ball,Ball,,82,32,Waste
+151,3/27/24,6:20:28 PM,4,2,Ben Weigand,R,Elder High School,Forrest Day,L,Moeller,3,Top,1,1,0,Breaking Ball,Ball,,73,34,Waste
+152,3/27/24,6:20:45 PM,5,3,Ben Weigand,R,Elder High School,Forrest Day,L,Moeller,3,Top,1,2,0,Fast Ball,Ball,,80,16,Shadow
+153,3/27/24,6:21:06 PM,6,4,Ben Weigand,R,Elder High School,Forrest Day,L,Moeller,3,Top,1,3,0,Breaking Ball,Strike Foul,,N/A,29,Chase
+154,3/27/24,6:21:28 PM,7,5,Ben Weigand,R,Elder High School,Forrest Day,L,Moeller,3,Top,1,3,1,Fast Ball,Strike Looking,,83,26,Chase
+155,3/27/24,6:21:44 PM,8,6,Ben Weigand,R,Elder High School,Forrest Day,L,Moeller,3,Top,1,3,2,Fast Ball,Ball,BB,81,38,Waste
+156,3/27/24,6:22:10 PM,9,1,Ben Weigand,R,Elder High School,Luke Pappano,L,Moeller,3,Top,1,0,0,Fast Ball,Ball,,81,36,Waste
+157,3/27/24,6:22:26 PM,10,2,Ben Weigand,R,Elder High School,Luke Pappano,L,Moeller,3,Top,1,1,0,Fast Ball,Ball,,83,37,Waste
+158,3/27/24,6:23:00 PM,11,3,Ben Weigand,R,Elder High School,Luke Pappano,L,Moeller,3,Top,1,2,0,Fast Ball,Strike In Play,1B,84,26,Chase
+159,3/27/24,6:23:39 PM,12,1,Ben Weigand,R,Elder High School,Griffin Booth,R,Moeller,3,Top,1,0,0,Fast Ball,Strike In Play,1B,77,16,Shadow
+160,3/27/24,6:24:14 PM,13,1,Ben Weigand,R,Elder High School,Will McCullough,R,Moeller,3,Top,1,0,0,Breaking Ball,Strike Looking,,79,14,Shadow
+161,3/27/24,6:24:33 PM,14,2,Ben Weigand,R,Elder High School,Will McCullough,R,Moeller,3,Top,1,0,1,Breaking Ball,Ball,,72,37,Waste
+162,3/27/24,6:24:51 PM,15,3,Ben Weigand,R,Elder High School,Will McCullough,R,Moeller,3,Top,1,1,1,Fast Ball,Strike In Play,Fly Out,81,11,Shadow
+163,3/27/24,6:25:21 PM,16,1,Ben Weigand,R,Elder High School,Charlie Valencic,R,Moeller,3,Top,2,0,0,Breaking Ball,Strike Looking,,74,5,Heart
+164,3/27/24,6:25:36 PM,17,2,Ben Weigand,R,Elder High School,Charlie Valencic,R,Moeller,3,Top,2,0,1,Fast Ball,Strike In Play,1B,73,26,Chase
+165,3/27/24,6:26:12 PM,18,1,Ben Weigand,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,2,0,0,Fast Ball,Ball,,74,31,Waste
+166,3/27/24,6:26:34 PM,19,2,Ben Weigand,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,2,1,0,Fast Ball,Strike Foul,,83,16,Shadow
+167,3/27/24,6:26:54 PM,20,3,Ben Weigand,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,2,1,1,Breaking Ball,Ball,,72,27,Chase
+168,3/27/24,6:27:11 PM,21,4,Ben Weigand,R,Elder High School,Matt Ponatoski,L,Moeller,3,Top,2,2,1,Fast Ball,Strike In Play,1B,82,26,Chase
+169,3/27/24,6:27:57 PM,22,1,Ben Weigand,R,Elder High School,Carter Christenson,R,Moeller,3,Top,2,0,0,Fast Ball,Strike Looking,,72,18,Shadow
+170,3/27/24,6:28:12 PM,23,2,Ben Weigand,R,Elder High School,Carter Christenson,R,Moeller,3,Top,2,0,1,Fast Ball,Ball,,83,37,Waste
+171,3/27/24,6:28:32 PM,24,3,Ben Weigand,R,Elder High School,Carter Christenson,R,Moeller,3,Top,2,1,1,Fast Ball,Strike In Play,Ground Out,N/A,26,Chase
+172,3/27/24,6:30:49 PM,1,1,Zion Theophilus,R,Moeller,Caden Ammon,R,Elder High School,3,Bottom,0,0,0,Fast Ball,Ball,,90,29,Chase
+173,3/27/24,6:31:00 PM,2,2,Zion Theophilus,R,Moeller,Caden Ammon,R,Elder High School,3,Bottom,0,1,0,Fast Ball,Strike In Play,HR,88,7,Heart
+174,3/27/24,6:32:11 PM,3,1,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,3,Bottom,0,0,0,Slider,Ball,,80,29,Chase
+175,3/27/24,6:32:20 PM,4,2,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,3,Bottom,0,1,0,Fast Ball,Ball,,90,N/A,Waste
+176,3/27/24,6:32:32 PM,5,3,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,3,Bottom,0,2,0,Fast Ball,Strike Looking,,90,12,Shadow
+177,3/27/24,6:32:48 PM,6,4,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,3,Bottom,0,2,1,Fast Ball,Ball,,89,39,Waste
+178,3/27/24,6:32:59 PM,7,5,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,3,Bottom,0,3,1,Fast Ball,Strike Foul,,89,29,Chase
+179,3/27/24,6:33:17 PM,8,6,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,3,Bottom,0,3,2,Slider,Strike Foul,,81,13,Shadow
+180,3/27/24,6:33:32 PM,9,7,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,3,Bottom,0,3,2,Slider,Strike Foul,,82,29,Chase
+181,3/27/24,6:33:48 PM,10,8,Zion Theophilus,R,Moeller,Tyler Biggs,R,Elder High School,3,Bottom,0,3,2,Slider,Strike Looking,Strike Out,78,17,Shadow
+182,3/27/24,6:34:15 PM,11,1,Zion Theophilus,R,Moeller,Mason Schneider,L,Elder High School,3,Bottom,1,0,0,Slider,Ball,,79,39,Waste
+183,3/27/24,6:34:28 PM,12,2,Zion Theophilus,R,Moeller,Mason Schneider,L,Elder High School,3,Bottom,1,1,0,Fast Ball,Ball,,89,14,Shadow
+184,3/27/24,6:34:40 PM,13,3,Zion Theophilus,R,Moeller,Mason Schneider,L,Elder High School,3,Bottom,1,2,0,Fast Ball,Strike In Play,Fly Out,89,6,Heart
+185,3/27/24,6:35:14 PM,14,1,Zion Theophilus,R,Moeller,Ben Weigand,R,Elder High School,3,Bottom,2,0,0,Fast Ball,Ball,,89,N/A,Waste
+186,3/27/24,6:35:34 PM,15,2,Zion Theophilus,R,Moeller,Ben Weigand,R,Elder High School,3,Bottom,2,1,0,Slider,Strike Swing and Miss,,80,18,Shadow
+187,3/27/24,6:35:47 PM,16,3,Zion Theophilus,R,Moeller,Ben Weigand,R,Elder High School,3,Bottom,2,1,1,Fast Ball,Strike Looking,,91,11,Shadow
+188,3/27/24,6:35:59 PM,17,4,Zion Theophilus,R,Moeller,Ben Weigand,R,Elder High School,3,Bottom,2,1,2,Slider,Ball,,79,36,Waste
+189,3/27/24,6:36:12 PM,18,5,Zion Theophilus,R,Moeller,Ben Weigand,R,Elder High School,3,Bottom,2,2,2,Slider,Strike Swing and Miss,Strike Out,81,26,Chase
+190,3/27/24,6:39:38 PM,1,1,Ryan Riesenbeck,R,Elder High School,Jackson Porta,R,Moeller,4,Top,0,0,0,Fast Ball,Strike Looking,,74,26,Chase
+191,3/27/24,6:39:50 PM,2,2,Ryan Riesenbeck,R,Elder High School,Jackson Porta,R,Moeller,4,Top,0,0,1,Breaking Ball,Ball,,69,18,Shadow
+192,3/27/24,6:40:02 PM,3,3,Ryan Riesenbeck,R,Elder High School,Jackson Porta,R,Moeller,4,Top,0,1,1,Fast Ball,Ball,,73,39,Waste
+193,3/27/24,6:40:17 PM,4,4,Ryan Riesenbeck,R,Elder High School,Jackson Porta,R,Moeller,4,Top,0,2,1,Breaking Ball,Ball,,64,39,Waste
+194,3/27/24,6:40:33 PM,5,5,Ryan Riesenbeck,R,Elder High School,Jackson Porta,R,Moeller,4,Top,0,3,1,Fast Ball,Strike Foul,,75,9,Heart
+195,3/27/24,6:40:52 PM,6,6,Ryan Riesenbeck,R,Elder High School,Jackson Porta,R,Moeller,4,Top,0,3,2,Fast Ball,Strike In Play,Ground Out,77,26,Chase
+196,3/27/24,6:41:24 PM,7,1,Ryan Riesenbeck,R,Elder High School,Hanleigh Lopez,R,Moeller,4,Top,1,0,0,Fast Ball,Strike Looking,,77,26,Chase
+197,3/27/24,6:41:38 PM,8,2,Ryan Riesenbeck,R,Elder High School,Hanleigh Lopez,R,Moeller,4,Top,1,0,1,Change Up,Strike Swing and Miss,,70,19,Shadow
+198,3/27/24,6:41:53 PM,9,3,Ryan Riesenbeck,R,Elder High School,Hanleigh Lopez,R,Moeller,4,Top,1,0,2,Breaking Ball,Ball,,66,38,Waste
+199,3/27/24,6:42:11 PM,10,4,Ryan Riesenbeck,R,Elder High School,Hanleigh Lopez,R,Moeller,4,Top,1,1,2,Breaking Ball,Strike In Play,1B,67,26,Chase
+200,3/27/24,6:42:51 PM,11,1,Ryan Riesenbeck,R,Elder High School,Kaden Snodgrass,R,Moeller,4,Top,1,0,0,Fast Ball,Ball,,72,33,Waste
+201,3/27/24,6:43:08 PM,12,2,Ryan Riesenbeck,R,Elder High School,Kaden Snodgrass,R,Moeller,4,Top,1,1,0,Fast Ball,Strike Foul,,74,16,Shadow
+202,3/27/24,6:43:30 PM,13,3,Ryan Riesenbeck,R,Elder High School,Kaden Snodgrass,R,Moeller,4,Top,1,1,1,Fast Ball,Ball,,70,N/A,Waste
+203,3/27/24,6:43:48 PM,14,4,Ryan Riesenbeck,R,Elder High School,Kaden Snodgrass,R,Moeller,4,Top,1,2,1,Fast Ball,Ball,,73,32,Waste
+204,3/27/24,6:44:07 PM,15,5,Ryan Riesenbeck,R,Elder High School,Kaden Snodgrass,R,Moeller,4,Top,1,3,1,Fast Ball,Ball,BB,73,39,Waste
+205,3/27/24,6:45:10 PM,16,1,Ryan Riesenbeck,R,Elder High School,Jake Bell,R,Moeller,4,Top,1,0,0,Fast Ball,Strike In Play,Fly Out,73,16,Shadow
+206,3/27/24,6:45:48 PM,17,1,Ryan Riesenbeck,R,Elder High School,Cale Migal,R,Moeller,4,Top,2,0,0,Fast Ball,Strike Looking,,73,13,Shadow
+207,3/27/24,6:46:05 PM,18,2,Ryan Riesenbeck,R,Elder High School,Cale Migal,R,Moeller,4,Top,2,0,1,Breaking Ball,Strike Looking,,68,26,Chase
+208,3/27/24,6:46:24 PM,19,3,Ryan Riesenbeck,R,Elder High School,Cale Migal,R,Moeller,4,Top,2,0,2,Breaking Ball,Ball,,64,39,Waste
+209,3/27/24,6:46:44 PM,20,4,Ryan Riesenbeck,R,Elder High School,Cale Migal,R,Moeller,4,Top,2,1,2,Fast Ball,Strike Foul,,70,14,Shadow
+210,3/27/24,6:47:09 PM,21,5,Ryan Riesenbeck,R,Elder High School,Cale Migal,R,Moeller,4,Top,2,1,2,Breaking Ball,Ball,,62,26,Chase
+211,3/27/24,6:47:29 PM,22,6,Ryan Riesenbeck,R,Elder High School,Cale Migal,R,Moeller,4,Top,2,2,2,Fast Ball,Strike In Play,1B,71,12,Shadow
+212,3/27/24,6:48:29 PM,23,1,Ryan Riesenbeck,R,Elder High School,Brody Foltz,R,Moeller,4,Top,2,0,0,Breaking Ball,Strike Looking,,64,26,Chase
+213,3/27/24,6:48:54 PM,24,2,Ryan Riesenbeck,R,Elder High School,Brody Foltz,R,Moeller,4,Top,2,0,1,Breaking Ball,Ball,,65,39,Waste
+214,3/27/24,6:49:13 PM,25,3,Ryan Riesenbeck,R,Elder High School,Brody Foltz,R,Moeller,4,Top,2,1,1,Fast Ball,Strike In Play,1B,70,13,Shadow
+215,3/27/24,6:50:07 PM,26,1,Ryan Riesenbeck,R,Elder High School,Will Schirmer,R,Moeller,4,Top,2,0,0,Fast Ball,Ball,,74,11,Shadow
+216,3/27/24,6:50:24 PM,27,2,Ryan Riesenbeck,R,Elder High School,Will Schirmer,R,Moeller,4,Top,2,1,0,Fast Ball,Strike Looking,,72,13,Shadow
+217,3/27/24,6:50:43 PM,28,3,Ryan Riesenbeck,R,Elder High School,Will Schirmer,R,Moeller,4,Top,2,1,1,Breaking Ball,Strike Looking,,63,16,Shadow
+218,3/27/24,6:51:03 PM,29,4,Ryan Riesenbeck,R,Elder High School,Will Schirmer,R,Moeller,4,Top,2,1,2,Other,Strike In Play,1B,68,5,Heart
+219,3/27/24,6:51:38 PM,30,1,Ryan Riesenbeck,R,Elder High School,Joey Heenan,R,Moeller,4,Top,2,0,0,Fast Ball,Strike Swing and Miss,,74,3,Heart
+220,3/27/24,6:51:56 PM,31,2,Ryan Riesenbeck,R,Elder High School,Joey Heenan,R,Moeller,4,Top,2,0,1,Fast Ball,Strike Swing and Miss,,70,13,Shadow
+221,3/27/24,6:52:17 PM,32,3,Ryan Riesenbeck,R,Elder High School,Joey Heenan,R,Moeller,4,Top,2,0,2,Breaking Ball,Ball,,65,N/A,Waste
+222,3/27/24,6:52:36 PM,33,4,Ryan Riesenbeck,R,Elder High School,Joey Heenan,R,Moeller,4,Top,2,1,2,Breaking Ball,Strike Looking,Strike Out,64,26,Chase
+223,3/27/24,6:54:55 PM,1,1,Sam Scuglik,R,Moeller,Eli Roden,L,Elder High School,4,Bottom,0,0,0,Fast Ball,Strike Looking,,81,1,Heart
+224,3/27/24,6:55:08 PM,2,2,Sam Scuglik,R,Moeller,Eli Roden,L,Elder High School,4,Bottom,0,0,1,Change Up,Ball,,78,28,Chase
+225,3/27/24,6:55:19 PM,3,3,Sam Scuglik,R,Moeller,Eli Roden,L,Elder High School,4,Bottom,0,1,1,Fast Ball,Ball,,82,38,Waste
+226,3/27/24,6:55:33 PM,4,4,Sam Scuglik,R,Moeller,Eli Roden,L,Elder High School,4,Bottom,0,2,1,Fast Ball,Ball,,78,39,Waste
+227,3/27/24,6:55:54 PM,5,5,Sam Scuglik,R,Moeller,Eli Roden,L,Elder High School,4,Bottom,0,3,1,Fast Ball,Strike Looking,,80,13,Shadow
+228,3/27/24,6:56:05 PM,6,6,Sam Scuglik,R,Moeller,Eli Roden,L,Elder High School,4,Bottom,0,3,2,Fast Ball,Strike In Play,1B,81,6,Heart
+229,3/27/24,6:56:35 PM,7,1,Sam Scuglik,R,Moeller,Carson Smith,R,Elder High School,4,Bottom,0,0,0,Fast Ball,Strike Looking,,80,14,Shadow
+230,3/27/24,6:56:52 PM,8,2,Sam Scuglik,R,Moeller,Carson Smith,R,Elder High School,4,Bottom,0,0,1,Slider,Strike Swing and Miss,,66,N/A,Waste
+231,3/27/24,6:57:10 PM,9,3,Sam Scuglik,R,Moeller,Carson Smith,R,Elder High School,4,Bottom,0,0,2,Slider,Ball,,66,39,Waste
+232,3/27/24,6:57:37 PM,10,4,Sam Scuglik,R,Moeller,Carson Smith,R,Elder High School,4,Bottom,0,1,2,Fast Ball,Ball,,81,36,Waste
+233,3/27/24,6:57:55 PM,11,5,Sam Scuglik,R,Moeller,Carson Smith,R,Elder High School,4,Bottom,0,2,2,Fast Ball,Ball,,79,39,Waste
+234,3/27/24,6:58:13 PM,12,6,Sam Scuglik,R,Moeller,Carson Smith,R,Elder High School,4,Bottom,0,3,2,Fast Ball,Strike Looking,Strike Out,81,16,Shadow
+235,3/27/24,6:58:48 PM,13,1,Sam Scuglik,R,Moeller,Zach Walter,R,Elder High School,4,Bottom,1,0,0,Fast Ball,Strike Looking,,80,13,Shadow
+236,3/27/24,6:58:58 PM,14,2,Sam Scuglik,R,Moeller,Zach Walter,R,Elder High School,4,Bottom,1,0,1,Fast Ball,Ball,,81,39,Waste
+237,3/27/24,6:59:14 PM,15,3,Sam Scuglik,R,Moeller,Zach Walter,R,Elder High School,4,Bottom,1,1,1,Fast Ball,Ball,,81,11,Shadow
+238,3/27/24,6:59:30 PM,16,4,Sam Scuglik,R,Moeller,Zach Walter,R,Elder High School,4,Bottom,1,2,1,Fast Ball,Strike Swing and Miss,,81,13,Shadow
+239,3/27/24,6:59:49 PM,17,5,Sam Scuglik,R,Moeller,Zach Walter,R,Elder High School,4,Bottom,1,2,2,Fast Ball,Strike Foul,,82,13,Shadow
+240,3/27/24,7:00:06 PM,18,6,Sam Scuglik,R,Moeller,Zach Walter,R,Elder High School,4,Bottom,1,2,2,Fast Ball,Ball,HBP,79,34,Waste
+241,3/27/24,7:00:40 PM,19,1,Sam Scuglik,R,Moeller,Colin Espelage,R,Elder High School,4,Bottom,1,0,0,Slider,Ball,,70,29,Chase
+242,3/27/24,7:01:02 PM,20,2,Sam Scuglik,R,Moeller,Colin Espelage,R,Elder High School,4,Bottom,1,1,0,Fast Ball,Ball,,82,36,Waste
+243,3/27/24,7:01:17 PM,21,3,Sam Scuglik,R,Moeller,Colin Espelage,R,Elder High School,4,Bottom,1,2,0,Fast Ball,Ball,,79,31,Waste
+244,3/27/24,7:01:33 PM,22,4,Sam Scuglik,R,Moeller,Colin Espelage,R,Elder High School,4,Bottom,1,3,0,Fast Ball,Strike Looking,,79,13,Shadow
+245,3/27/24,7:01:48 PM,23,5,Sam Scuglik,R,Moeller,Colin Espelage,R,Elder High School,4,Bottom,1,3,1,Fast Ball,Strike In Play,Fielders Choice,80,16,Shadow
+246,3/27/24,7:02:49 PM,24,1,Sam Scuglik,R,Moeller,Gus Serger,L,Elder High School,4,Bottom,2,0,0,Fast Ball,Strike Looking,,80,7,Heart
+247,3/27/24,7:02:55 PM,25,2,Sam Scuglik,R,Moeller,Gus Serger,L,Elder High School,4,Bottom,2,0,1,Fast Ball,Strike Foul,,81,5,Heart
+248,3/27/24,7:03:11 PM,26,3,Sam Scuglik,R,Moeller,Gus Serger,L,Elder High School,4,Bottom,2,0,2,Fast Ball,Strike Swing and Miss,Strike Out,76,7,Heart
+249,3/27/24,7:05:08 PM,1,1,Ryan Riesenbeck,R,Elder High School,Carter Christenson,R,Moeller,5,Top,0,0,0,Fast Ball,Ball,,72,31,Waste
+250,3/27/24,7:05:20 PM,2,2,Ryan Riesenbeck,R,Elder High School,Carter Christenson,R,Moeller,5,Top,0,1,0,Breaking Ball,Strike Looking,,69,16,Shadow
+251,3/27/24,7:05:34 PM,3,3,Ryan Riesenbeck,R,Elder High School,Carter Christenson,R,Moeller,5,Top,0,1,1,Fast Ball,Strike In Play,Ground Out,N/A,4,Heart
+252,3/27/24,7:05:58 PM,4,1,Ryan Riesenbeck,R,Elder High School,Cooper Ridley,L,Moeller,5,Top,1,0,0,Fast Ball,Ball,,67,31,Waste
+253,3/27/24,7:06:11 PM,5,2,Ryan Riesenbeck,R,Elder High School,Cooper Ridley,L,Moeller,5,Top,1,1,0,Breaking Ball,Ball,,63,24,Chase
+254,3/27/24,7:06:25 PM,6,3,Ryan Riesenbeck,R,Elder High School,Cooper Ridley,L,Moeller,5,Top,1,2,0,Fast Ball,Ball,,73,31,Waste
+255,3/27/24,7:06:39 PM,7,4,Ryan Riesenbeck,R,Elder High School,Cooper Ridley,L,Moeller,5,Top,1,3,0,Fast Ball,Ball,BB,73,34,Waste
+256,3/27/24,7:07:08 PM,8,1,Ryan Riesenbeck,R,Elder High School,Conner Cuozzo,R,Moeller,5,Top,1,0,0,Breaking Ball,Strike Looking,,65,26,Chase
+257,3/27/24,7:07:25 PM,9,2,Ryan Riesenbeck,R,Elder High School,Conner Cuozzo,R,Moeller,5,Top,1,0,1,Fast Ball,Ball,,72,39,Waste
+258,3/27/24,7:07:41 PM,10,3,Ryan Riesenbeck,R,Elder High School,Conner Cuozzo,R,Moeller,5,Top,1,1,1,Breaking Ball,Strike Swing and Miss,,65,6,Heart
+259,3/27/24,7:08:01 PM,11,4,Ryan Riesenbeck,R,Elder High School,Conner Cuozzo,R,Moeller,5,Top,1,1,2,Fast Ball,Ball,,68,38,Waste
+260,3/27/24,7:08:22 PM,12,5,Ryan Riesenbeck,R,Elder High School,Conner Cuozzo,R,Moeller,5,Top,1,2,2,Fast Ball,Ball,,73,N/A,Waste
+261,3/27/24,7:08:43 PM,13,6,Ryan Riesenbeck,R,Elder High School,Conner Cuozzo,R,Moeller,5,Top,1,3,2,Breaking Ball,Ball,BB,65,39,Waste
+262,3/27/24,7:09:07 PM,14,1,Ryan Riesenbeck,R,Elder High School,Forrest Day,L,Moeller,5,Top,1,0,0,Fast Ball,Strike In Play,Line Out,7,7,Heart
+263,3/27/24,7:09:39 PM,15,1,Ryan Riesenbeck,R,Elder High School,Jake Bell,R,Moeller,5,Top,2,0,0,Breaking Ball,Ball,,65,36,Waste
+264,3/27/24,7:09:56 PM,16,2,Ryan Riesenbeck,R,Elder High School,Jake Bell,R,Moeller,5,Top,2,1,0,Fast Ball,Ball,,72,33,Waste
+265,3/27/24,7:10:15 PM,17,3,Ryan Riesenbeck,R,Elder High School,Jake Bell,R,Moeller,5,Top,2,2,0,Breaking Ball,Ball,,63,N/A,Waste
+266,3/27/24,7:10:50 PM,18,4,Ryan Riesenbeck,R,Elder High School,Jake Bell,R,Moeller,5,Top,2,3,0,Fast Ball,Strike Looking,,74,13,Shadow
+267,3/27/24,7:11:08 PM,19,5,Ryan Riesenbeck,R,Elder High School,Jake Bell,R,Moeller,5,Top,2,3,1,Fast Ball,Ball,BB,74,36,Waste
+268,3/27/24,7:11:42 PM,20,1,Ryan Riesenbeck,R,Elder High School,Griffin Booth,R,Moeller,5,Top,2,0,0,Fast Ball,Ball,,72,38,Waste
+269,3/27/24,7:12:01 PM,21,2,Ryan Riesenbeck,R,Elder High School,Griffin Booth,R,Moeller,5,Top,2,1,0,Fast Ball,Strike Looking,,71,14,Shadow
+270,3/27/24,7:12:19 PM,22,3,Ryan Riesenbeck,R,Elder High School,Griffin Booth,R,Moeller,5,Top,2,1,1,Breaking Ball,Ball,,65,39,Waste
+271,3/27/24,7:12:38 PM,23,4,Ryan Riesenbeck,R,Elder High School,Griffin Booth,R,Moeller,5,Top,2,2,1,Fast Ball,Strike Foul,,73,13,Shadow
+272,3/27/24,7:13:03 PM,24,5,Ryan Riesenbeck,R,Elder High School,Griffin Booth,R,Moeller,5,Top,2,2,2,Fast Ball,Strike In Play,Line Out,N/A,12,Shadow
+273,3/27/24,7:15:45 PM,1,1,Tyler Heflin,R,Moeller,Joey Thamann,R,Elder High School,5,Bottom,0,0,0,Fast Ball,Ball,HBP,86,34,Waste
+274,3/27/24,7:16:19 PM,2,1,Tyler Heflin,R,Moeller,Dylan Palicki,R,Elder High School,5,Bottom,0,0,0,Fast Ball,Ball,,88,38,Waste
+275,3/27/24,7:16:37 PM,3,2,Tyler Heflin,R,Moeller,Dylan Palicki,R,Elder High School,5,Bottom,0,1,0,Fast Ball,Strike Foul,,89,14,Shadow
+276,3/27/24,7:17:00 PM,4,3,Tyler Heflin,R,Moeller,Dylan Palicki,R,Elder High School,5,Bottom,0,1,1,Fast Ball,Strike In Play,Fielders Choice,86,16,Shadow
+277,3/27/24,7:17:51 PM,5,1,Tyler Heflin,R,Moeller,Mason Schneider,L,Elder High School,5,Bottom,1,0,0,Fast Ball,Strike Foul,,88,6,Heart
+278,3/27/24,7:17:56 PM,6,2,Tyler Heflin,R,Moeller,Mason Schneider,L,Elder High School,5,Bottom,1,0,1,Fast Ball,Ball,,87,21,Chase
+279,3/27/24,7:18:13 PM,7,3,Tyler Heflin,R,Moeller,Mason Schneider,L,Elder High School,5,Bottom,1,1,1,Fast Ball,Strike Looking,,87,14,Shadow
+280,3/27/24,7:18:30 PM,8,4,Tyler Heflin,R,Moeller,Mason Schneider,L,Elder High School,5,Bottom,1,1,2,Fast Ball,Ball,,86,31,Waste
+281,3/27/24,7:18:49 PM,9,5,Tyler Heflin,R,Moeller,Mason Schneider,L,Elder High School,5,Bottom,1,2,2,Fast Ball,Ball,,87,21,Chase
+282,3/27/24,7:19:09 PM,10,6,Tyler Heflin,R,Moeller,Mason Schneider,L,Elder High School,5,Bottom,1,3,2,Fast Ball,Strike In Play,Fielders Choice,87,26,Chase
+283,3/27/24,7:19:41 PM,11,1,Tyler Heflin,R,Moeller,Ryan Riesenbeck,R,Elder High School,5,Bottom,2,0,0,Fast Ball,Strike Looking,,86,12,Shadow
+284,3/27/24,7:19:59 PM,12,2,Tyler Heflin,R,Moeller,Ryan Riesenbeck,R,Elder High School,5,Bottom,2,0,1,Fast Ball,Ball,,88,11,Shadow
+285,3/27/24,7:20:19 PM,13,3,Tyler Heflin,R,Moeller,Ryan Riesenbeck,R,Elder High School,5,Bottom,2,1,1,Fast Ball,Strike Looking,,88,14,Shadow
+286,3/27/24,7:20:34 PM,14,4,Tyler Heflin,R,Moeller,Ryan Riesenbeck,R,Elder High School,5,Bottom,2,1,2,Slider,Strike Looking,Strike Out,70,5,Heart
+1,3/30/24,1:30:49 PM,1,1,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,1,Top,0,0,0,Fast Ball,Strike Looking,,85,11,Shadow
+2,3/30/24,1:31:02 PM,2,2,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,1,Top,0,0,1,Fast Ball,Ball,,85,36,Waste
+3,3/30/24,1:31:15 PM,3,3,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,1,Top,0,1,1,Slider,Ball,,75,36,Waste
+4,3/30/24,1:31:30 PM,4,4,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,1,Top,0,2,1,Fast Ball,Strike Looking,,86,16,Shadow
+5,3/30/24,1:31:43 PM,5,5,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,1,Top,0,2,2,Fast Ball,Strike Foul,,86,13,Shadow
+6,3/30/24,1:32:05 PM,6,6,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,1,Top,0,2,2,Slider,Strike In Play,Ground Out,75,5,Heart
+7,3/30/24,1:32:34 PM,7,1,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,1,Top,1,0,0,Change Up,Ball,,78,27,Chase
+8,3/30/24,1:32:51 PM,8,2,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,1,Top,1,1,0,Fast Ball,Ball,,84,36,Waste
+9,3/30/24,1:33:07 PM,9,3,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,1,Top,1,2,0,Fast Ball,Strike In Play,Ground Out,86,8,Heart
+10,3/30/24,1:33:36 PM,10,1,Connor Fuhrer,R,Moeller,Blake Carrigan,R,Loveland High School,1,Top,2,0,0,Slider,Strike Looking,,75,5,Heart
+11,3/30/24,1:33:48 PM,11,2,Connor Fuhrer,R,Moeller,Blake Carrigan,R,Loveland High School,1,Top,2,0,1,Slider,Strike Looking,,75,12,Shadow
+12,3/30/24,1:34:02 PM,12,3,Connor Fuhrer,R,Moeller,Blake Carrigan,R,Loveland High School,1,Top,2,0,2,Slider,Strike Foul,,75,7,Heart
+13,3/30/24,1:34:20 PM,13,4,Connor Fuhrer,R,Moeller,Blake Carrigan,R,Loveland High School,1,Top,2,0,2,Fast Ball,Strike Swing and Miss,Strike Out,87,11,Shadow
+14,3/30/24,1:36:35 PM,1,1,Aiden Hansen,L,Loveland High School,Will McCullough,R,Moeller,1,Bottom,0,0,0,Fast Ball,Ball,,78,34,Waste
+15,3/30/24,1:36:49 PM,2,2,Aiden Hansen,L,Loveland High School,Will McCullough,R,Moeller,1,Bottom,0,1,0,Fast Ball,Ball,,79,33,Waste
+16,3/30/24,1:37:00 PM,3,3,Aiden Hansen,L,Loveland High School,Will McCullough,R,Moeller,1,Bottom,0,2,0,Fast Ball,Strike Looking,,78,13,Shadow
+17,3/30/24,1:37:12 PM,4,4,Aiden Hansen,L,Loveland High School,Will McCullough,R,Moeller,1,Bottom,0,2,1,Breaking Ball,Ball,,69,28,Chase
+18,3/30/24,1:37:26 PM,5,5,Aiden Hansen,L,Loveland High School,Will McCullough,R,Moeller,1,Bottom,0,3,1,Fast Ball,Strike In Play,1B,78,5,Heart
+19,3/30/24,1:38:00 PM,6,1,Aiden Hansen,L,Loveland High School,Charlie Valencic,R,Moeller,1,Bottom,0,0,0,Fast Ball,Strike In Play,Fly Out,80,13,Shadow
+20,3/30/24,1:39:09 PM,7,1,Aiden Hansen,L,Loveland High School,Matt Ponatoski,L,Moeller,1,Bottom,1,0,0,Fast Ball,Ball,,77,34,Waste
+21,3/30/24,1:39:28 PM,8,2,Aiden Hansen,L,Loveland High School,Matt Ponatoski,L,Moeller,1,Bottom,1,1,0,Fast Ball,Ball,,79,11,Shadow
+22,3/30/24,1:40:02 PM,9,3,Aiden Hansen,L,Loveland High School,Matt Ponatoski,L,Moeller,1,Bottom,1,2,0,Fast Ball,Strike In Play,HR,79,5,Heart
+23,3/30/24,1:40:45 PM,10,1,Aiden Hansen,L,Loveland High School,Carter Christenson,R,Moeller,1,Bottom,1,0,0,Fast Ball,Strike Looking,,81,17,Shadow
+24,3/30/24,1:40:56 PM,11,2,Aiden Hansen,L,Loveland High School,Carter Christenson,R,Moeller,1,Bottom,1,0,1,Change Up,Ball,,71,28,Chase
+25,3/30/24,1:41:08 PM,12,3,Aiden Hansen,L,Loveland High School,Carter Christenson,R,Moeller,1,Bottom,1,1,1,Breaking Ball,Strike Looking,,69,19,Shadow
+26,3/30/24,1:41:21 PM,13,4,Aiden Hansen,L,Loveland High School,Carter Christenson,R,Moeller,1,Bottom,1,1,2,Breaking Ball,Ball,,71,38,Waste
+27,3/30/24,1:41:36 PM,14,5,Aiden Hansen,L,Loveland High School,Carter Christenson,R,Moeller,1,Bottom,1,2,2,Fast Ball,Strike In Play,1B,80,1,Heart
+28,3/30/24,1:42:07 PM,15,1,Aiden Hansen,L,Loveland High School,Cooper Ridley,L,Moeller,1,Bottom,1,0,0,Fast Ball,Strike Looking,,81,11,Shadow
+29,3/30/24,1:42:22 PM,16,2,Aiden Hansen,L,Loveland High School,Cooper Ridley,L,Moeller,1,Bottom,1,0,1,Breaking Ball,Strike Swing and Miss,,69,5,Heart
+30,3/30/24,1:43:01 PM,17,3,Aiden Hansen,L,Loveland High School,Cooper Ridley,L,Moeller,1,Bottom,2,0,2,Change Up,Strike Swing and Miss,Strike Out,73,4,Heart
+31,3/30/24,1:44:49 PM,1,1,Connor Fuhrer,R,Moeller,Derek Fleming,R,Loveland High School,2,Top,0,0,0,Fast Ball,Strike In Play,Ground Out,83,11,Shadow
+32,3/30/24,1:45:14 PM,2,1,Connor Fuhrer,R,Moeller,Drew Oerther,L,Loveland High School,2,Top,1,0,0,Fast Ball,Strike Looking,,N/A,11,Shadow
+33,3/30/24,1:45:26 PM,3,2,Connor Fuhrer,R,Moeller,Drew Oerther,L,Loveland High School,2,Top,1,0,1,Change Up,Strike Swing and Miss,,75,1,Heart
+34,3/30/24,1:45:39 PM,4,3,Connor Fuhrer,R,Moeller,Drew Oerther,L,Loveland High School,2,Top,1,0,2,Fast Ball,Ball,,85,22,Chase
+35,3/30/24,1:45:51 PM,5,4,Connor Fuhrer,R,Moeller,Drew Oerther,L,Loveland High School,2,Top,1,1,2,Change Up,Strike Swing and Miss,Strike Out,77,4,Heart
+36,3/30/24,1:46:12 PM,6,1,Connor Fuhrer,R,Moeller,Dyan Hacker,R,Loveland High School,2,Top,2,0,0,Fast Ball,Strike Looking,,87,2,Heart
+37,3/30/24,1:46:24 PM,7,2,Connor Fuhrer,R,Moeller,Dyan Hacker,R,Loveland High School,2,Top,2,0,1,Fast Ball,Strike In Play,Ground Out,86,14,Shadow
+38,3/30/24,1:48:08 PM,1,1,Aiden Hansen,L,Loveland High School,Hanleigh Lopez,R,Moeller,2,Bottom,0,0,0,Breaking Ball,Strike Looking,,70,7,Heart
+39,3/30/24,1:48:18 PM,2,2,Aiden Hansen,L,Loveland High School,Hanleigh Lopez,R,Moeller,2,Bottom,0,0,1,Fast Ball,Strike Looking,,79,17,Shadow
+40,3/30/24,1:48:30 PM,3,3,Aiden Hansen,L,Loveland High School,Hanleigh Lopez,R,Moeller,2,Bottom,0,0,2,Breaking Ball,Ball,,69,36,Waste
+41,3/30/24,1:48:42 PM,4,4,Aiden Hansen,L,Loveland High School,Hanleigh Lopez,R,Moeller,2,Bottom,0,1,2,Breaking Ball,Ball,,70,39,Waste
+42,3/30/24,1:48:53 PM,5,5,Aiden Hansen,L,Loveland High School,Hanleigh Lopez,R,Moeller,2,Bottom,0,2,2,Fast Ball,Strike Foul,,78,17,Shadow
+43,3/30/24,1:49:11 PM,6,6,Aiden Hansen,L,Loveland High School,Hanleigh Lopez,R,Moeller,2,Bottom,0,2,2,Breaking Ball,Strike Swing and Miss,Strike Out,71,27,Chase
+44,3/30/24,1:49:37 PM,7,1,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,2,Bottom,1,0,0,Fast Ball,Ball,,79,27,Chase
+45,3/30/24,1:49:48 PM,8,2,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,2,Bottom,1,1,0,Breaking Ball,Strike Looking,,70,17,Shadow
+46,3/30/24,1:49:59 PM,9,3,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,2,Bottom,1,1,1,Breaking Ball,Strike Looking,,71,16,Shadow
+47,3/30/24,1:50:13 PM,10,4,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,2,Bottom,1,1,2,Breaking Ball,Ball,,71,39,Waste
+48,3/30/24,1:50:27 PM,11,5,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,2,Bottom,1,2,2,Breaking Ball,Strike Swing and Miss,Strike Out,70,27,Chase
+49,3/30/24,1:50:52 PM,12,1,Aiden Hansen,L,Loveland High School,Jackson Porta,R,Moeller,2,Bottom,2,0,0,Fast Ball,Ball,,81,24,Chase
+50,3/30/24,1:51:03 PM,13,2,Aiden Hansen,L,Loveland High School,Jackson Porta,R,Moeller,2,Bottom,2,1,0,Change Up,Ball,,76,36,Waste
+51,3/30/24,1:51:15 PM,14,3,Aiden Hansen,L,Loveland High School,Jackson Porta,R,Moeller,2,Bottom,2,2,0,Breaking Ball,Strike Swing and Miss,,69,38,Waste
+52,3/30/24,1:51:26 PM,15,4,Aiden Hansen,L,Loveland High School,Jackson Porta,R,Moeller,2,Bottom,2,2,1,Breaking Ball,Strike Swing and Miss,,68,38,Waste
+53,3/30/24,1:51:40 PM,16,5,Aiden Hansen,L,Loveland High School,Jackson Porta,R,Moeller,2,Bottom,2,2,2,Breaking Ball,Strike Swing and Miss,Strike Out,69,14,Shadow
+54,3/30/24,1:53:44 PM,1,1,Connor Fuhrer,R,Moeller,Andrew Breese,L,Loveland High School,3,Top,0,0,0,Fast Ball,Strike Foul,,86,2,Heart
+55,3/30/24,1:54:06 PM,2,2,Connor Fuhrer,R,Moeller,Andrew Breese,L,Loveland High School,3,Top,0,0,1,Change Up,Strike In Play,Fly Out,78,7,Heart
+56,3/30/24,1:54:36 PM,3,1,Connor Fuhrer,R,Moeller,Vinny DeSalvo,R,Loveland High School,3,Top,1,0,0,Slider,Strike Foul,,76,19,Shadow
+57,3/30/24,1:55:05 PM,4,2,Connor Fuhrer,R,Moeller,Vinny DeSalvo,R,Loveland High School,3,Top,1,0,1,Fast Ball,Ball,HBP,86,31,Waste
+58,3/30/24,1:56:00 PM,5,1,Connor Fuhrer,R,Moeller,Adam Lake,R,Loveland High School,3,Top,1,0,0,Slider,Ball,,71,39,Waste
+59,3/30/24,1:56:20 PM,6,2,Connor Fuhrer,R,Moeller,Adam Lake,R,Loveland High School,3,Top,1,1,0,Fast Ball,Ball,,N/A,N/A,Waste
+60,3/30/24,1:56:27 PM,7,3,Connor Fuhrer,R,Moeller,Adam Lake,R,Loveland High School,3,Top,1,2,0,Fast Ball,Strike Looking,,N/A,N/A,Waste
+61,3/30/24,1:57:30 PM,8,4,Connor Fuhrer,R,Moeller,Adam Lake,R,Loveland High School,3,Top,1,2,1,Not Tracked,Strike In Play,Error,N/A,N/A,Waste
+62,3/30/24,1:57:54 PM,9,1,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,3,Top,1,0,0,Not Tracked,Ball,,N/A,N/A,Waste
+63,3/30/24,1:57:56 PM,10,2,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,3,Top,1,1,0,Not Tracked,Ball,,N/A,N/A,Waste
+64,3/30/24,1:58:33 PM,11,3,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,3,Top,2,2,0,Not Tracked,Ball,,N/A,N/A,Waste
+65,3/30/24,1:58:34 PM,12,4,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,3,Top,2,3,0,Not Tracked,Ball,BB,N/A,N/A,Waste
+66,3/30/24,1:59:01 PM,13,1,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,3,Top,2,0,0,Fast Ball,Ball,,84,22,Chase
+67,3/30/24,1:59:22 PM,14,2,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,3,Top,2,1,0,Fast Ball,Strike Looking,,84,14,Shadow
+68,3/30/24,1:59:42 PM,15,3,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,3,Top,2,1,1,Fast Ball,Ball,,84,21,Chase
+69,3/30/24,2:00:08 PM,16,4,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,3,Top,2,2,1,Fast Ball,Strike In Play,Fly Out,83,13,Shadow
+70,3/30/24,2:01:48 PM,1,1,Aiden Hansen,L,Loveland High School,Kaden Snodgrass,R,Moeller,3,Bottom,0,0,0,Fast Ball,Strike Foul,,77,16,Shadow
+71,3/30/24,2:02:03 PM,2,2,Aiden Hansen,L,Loveland High School,Kaden Snodgrass,R,Moeller,3,Bottom,0,0,1,Fast Ball,Ball,,76,18,Shadow
+72,3/30/24,2:02:15 PM,3,3,Aiden Hansen,L,Loveland High School,Kaden Snodgrass,R,Moeller,3,Bottom,0,1,1,Breaking Ball,Ball,,69,11,Shadow
+73,3/30/24,2:02:27 PM,4,4,Aiden Hansen,L,Loveland High School,Kaden Snodgrass,R,Moeller,3,Bottom,0,2,1,Breaking Ball,Ball,,69,21,Chase
+74,3/30/24,2:02:40 PM,5,5,Aiden Hansen,L,Loveland High School,Kaden Snodgrass,R,Moeller,3,Bottom,0,3,1,Fast Ball,Strike Looking,,78,16,Shadow
+75,3/30/24,2:02:52 PM,6,6,Aiden Hansen,L,Loveland High School,Kaden Snodgrass,R,Moeller,3,Bottom,0,3,2,Fast Ball,Strike In Play,Error,80,2,Heart
+76,3/30/24,2:03:26 PM,7,1,Aiden Hansen,L,Loveland High School,Will McCullough,R,Moeller,3,Bottom,0,0,0,Fast Ball,Strike Foul,,78,23,Chase
+77,3/30/24,2:03:51 PM,8,2,Aiden Hansen,L,Loveland High School,Will McCullough,R,Moeller,3,Bottom,0,0,1,Breaking Ball,Strike Foul,,68,16,Shadow
+78,3/30/24,2:04:32 PM,9,3,Aiden Hansen,L,Loveland High School,Will McCullough,R,Moeller,3,Bottom,0,0,2,Fast Ball,Ball,,78,23,Chase
+79,3/30/24,2:05:38 PM,10,4,Aiden Hansen,L,Loveland High School,Will McCullough,R,Moeller,3,Bottom,0,1,2,Breaking Ball,Ball,,69,33,Waste
+80,3/30/24,2:06:15 PM,11,5,Aiden Hansen,L,Loveland High School,Will McCullough,R,Moeller,3,Bottom,0,2,2,Fast Ball,Strike Swing and Miss,Strike Out,70,3,Heart
+81,3/30/24,2:06:35 PM,12,1,Aiden Hansen,L,Loveland High School,Charlie Valencic,R,Moeller,3,Bottom,1,0,0,Fast Ball,Ball,,80,36,Waste
+82,3/30/24,2:07:02 PM,13,2,Aiden Hansen,L,Loveland High School,Charlie Valencic,R,Moeller,3,Bottom,1,1,0,Fast Ball,Strike In Play,Line Out,81,6,Heart
+83,3/30/24,2:07:40 PM,14,1,Aiden Hansen,L,Loveland High School,Matt Ponatoski,L,Moeller,3,Bottom,2,0,0,Breaking Ball,Strike Looking,,70,16,Shadow
+84,3/30/24,2:07:55 PM,15,2,Aiden Hansen,L,Loveland High School,Matt Ponatoski,L,Moeller,3,Bottom,2,0,1,Breaking Ball,Strike Foul,,70,18,Shadow
+85,3/30/24,2:08:17 PM,16,3,Aiden Hansen,L,Loveland High School,Matt Ponatoski,L,Moeller,3,Bottom,2,0,2,Fast Ball,Strike In Play,Ground Out,71,4,Heart
+86,3/30/24,2:10:53 PM,1,1,Connor Fuhrer,R,Moeller,Blake Carrigan,R,Loveland High School,4,Top,0,0,0,Slider,Strike Foul,,73,4,Heart
+87,3/30/24,2:11:27 PM,2,2,Connor Fuhrer,R,Moeller,Blake Carrigan,R,Loveland High School,4,Top,0,0,1,Fast Ball,Strike In Play,Ground Out,84,13,Shadow
+88,3/30/24,2:11:52 PM,3,1,Connor Fuhrer,R,Moeller,Derek Fleming,R,Loveland High School,4,Top,1,0,0,Fast Ball,Ball,,79,36,Waste
+89,3/30/24,2:12:06 PM,4,2,Connor Fuhrer,R,Moeller,Derek Fleming,R,Loveland High School,4,Top,1,1,0,Slider,Strike Looking,,73,5,Heart
+90,3/30/24,2:12:18 PM,5,3,Connor Fuhrer,R,Moeller,Derek Fleming,R,Loveland High School,4,Top,1,1,1,Slider,Ball,,75,39,Waste
+91,3/30/24,2:12:35 PM,6,4,Connor Fuhrer,R,Moeller,Derek Fleming,R,Loveland High School,4,Top,1,2,1,Fast Ball,Strike Foul,,85,5,Heart
+92,3/30/24,2:12:54 PM,7,5,Connor Fuhrer,R,Moeller,Derek Fleming,R,Loveland High School,4,Top,1,2,2,Slider,Strike Swing and Miss,Strike Out,76,39,Waste
+93,3/30/24,2:13:16 PM,8,1,Connor Fuhrer,R,Moeller,Drew Oerther,L,Loveland High School,4,Top,2,0,0,Fast Ball,Strike Foul,,85,5,Heart
+94,3/30/24,2:13:36 PM,9,2,Connor Fuhrer,R,Moeller,Drew Oerther,L,Loveland High School,4,Top,2,0,1,Fast Ball,Ball,,79,37,Waste
+95,3/30/24,2:13:49 PM,10,3,Connor Fuhrer,R,Moeller,Drew Oerther,L,Loveland High School,4,Top,2,1,1,Slider,Ball,,76,11,Shadow
+96,3/30/24,2:14:04 PM,11,4,Connor Fuhrer,R,Moeller,Drew Oerther,L,Loveland High School,4,Top,2,2,1,Fast Ball,Strike Foul,,84,16,Shadow
+97,3/30/24,2:14:27 PM,12,5,Connor Fuhrer,R,Moeller,Drew Oerther,L,Loveland High School,4,Top,2,2,2,Fast Ball,Ball,,80,14,Shadow
+98,3/30/24,2:14:40 PM,13,6,Connor Fuhrer,R,Moeller,Drew Oerther,L,Loveland High School,4,Top,2,3,2,Change Up,Strike In Play,Ground Out,77,28,Chase
+99,3/30/24,2:16:27 PM,1,1,Aiden Hansen,L,Loveland High School,Carter Christenson,R,Moeller,4,Bottom,0,0,0,Fast Ball,Strike Looking,,77,3,Heart
+100,3/30/24,2:16:37 PM,2,2,Aiden Hansen,L,Loveland High School,Carter Christenson,R,Moeller,4,Bottom,0,0,1,Fast Ball,Strike Looking,,77,5,Heart
+101,3/30/24,2:16:51 PM,3,3,Aiden Hansen,L,Loveland High School,Carter Christenson,R,Moeller,4,Bottom,0,0,2,Change Up,Strike In Play,Line Out,70,23,Chase
+102,3/30/24,2:17:18 PM,4,1,Aiden Hansen,L,Loveland High School,Cooper Ridley,L,Moeller,4,Bottom,1,0,0,Change Up,Ball,,70,36,Waste
+103,3/30/24,2:17:28 PM,5,2,Aiden Hansen,L,Loveland High School,Cooper Ridley,L,Moeller,4,Bottom,1,1,0,Change Up,Strike In Play,1B,69,5,Heart
+104,3/30/24,2:18:02 PM,6,1,Aiden Hansen,L,Loveland High School,Hanleigh Lopez,R,Moeller,4,Bottom,1,0,0,Fast Ball,Strike Looking,,77,13,Shadow
+105,3/30/24,2:18:19 PM,7,2,Aiden Hansen,L,Loveland High School,Hanleigh Lopez,R,Moeller,4,Bottom,1,0,1,Change Up,Strike In Play,1B,70,16,Shadow
+106,3/30/24,2:19:01 PM,8,1,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,4,Bottom,1,0,0,Change Up,Strike Swing and Miss,,71,16,Shadow
+107,3/30/24,2:19:53 PM,9,2,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,4,Bottom,1,0,1,Breaking Ball,Ball,,69,38,Waste
+108,3/30/24,2:20:09 PM,10,3,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,4,Bottom,1,1,1,Fast Ball,Strike Looking,,79,12,Shadow
+109,3/30/24,2:20:31 PM,11,4,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,4,Bottom,1,1,2,Fast Ball,Ball,,79,33,Waste
+110,3/30/24,2:20:51 PM,12,5,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,4,Bottom,1,2,2,Fast Ball,Strike Foul,,71,7,Heart
+111,3/30/24,2:21:43 PM,13,6,Aiden Hansen,L,Loveland High School,Luke Pappano,L,Moeller,4,Bottom,1,2,2,Fast Ball,Ball,HBP,79,N/A,Waste
+112,3/30/24,2:24:30 PM,1,1,Will Bertke,R,Loveland High School,Jackson Porta,R,Moeller,4,Bottom,1,0,0,Fast Ball,Strike Foul,,84,12,Shadow
+113,3/30/24,2:24:52 PM,2,2,Will Bertke,R,Loveland High School,Jackson Porta,R,Moeller,4,Bottom,1,0,1,Fast Ball,Ball,,85,39,Waste
+114,3/30/24,2:25:11 PM,3,3,Will Bertke,R,Loveland High School,Jackson Porta,R,Moeller,4,Bottom,1,1,1,Breaking Ball,Ball,,70,12,Shadow
+115,3/30/24,2:25:29 PM,4,4,Will Bertke,R,Loveland High School,Jackson Porta,R,Moeller,4,Bottom,1,2,1,Fast Ball,Strike Looking,,83,11,Shadow
+116,3/30/24,2:26:04 PM,5,5,Will Bertke,R,Loveland High School,Jackson Porta,R,Moeller,4,Bottom,1,2,2,Fast Ball,Strike Swing and Miss,Strike Out,85,23,Chase
+117,3/30/24,2:26:35 PM,6,1,Will Bertke,R,Loveland High School,Kaden Snodgrass,R,Moeller,4,Bottom,2,0,0,Breaking Ball,Ball,,69,33,Waste
+118,3/30/24,2:26:53 PM,7,2,Will Bertke,R,Loveland High School,Kaden Snodgrass,R,Moeller,4,Bottom,2,1,0,Fast Ball,Strike Looking,,83,16,Shadow
+119,3/30/24,2:27:11 PM,8,3,Will Bertke,R,Loveland High School,Kaden Snodgrass,R,Moeller,4,Bottom,2,1,1,Fast Ball,Strike Swing and Miss,,84,13,Shadow
+120,3/30/24,2:27:34 PM,9,4,Will Bertke,R,Loveland High School,Kaden Snodgrass,R,Moeller,4,Bottom,2,1,2,Fast Ball,Ball,,84,23,Chase
+121,3/30/24,2:27:55 PM,10,5,Will Bertke,R,Loveland High School,Kaden Snodgrass,R,Moeller,4,Bottom,2,2,2,Fast Ball,Strike In Play,Fielders Choice,84,16,Shadow
+122,3/30/24,2:30:03 PM,1,1,Connor Fuhrer,R,Moeller,Dyan Hacker,R,Loveland High School,5,Top,0,0,0,Slider,Ball,,74,39,Waste
+123,3/30/24,2:30:18 PM,2,2,Connor Fuhrer,R,Moeller,Dyan Hacker,R,Loveland High School,5,Top,0,1,0,Fast Ball,Strike Foul,,83,16,Shadow
+124,3/30/24,2:30:36 PM,3,3,Connor Fuhrer,R,Moeller,Dyan Hacker,R,Loveland High School,5,Top,0,1,1,Fast Ball,Strike In Play,Ground Out,77,5,Heart
+125,3/30/24,2:31:03 PM,4,1,Connor Fuhrer,R,Moeller,Andrew Breese,L,Loveland High School,5,Top,1,0,0,Slider,Ball,,77,27,Chase
+126,3/30/24,2:31:16 PM,5,2,Connor Fuhrer,R,Moeller,Andrew Breese,L,Loveland High School,5,Top,1,1,0,Slider,Strike Looking,,74,1,Heart
+127,3/30/24,2:31:29 PM,6,3,Connor Fuhrer,R,Moeller,Andrew Breese,L,Loveland High School,5,Top,1,1,1,Fast Ball,Ball,,83,22,Chase
+128,3/30/24,2:31:42 PM,7,4,Connor Fuhrer,R,Moeller,Andrew Breese,L,Loveland High School,5,Top,1,2,1,Fast Ball,Strike Looking,,82,16,Shadow
+129,3/30/24,2:31:54 PM,8,5,Connor Fuhrer,R,Moeller,Andrew Breese,L,Loveland High School,5,Top,1,2,2,Slider,Strike Swing and Miss,Strike Out,7,27,Chase
+130,3/30/24,2:32:50 PM,9,1,Connor Fuhrer,R,Moeller,Brent Pigman,N/A,Loveland High School,5,Top,2,0,0,Slider,Ball,,73,31,Waste
+131,3/30/24,2:33:02 PM,10,2,Connor Fuhrer,R,Moeller,Brent Pigman,N/A,Loveland High School,5,Top,2,1,0,Slider,Strike Swing and Miss,,74,19,Shadow
+132,3/30/24,2:33:16 PM,11,3,Connor Fuhrer,R,Moeller,Brent Pigman,N/A,Loveland High School,5,Top,2,1,1,Slider,Strike In Play,Ground Out,74,16,Shadow
+133,3/30/24,2:36:10 PM,1,1,Will Bertke,R,Loveland High School,Will McCullough,R,Moeller,5,Bottom,0,0,0,Fast Ball,Ball,HBP,82,34,Waste
+134,3/30/24,2:36:56 PM,2,1,Will Bertke,R,Loveland High School,Charlie Valencic,R,Moeller,5,Bottom,0,0,0,Fast Ball,Strike Foul,,80,9,Heart
+135,3/30/24,2:37:23 PM,3,2,Will Bertke,R,Loveland High School,Charlie Valencic,R,Moeller,5,Bottom,0,0,1,Fast Ball,Strike In Play,Sacrifice,81,16,Shadow
+136,3/30/24,2:38:11 PM,4,1,Will Bertke,R,Loveland High School,Matt Ponatoski,L,Moeller,5,Bottom,1,0,0,Fast Ball,Strike Looking,,8,16,Shadow
+137,3/30/24,2:38:28 PM,5,2,Will Bertke,R,Loveland High School,Matt Ponatoski,L,Moeller,5,Bottom,1,0,1,Fast Ball,Ball,,82,21,Chase
+138,3/30/24,2:39:09 PM,6,3,Will Bertke,R,Loveland High School,Matt Ponatoski,L,Moeller,5,Bottom,2,1,1,Breaking Ball,Strike Looking,,70,2,Heart
+139,3/30/24,2:39:26 PM,7,4,Will Bertke,R,Loveland High School,Matt Ponatoski,L,Moeller,5,Bottom,2,1,2,Fast Ball,Strike Looking,Strike Out,83,8,Heart
+140,3/30/24,2:41:24 PM,1,1,Connor Fuhrer,R,Moeller,Adam Lake,R,Loveland High School,6,Top,0,0,0,Fast Ball,Ball,,82,13,Shadow
+141,3/30/24,2:41:34 PM,2,2,Connor Fuhrer,R,Moeller,Adam Lake,R,Loveland High School,6,Top,0,1,0,Slider,Strike Looking,,75,16,Shadow
+142,3/30/24,2:41:46 PM,3,3,Connor Fuhrer,R,Moeller,Adam Lake,R,Loveland High School,6,Top,0,1,1,Fast Ball,Strike Foul,,83,13,Shadow
+143,3/30/24,2:42:02 PM,4,4,Connor Fuhrer,R,Moeller,Adam Lake,R,Loveland High School,6,Top,0,1,2,Slider,Strike Looking,Strike Out,74,5,Heart
+144,3/30/24,2:42:29 PM,5,1,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,6,Top,1,0,0,Slider,Strike Looking,,74,16,Shadow
+145,3/30/24,2:42:39 PM,6,2,Connor Fuhrer,R,Moeller,Brady Stidham,R,Loveland High School,6,Top,1,0,1,Slider,Strike In Play,Fly Out,75,5,Heart
+146,3/30/24,2:43:16 PM,7,1,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,6,Top,2,0,0,Slider,Ball,,76,26,Chase
+147,3/30/24,2:43:20 PM,8,2,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,6,Top,2,1,0,Slider,Ball,,76,28,Chase
+148,3/30/24,2:43:30 PM,9,3,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,6,Top,2,2,0,Fast Ball,Strike Looking,,84,3,Heart
+149,3/30/24,2:43:43 PM,10,4,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,6,Top,2,2,1,Slider,Ball,,75,36,Waste
+150,3/30/24,2:43:57 PM,11,5,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,6,Top,2,3,1,Fast Ball,Strike Looking,,83,12,Shadow
+151,3/30/24,2:44:14 PM,12,6,Connor Fuhrer,R,Moeller,CJ Margraf,L,Loveland High School,6,Top,2,3,2,Slider,Strike In Play,1B,74,29,Chase
+152,3/30/24,2:44:43 PM,13,1,Connor Fuhrer,R,Moeller,Blake Carrigan,R,Loveland High School,6,Top,2,0,0,Fast Ball,Strike In Play,Fly Out,8,9,Heart
+153,3/30/24,2:47:22 PM,1,1,Andrew Kitts,R,Loveland High School,Carter Christenson,R,Moeller,6,Bottom,0,0,0,Fast Ball,Ball,,83,36,Waste
+154,3/30/24,2:47:38 PM,2,2,Andrew Kitts,R,Loveland High School,Carter Christenson,R,Moeller,6,Bottom,0,1,0,Fast Ball,Strike Looking,,81,16,Shadow
+155,3/30/24,2:47:59 PM,3,3,Andrew Kitts,R,Loveland High School,Carter Christenson,R,Moeller,6,Bottom,0,1,1,Fast Ball,Ball,,85,39,Waste
+156,3/30/24,2:48:14 PM,4,4,Andrew Kitts,R,Loveland High School,Carter Christenson,R,Moeller,6,Bottom,0,2,1,Breaking Ball,Strike Looking,,71,3,Heart
+157,3/30/24,2:48:33 PM,5,5,Andrew Kitts,R,Loveland High School,Carter Christenson,R,Moeller,6,Bottom,0,2,2,Breaking Ball,Ball,,71,22,Chase
+158,3/30/24,2:48:52 PM,6,6,Andrew Kitts,R,Loveland High School,Carter Christenson,R,Moeller,6,Bottom,0,3,2,Fast Ball,Strike In Play,1B,8,29,Chase
+159,3/30/24,2:49:37 PM,7,1,Andrew Kitts,R,Loveland High School,Cooper Ridley,L,Moeller,6,Bottom,0,0,0,Fast Ball,Strike Looking,,82,16,Shadow
+160,3/30/24,2:49:55 PM,8,2,Andrew Kitts,R,Loveland High School,Cooper Ridley,L,Moeller,6,Bottom,0,0,1,Fast Ball,Strike Looking,,84,19,Shadow
+161,3/30/24,2:50:19 PM,9,3,Andrew Kitts,R,Loveland High School,Cooper Ridley,L,Moeller,6,Bottom,0,0,2,Breaking Ball,Ball,,72,22,Chase
+162,3/30/24,2:50:55 PM,10,4,Andrew Kitts,R,Loveland High School,Cooper Ridley,L,Moeller,6,Bottom,0,1,2,Fast Ball,Strike In Play,Line Out,82,29,Chase
+163,3/30/24,2:51:29 PM,11,1,Andrew Kitts,R,Loveland High School,Hanleigh Lopez,R,Moeller,6,Bottom,1,0,0,Breaking Ball,Ball,,71,12,Shadow
+164,3/30/24,2:51:46 PM,12,2,Andrew Kitts,R,Loveland High School,Hanleigh Lopez,R,Moeller,6,Bottom,1,1,0,Fast Ball,Strike Looking,,83,19,Shadow
+165,3/30/24,2:52:01 PM,13,3,Andrew Kitts,R,Loveland High School,Hanleigh Lopez,R,Moeller,6,Bottom,1,1,1,Breaking Ball,Strike Looking,,72,3,Heart
+166,3/30/24,2:52:19 PM,14,4,Andrew Kitts,R,Loveland High School,Hanleigh Lopez,R,Moeller,6,Bottom,1,1,2,Fast Ball,Ball,,84,39,Waste
+167,3/30/24,2:52:43 PM,15,5,Andrew Kitts,R,Loveland High School,Hanleigh Lopez,R,Moeller,6,Bottom,1,2,2,Fast Ball,Strike In Play,1B,83,13,Shadow
+168,3/30/24,2:53:45 PM,16,1,Andrew Kitts,R,Loveland High School,Luke Pappano,L,Moeller,6,Bottom,1,0,0,Fast Ball,Ball,,83,22,Chase
+169,3/30/24,2:54:04 PM,17,2,Andrew Kitts,R,Loveland High School,Luke Pappano,L,Moeller,6,Bottom,1,1,0,Fast Ball,Ball,,83,28,Chase
+170,3/30/24,2:54:40 PM,18,3,Andrew Kitts,R,Loveland High School,Luke Pappano,L,Moeller,6,Bottom,1,2,0,Fast Ball,Ball,,N/A,26,Chase
+171,3/30/24,2:54:43 PM,19,4,Andrew Kitts,R,Loveland High School,Luke Pappano,L,Moeller,6,Bottom,1,3,0,Fast Ball,Ball,BB,N/A,36,Waste
+172,3/30/24,2:55:01 PM,20,1,Andrew Kitts,R,Loveland High School,Forrest Day,L,Moeller,6,Bottom,1,0,0,Fast Ball,Ball,,82,21,Chase
+173,3/30/24,2:55:19 PM,21,2,Andrew Kitts,R,Loveland High School,Forrest Day,L,Moeller,6,Bottom,1,1,0,Fast Ball,Ball,,83,N/A,Waste
+174,3/30/24,2:55:34 PM,22,3,Andrew Kitts,R,Loveland High School,Forrest Day,L,Moeller,6,Bottom,1,2,0,Fast Ball,Strike In Play,Fielders Choice,N/A,19,Shadow
+175,3/30/24,2:58:26 PM,1,1,Sam Scuglik,R,Moeller,Derek Fleming,R,Loveland High School,7,Top,0,0,0,Fast Ball,Strike In Play,1B,82,1,Heart
+176,3/30/24,2:59:16 PM,2,1,Sam Scuglik,R,Moeller,Drew Oerther,L,Loveland High School,7,Top,0,0,0,Change Up,Strike Looking,,77,14,Shadow
+177,3/30/24,2:59:33 PM,3,2,Sam Scuglik,R,Moeller,Drew Oerther,L,Loveland High School,7,Top,0,0,1,Change Up,Ball,,77,38,Waste
+178,3/30/24,2:59:57 PM,4,3,Sam Scuglik,R,Moeller,Drew Oerther,L,Loveland High School,7,Top,0,1,1,Fast Ball,Ball,,82,39,Waste
+179,3/30/24,3:00:12 PM,5,4,Sam Scuglik,R,Moeller,Drew Oerther,L,Loveland High School,7,Top,0,2,1,Fast Ball,Ball,,82,39,Waste
+180,3/30/24,3:00:32 PM,6,5,Sam Scuglik,R,Moeller,Drew Oerther,L,Loveland High School,7,Top,0,3,1,Fast Ball,Strike Looking,,82,11,Shadow
+181,3/30/24,3:00:51 PM,7,6,Sam Scuglik,R,Moeller,Drew Oerther,L,Loveland High School,7,Top,0,3,2,Change Up,Strike Looking,Strike Out,77,4,Heart
+182,3/30/24,3:01:20 PM,8,1,Sam Scuglik,R,Moeller,Dyan Hacker,R,Loveland High School,7,Top,1,0,0,Change Up,Strike Looking,,78,16,Shadow
+183,3/30/24,3:01:41 PM,9,2,Sam Scuglik,R,Moeller,Dyan Hacker,R,Loveland High School,7,Top,1,0,1,Fast Ball,Ball,,81,23,Chase
+184,3/30/24,3:02:01 PM,10,3,Sam Scuglik,R,Moeller,Dyan Hacker,R,Loveland High School,7,Top,1,1,1,Slider,Ball,,66,14,Shadow
+185,3/30/24,3:02:37 PM,11,4,Sam Scuglik,R,Moeller,Dyan Hacker,R,Loveland High School,7,Top,1,2,1,Fast Ball,Strike Swing and Miss,,83,13,Shadow
+186,3/30/24,3:03:16 PM,12,5,Sam Scuglik,R,Moeller,Dyan Hacker,R,Loveland High School,7,Top,1,2,2,Fast Ball,Ball,,83,N/A,Waste
+187,3/30/24,3:03:41 PM,13,6,Sam Scuglik,R,Moeller,Dyan Hacker,R,Loveland High School,7,Top,1,3,2,Fast Ball,Strike Foul,,83,13,Shadow
+188,3/30/24,3:04:02 PM,14,7,Sam Scuglik,R,Moeller,Dyan Hacker,R,Loveland High School,7,Top,1,3,2,Change Up,Ball,BB,78,21,Chase
+189,3/30/24,3:05:08 PM,15,1,Sam Scuglik,R,Moeller,Henry Bradley,R,Loveland High School,7,Top,1,0,0,Fast Ball,Ball,,81,16,Shadow
+190,3/30/24,3:05:36 PM,16,2,Sam Scuglik,R,Moeller,Henry Bradley,R,Loveland High School,7,Top,1,1,0,Fast Ball,Strike Looking,,82,19,Shadow
+191,3/30/24,3:06:09 PM,17,3,Sam Scuglik,R,Moeller,Henry Bradley,R,Loveland High School,7,Top,1,1,1,Fast Ball,Strike In Play,Ground Out,83,19,Shadow
+192,3/30/24,3:07:18 PM,18,1,Sam Scuglik,R,Moeller,Alex Proano-Raps,R,Loveland High School,7,Top,2,0,0,Fast Ball,Strike Looking,,83,13,Shadow
+193,3/30/24,3:07:33 PM,19,2,Sam Scuglik,R,Moeller,Alex Proano-Raps,R,Loveland High School,7,Top,2,0,1,Fast Ball,Ball,,83,29,Chase
+194,3/30/24,3:07:48 PM,20,3,Sam Scuglik,R,Moeller,Alex Proano-Raps,R,Loveland High School,7,Top,2,1,1,Fast Ball,Ball,,82,31,Waste
+195,3/30/24,3:08:06 PM,21,4,Sam Scuglik,R,Moeller,Alex Proano-Raps,R,Loveland High School,7,Top,2,2,1,Fast Ball,Strike Swing and Miss,,83,13,Shadow
+196,3/30/24,3:08:25 PM,22,5,Sam Scuglik,R,Moeller,Alex Proano-Raps,R,Loveland High School,7,Top,2,2,2,Fast Ball,Strike Swing and Miss,Strike Out,82,13,Shadow
