@@ -1,0 +1,430 @@
+---
+title: "Moeller data 2024 Ongoing"
+author: "Ian Bach"
+date: "2024-04-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The dataset utilized in the "Moeller data" project comprises comprehensive baseball statistics from Moeller, focusing on a range of variables significant to understanding game dynamics and player performance. 
+
+It includes detailed entries for each pitch, annotated with information about the batter, the count (balls and strikes), the pitch result (e.g., "Strike Looking"), and which team the batter belongs to. 
+
+The data is stored in a CSV format, ensuring easy accessibility and manipulation using R programming tools. This dataset is particularly tailored for analyzing specific in-game scenarios, such as the incidence of strikes when the count is favorable to the batter. 
+
+By examining these detailed metrics, the project aims to derive insights that could influence team strategies and player coaching, offering a granular view of performance during crucial game moments.
+
+```{r Moeller Data}
+# Load required libraries
+library(dplyr)   # For data manipulation
+library(ggplot2) # For data visualization
+library(readr)   # Enhanced data reading capabilities
+library(scales)  # For percentage formatting
+library(gridExtra)  # For arranging multiple plots
+library(purrr)
+library(tidyr)
+# Set the working directory
+setwd("C:/Users/ibach/OneDrive - Terillium/Pictures/Moller Misc/Updated_data")
+
+# Read the CSV file
+df <- read.csv('UPDATED_Moeller_Baseball_2024.csv')
+
+# View the data frame
+head(df)
+```
+
+```{r Analysis of Strike Looking Incidence for Moeller Batters with Specific Count and Strike Scenario, echo=FALSE}
+# Filter the original dataframe to include only rows where the batter has 1 ball, 0 strikes, and is from the 'Moeller' team
+filtered_df <- df %>%
+  filter(Balls == 1, Strikes == 0, BatterTeam == 'Moeller')
+
+# Count the number of pitches that resulted in a 'Strike Looking' from the filtered dataframe
+strike_looking_count <- sum(filtered_df$PitchResult == 'Strike Looking', na.rm = TRUE)
+
+# Count the total number of entries in the filtered dataframe
+total_count <- nrow(filtered_df)
+
+# Create percentage looking equation
+percentage_strike_looking <- (strike_looking_count / total_count) * 100
+
+# Output the shape of the filtered dataframe (number of rows, number of columns)
+dim(filtered_df)
+
+```
+```{r Calculation of Specific Pitch and At-Bat Outcomes in Filtered Data}
+# Assuming dplyr is already loaded and filtered_df has been defined as per your previous request.
+
+# Create Strike Swinging count by filtering Pitch Results = 'Strike Swing and Miss'
+strike_swinging_count <- filtered_df %>%
+  filter(PitchResult == "Strike Swing and Miss") %>%
+  nrow()
+
+# Filtered count for pitch result to 'Strike Foul'
+strike_foul_count <- filtered_df %>%
+  filter(PitchResult == "Strike Foul") %>%
+  nrow()
+
+# Filtered count for pitch result to 'Strike In Play'
+strike_inplay_count <- filtered_df %>%
+  filter(PitchResult == "Strike In Play") %>%
+  nrow()
+
+# Filtered count for pitch result as 'Ball'
+ball_count <- filtered_df %>%
+  filter(PitchResult == "Ball") %>%
+  nrow()
+
+# Filtered count for AtBatResult as 1B, 2B, 3B, HR
+hit_count <- filtered_df %>%
+  filter(AtBatResult %in% c('1B', '2B', '3B', 'HR')) %>%
+  nrow()
+
+```
+
+
+```{r Calculation of Pitch Outcome Percentages from Total Pitch Counts}
+# Calculate the percentage of Strike Swinging
+percentage_strike_swinging <- (strike_swinging_count / total_count) * 100
+
+# Calculate the percentage of Strike Foul
+percentage_strike_foul <- (strike_foul_count / total_count) * 100
+
+# Calculate the percentage of Strike In Play
+percentage_strike_inplay <- (strike_inplay_count / total_count) * 100
+
+# Calculate the percentage of Balls
+percentage_ball <- (ball_count / total_count) * 100
+
+# Calculate the percentage of Hits
+percentage_hit <- (hit_count / total_count) * 100
+
+```
+
+
+```{r Visualization of Pitch Outcome Percentages in a 1-0 Count for the 2024 Season}
+# Load the ggplot2 library for visualization
+library(ggplot2)
+
+# Create a data frame for plotting
+data <- data.frame(
+  Category = c('Strike Swinging', 'Strike Foul', 'Strike In Play', 'Strike Looking', 'Ball', 'Hit'),
+  Count = c(percentage_strike_swinging, percentage_strike_foul, percentage_strike_inplay, percentage_strike_looking, percentage_ball, percentage_hit),
+  Fill = rep(c('navy', 'gold'), each = 3)
+)
+
+# Create the bar graph
+ggplot(data, aes(x = Category, y = Count, fill = Fill)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_identity() +
+  labs(title = "1-0 Count Outcome % 2024 Season", x = "Outcome", y = "%") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))  # Adjust x labels for better readability
+
+```
+```{r Creation of DF and Visualization to create Pitch Result % for Moeller Pitchers}
+# Extract the unique values from the 'PitchResult' column of the dataframe to see all possible outcomes
+unique_pitch_results <- unique(df$PitchResult)
+
+# Creation of Strike events
+strike_events <- c('Strike Looking', 'Strike Swing and Miss', 'Strike Foul')
+
+# Add a new column 'is_strike' initialized to 0 and set to 1 where 'PitchResult' is in the list of strike events
+df <- df %>%
+  mutate(is_strike = ifelse(PitchResult %in% strike_events, 1, 0))
+
+# Initialize a new column 'is_moeller_pitcher' with 0 and set to 1 where 'PitcherTeam' is 'Moeller'
+df <- df %>%
+  mutate(is_moeller_pitcher = ifelse(PitcherTeam == 'Moeller', 1, 0))
+
+# Create a dataframe to calculate the mean of 'is_strike' for each 'Pitcher' and 'PitchType' for Moeller pitchers
+df1 <- df %>%
+  filter(is_moeller_pitcher == 1) %>%
+  group_by(Pitcher, PitchType) %>%
+  summarise(Strike_Percentage = mean(is_strike, na.rm = TRUE) * 100) %>%
+  ungroup() %>%
+  mutate(Strike_Percentage = round(Strike_Percentage, 2))
+
+# Create another dataframe to count occurrences of each 'PitchType' for Moeller pitchers
+df2 <- df %>%
+  filter(is_moeller_pitcher == 1) %>%
+  group_by(Pitcher, PitchType) %>%
+  summarise(Count = n()) %>%
+  ungroup()
+
+# Merge the two dataframes on 'Pitcher' and 'PitchType'
+df3 <- merge(df1, df2, by = c("Pitcher", "PitchType"))
+
+# Print the merged dataframe
+print(df3)
+
+```
+```{r Generation of Individual Bar Plots for Strike Percentages by Pitch Type for Each Pitcher}
+# Loop through each unique pitcher in 'df3'
+unique_pitchers <- unique(df3$Pitcher)
+
+for (pitcher in unique_pitchers) {
+  print(pitcher)  # Print the pitcher's name
+  
+  # Create a data frame 'df_plt' containing data for the current pitcher in the loop
+  df_plt <- filter(df3, Pitcher == pitcher)
+  
+  # Create barplot
+  p <- ggplot(df_plt, aes(x = Strike_Percentage, y = reorder(PitchType, Strike_Percentage), fill = PitchType)) +
+    geom_bar(stat = "identity", position = "dodge") +
+    labs(title = paste('2024 Season Strike Percentage by Pitch Type -', pitcher), x = "Strike Percentage", y = "Pitch Type") +
+    scale_x_continuous(labels = percent_format(scale = 1)) +  # Assuming the values are already in percentages
+    theme_minimal()
+  
+  print(p)  # Display the plot
+}
+
+```
+
+```{r Faceted Bar Chart Visualization of Strike Percentages by Pitch Type for Each Pitcher}
+
+
+```
+
+```{r Creation of a new DF called Offspeed:}
+# Organize pitch type data to include only 'Change Up' and 'Breaking Ball' for Moeller Hitters
+offspeed <- df %>%
+  filter(PitchType %in% c('Change Up', 'Breaking Ball'), BatterTeam == 'Moeller')
+
+# Print the top entries of the offspeed data frame
+print(head(offspeed))
+
+```
+
+```{r Counting Specific Pitch Outcomes for Offspeed Pitches}
+# Count on Strike Swing and Miss
+offstrike_swinging_count <- offspeed %>%
+  filter(PitchResult == 'Strike Swing and Miss') %>%
+  nrow()
+
+# Count on Strike Looking
+offstrike_looking_count <- offspeed %>%
+  filter(PitchResult == 'Strike Looking') %>%
+  nrow()
+
+# Count on Strike Foul
+offstrike_foul_count <- offspeed %>%
+  filter(PitchResult == 'Strike Foul') %>%
+  nrow()
+
+# Count on Strike In Play
+offstrike_inplay_count <- offspeed %>%
+  filter(PitchResult == 'Strike In Play') %>%
+  nrow()
+
+# Count on Ball
+offball_count <- offspeed %>%
+  filter(PitchResult == 'Ball') %>%
+  nrow()
+
+# Count on results 1B, 2B, 3B, and HR
+offhit_count <- offspeed %>%
+  filter(AtBatResult %in% c('1B', '2B', '3B', 'HR')) %>%
+  nrow()
+
+# Total count of offspeed pitches
+offtotal_count <- nrow(offspeed)
+
+```
+
+
+```{r Calculation of Pitch Outcome Percentages for Offspeed Pitches}
+if(offtotal_count == 0) {
+  print("Total count cannot be zero.")
+} else {
+ # Calculate percentages
+offpercentage_strike_swinging <- (offstrike_swinging_count / offtotal_count) * 100
+offpercentage_strike_looking <- (offstrike_looking_count / offtotal_count) * 100
+offpercentage_strike_foul <- (offstrike_foul_count / offtotal_count) * 100
+offpercentage_strike_inplay <- (offstrike_inplay_count / offtotal_count) * 100
+offpercentage_ball <- (offball_count / offtotal_count) * 100
+offpercentage_hit <- (offhit_count / offtotal_count) * 100
+
+}
+
+# Print the results
+print(paste("Strike Swinging Percentage:", offpercentage_strike_swinging))
+print(paste("Strike Looking Percentage:", offpercentage_strike_looking))
+print(paste("Strike Foul Percentage:", offpercentage_strike_foul))
+print(paste("Strike In Play Percentage:", offpercentage_strike_inplay))
+print(paste("Offspeed Ball Percentage:", offpercentage_ball))
+print(paste("Offspeed Hit Percentage:", offpercentage_hit))
+
+```
+
+```{r Visualization of Pitch Outcomes for Moeller Hitters in the 2024 Season}
+# Define the categories and counts
+categories <- c('Strike Swinging', 'Strike Foul', 'Strike In Play', 'Strike Looking', 'Ball', 'Hit')
+counts <- c(offpercentage_strike_swinging, offpercentage_strike_foul, offpercentage_strike_inplay, offpercentage_strike_looking, offpercentage_ball, offpercentage_hit)
+
+# Create a data frame for plotting
+data <- data.frame(Category = categories, Count = counts)
+
+# Create a bar chart
+ggplot(data, aes(x = Category, y = Count, fill = Category)) +
+  geom_bar(stat = "identity", color = "black") +
+  geom_text(aes(label = sprintf("%.2f%%", Count)), vjust = -0.3, size = 3.5) +
+  scale_fill_manual(values = c('navy', 'gold', 'navy', 'gold', 'navy', 'gold')) +
+  labs(title = "Breaking Ball/Changeup Outcome (Moeller Hitters) % 2024 Season",
+       x = "Outcome",
+       y = "%") +
+  theme_minimal()
+
+```
+
+```{r Analysis of Pitcher Attack Zone Effectiveness and Frequency for Moeller Pitchers}
+# Creation of DF to Mean Attack Zone
+df4 <- df %>%
+  filter(is_moeller_pitcher == 1) %>%
+  group_by(Pitcher, AttackZone) %>%
+  summarise(Strike_Percent = mean(is_strike, na.rm = TRUE)) %>%
+  ungroup() %>%
+  mutate(Strike_Percent = round(Strike_Percent * 100, 2))
+
+# Creation of DF to Count Attack Zone
+df5 <- df %>%
+  filter(is_moeller_pitcher == 1) %>%
+  group_by(Pitcher, AttackZone) %>%
+  summarise(Count = n()) %>%
+  ungroup()
+
+# Merge DF4 with DF5 to create df_attack
+df_attack <- merge(df4, df5, by = c("Pitcher", "AttackZone"))
+
+# Removing rows with blank AttackZone
+df_attack <- df_attack %>%
+  filter(AttackZone != "" & !is.na(AttackZone))
+
+# Print the final data frame
+print(df_attack)
+
+
+```
+```{r Faceted Visualization of Strike Percentages by Attack Zone for Each Pitcher}
+# Ensure the data is correct
+df_attack$Pitcher <- as.factor(df_attack$Pitcher)  # Ensure 'Pitcher' is a factor
+
+# Create the plot
+g <- ggplot(df_attack, aes(x = Strike_Percent, y = reorder(AttackZone, Strike_Percent))) +
+  geom_bar(stat = "identity", fill = "blue") +
+  facet_wrap(~Pitcher, scales = "free", ncol = 4) +
+  scale_x_continuous(labels = percent_format(scale = 1), 
+                     breaks = seq(0, 100, 10)) +  # Set breaks at every 10%
+  labs(title = "2024 Season Strike Percentage by Attack Zone",
+       x = "Strike Percentage",
+       y = "Attack Zone") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))  # Adjust text for better visibility
+
+# Print the plot
+print(g)
+
+
+```
+
+```{r Analysis of Pitch Results for Moeller Team Batters Against Left-Handed Pitchers Non Facet}
+
+# Ensure the data is correct
+df_attack$Pitcher <- as.factor(df_attack$Pitcher)
+
+# Get unique pitchers
+pitchers <- unique(df_attack$Pitcher)
+
+# Create a list to store ggplot objects
+plot_list <- list()
+
+# Iterate over each pitcher to create plots
+for (pitcher in pitchers) {
+  df_plt <- filter(df_attack, Pitcher == pitcher)  # Filter data for the pitcher
+  p <- ggplot(df_plt, aes(x = Strike_Percent, y = reorder(AttackZone, Strike_Percent))) +
+    geom_bar(stat = "identity", fill = "blue") +
+    labs(title = paste("2024 Season Strike Percentage by Attack Zone -", pitcher),
+         x = "Strike Percentage",
+         y = "Attack Zone") +
+    theme_minimal() + 
+    theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
+  print(p)
+}
+
+
+```
+
+```{r Comprehensive Analysis of Pitch Results for Moeller Batters Against Left-Handed Pitchers}
+
+# Initialize a new column 'is_moeller_hitter' in the dataframe 'df' and set its default value to 0
+df$is_moeller_hitter <- 0
+
+# Update this column to 1 for rows where the 'BatterTeam' is 'Moeller'
+df$is_moeller_hitter[df$BatterTeam == "Moeller"] <- 1
+
+# Retrieve and display the unique values from the 'PitchResult' column
+unique(df$PitchResult)
+
+# Filter 'df' to select various conditions and create summaries
+# Use a function to streamline the process
+create_summary <- function(result) {
+  df %>%
+    filter(is_moeller_hitter == 1, PitcherHand == "L", PitchResult == result) %>%
+    count(Batter, name = result)
+}
+
+# Creating individual summaries for each type of pitch result
+df_strike_looking <- create_summary("Strike Looking")
+df_strike_in_play <- create_summary("Strike In Play")
+df_ball <- create_summary("Ball")
+df_whiff <- create_summary("Strike Swing and Miss")
+df_foul <- create_summary("Strike Foul")
+
+# Merge multiple dataframes sequentially using 'Batter' as the key column
+df_merged <- reduce(list(df_strike_looking, df_strike_in_play, df_ball, df_whiff, df_foul), 
+                    full_join, by = "Batter")
+
+# Print the final merged dataframe
+print(df_merged)
+
+```
+
+```{r Hitter Visualization Comprehensive Analysis of Pitch Results for Moeller Batters Against Left-Handed Pitchers}
+
+# Assuming 'df_merged' is your final dataframe
+# Check if the data needs to be reshaped from wide to long format
+df_long <- df_merged %>%
+  pivot_longer(cols = c('Strike Looking', 'Strike In Play', 'Ball', 'Strike Swing and Miss', 'Strike Foul'),
+               names_to = "PitchResult", values_to = "Count")
+
+# Create a list to store ggplot objects, if you want to plot them all at once later
+plot_list <- list()
+
+# Create a plot for each batter
+batters <- unique(df_long$Batter)
+for (batter in batters) {
+  # Filter the data for one batter
+  df_batter <- filter(df_long, Batter == batter)
+
+  # Generate the plot
+  p <- ggplot(df_batter, aes(x = PitchResult, y = Count, fill = PitchResult)) +
+    geom_bar(stat = "identity") +
+    theme_minimal() +
+    labs(title = paste("Pitch Result Counts for", batter),
+         x = "Pitch Result Type",
+         y = "Count") +
+    scale_fill_brewer(palette = "Set3")  # Color palette
+
+  # Print the plot directly
+  print(p)
+  
+  # Store the plot in the list
+  plot_list[[batter]] <- p
+}
+
+```
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
