@@ -55,8 +55,6 @@ dim(filtered_df)
 
 ```
 ```{r Calculation of Specific Pitch and At-Bat Outcomes in Filtered Data}
-# Assuming dplyr is already loaded and filtered_df has been defined as per your previous request.
-
 # Create Strike Swinging count by filtering Pitch Results = 'Strike Swing and Miss'
 strike_swinging_count <- filtered_df %>%
   filter(PitchResult == "Strike Swing and Miss") %>%
@@ -105,9 +103,6 @@ percentage_hit <- (hit_count / total_count) * 100
 
 
 ```{r Visualization of Pitch Outcome Percentages in a 1-0 Count for the 2024 Season}
-# Load the ggplot2 library for visualization
-library(ggplot2)
-
 # Create a data frame for plotting
 data <- data.frame(
   Category = c('Strike Swinging', 'Strike Foul', 'Strike In Play', 'Strike Looking', 'Ball', 'Hit'),
